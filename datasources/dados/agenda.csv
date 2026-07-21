@@ -1,0 +1,1208 @@
+data,horario,cliente_id,cliente_nome,profissional,procedimento,forma_pagamento,status
+2026-01-01,09:00,CLI0060,Srta. Maria Cecília Novais,Biom. Juliana Faria,Microagulhamento,Particular,realizado
+2026-01-01,09:00,CLI0073,Ana Vitória Pacheco,Biom. Juliana Faria,Peeling químico,Particular,realizado
+2026-01-01,09:00,CLI0123,Dra. Emanuelly Vargas,Dra. Camila Torres,Depilação a laser,Pix,cancelado
+2026-01-01,09:30,CLI0093,Larissa Vasconcelos,Est. Renata Souza,Botox,Cartão crédito,confirmado
+2026-01-01,10:30,CLI0033,Agatha Fogaça,Dra. Camila Torres,Botox,Convênio empresa,confirmado
+2026-01-01,11:00,CLI0113,Ana Cecília Albuquerque,Biom. Juliana Faria,Botox,Pix,realizado
+2026-01-01,13:30,CLI0190,Dra. Raquel Macedo,Est. Renata Souza,Avaliação inicial,Cartão crédito,confirmado
+2026-01-01,14:00,CLI0191,Bella Ramos,Biom. Juliana Faria,Limpeza de pele,Cartão débito,realizado
+2026-01-01,14:30,CLI0004,Heloisa Barbosa,Est. Renata Souza,Harmonização facial,Particular,cancelado
+2026-01-01,15:30,CLI0075,Ana Camargo,Biom. Juliana Faria,Harmonização facial,Convênio empresa,realizado
+2026-01-02,09:30,CLI0062,Olivia Souza,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-01-02,10:00,CLI0161,Olivia Almeida,Est. Renata Souza,Preenchimento labial,Convênio empresa,realizado
+2026-01-02,10:30,CLI0145,Srta. Cecilia Moreira,Dra. Camila Torres,Limpeza de pele,Cartão débito,realizado
+2026-01-02,10:30,CLI0110,Manuella Pimenta,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-01-02,13:30,CLI0098,Ana Carolina Camargo,Dra. Patricia Melo,Peeling químico,Convênio empresa,confirmado
+2026-01-02,15:00,CLI0148,Dra. Rebeca Azevedo,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-01-02,16:00,CLI0143,Lorena Azevedo,Dra. Patricia Melo,Limpeza de pele,Pix,confirmado
+2026-01-05,08:00,CLI0154,Maria Júlia Freitas,Dra. Patricia Melo,Microagulhamento,Pix,confirmado
+2026-01-05,08:00,CLI0065,Rafaela Nogueira,Dra. Camila Torres,Limpeza de pele,Particular,confirmado
+2026-01-05,08:00,CLI0151,Bianca da Cunha,Est. Renata Souza,Botox,Cartão débito,realizado
+2026-01-05,09:00,CLI0037,Maria Helena Gonçalves,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-01-05,10:00,CLI0176,Fernanda Moura,Est. Renata Souza,Limpeza de pele,Particular,cancelado
+2026-01-05,10:30,CLI0060,Srta. Maria Cecília Novais,Est. Renata Souza,Harmonização facial,Particular,realizado
+2026-01-05,14:00,CLI0030,Srta. Ana Cecília Carvalho,Biom. Juliana Faria,Preenchimento facial,Particular,realizado
+2026-01-05,14:00,CLI0129,Dra. Emilly Jesus,Dra. Patricia Melo,Harmonização facial,Pix,realizado
+2026-01-05,14:00,CLI0121,Ana Sophia Jesus,Dra. Patricia Melo,Peeling químico,Particular,realizado
+2026-01-05,15:30,CLI0116,Sra. Yasmin Viana,Dra. Patricia Melo,Peeling químico,Pix,realizado
+2026-01-05,15:30,CLI0153,Alice Silva,Est. Renata Souza,Harmonização facial,Convênio empresa,realizado
+2026-01-05,15:30,CLI0120,Mirella Gomes,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-01-06,08:00,CLI0106,Dra. Maria Luiza Rocha,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-01-06,10:30,CLI0081,Srta. Larissa Sousa,Est. Renata Souza,Preenchimento labial,Cartão crédito,cancelado
+2026-01-06,10:30,CLI0053,Luiza Pastor,Biom. Juliana Faria,Peeling químico,Cartão crédito,cancelado
+2026-01-06,11:00,CLI0042,Srta. Lunna Marques,Dra. Patricia Melo,Harmonização facial,Cartão débito,realizado
+2026-01-06,13:00,CLI0090,Rafaela Moraes,Est. Renata Souza,Microagulhamento,Cartão débito,realizado
+2026-01-06,13:00,CLI0170,Lara Araújo,Dra. Camila Torres,Harmonização facial,Cartão crédito,realizado
+2026-01-06,13:30,CLI0179,Pietra Pereira,Dra. Camila Torres,Botox,Convênio empresa,confirmado
+2026-01-06,14:00,CLI0004,Heloisa Barbosa,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-01-06,15:30,CLI0062,Olivia Souza,Biom. Juliana Faria,Peeling químico,Convênio empresa,confirmado
+2026-01-06,16:00,CLI0160,Vitória Moraes,Dra. Patricia Melo,Harmonização facial,Convênio empresa,realizado
+2026-01-06,17:00,CLI0163,Maitê Leão,Dra. Patricia Melo,Preenchimento labial,Cartão débito,cancelado
+2026-01-06,17:00,CLI0132,Maria Júlia Peixoto,Dra. Camila Torres,Avaliação inicial,Cartão débito,cancelado
+2026-01-07,09:00,CLI0119,Luana Lopes,Biom. Juliana Faria,Harmonização facial,Particular,realizado
+2026-01-07,10:00,CLI0121,Ana Sophia Jesus,Dra. Patricia Melo,Avaliação inicial,Particular,realizado
+2026-01-07,10:00,CLI0099,Olivia Mendes,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,realizado
+2026-01-07,14:30,CLI0151,Bianca da Cunha,Dra. Patricia Melo,Preenchimento facial,Cartão débito,cancelado
+2026-01-07,15:30,CLI0131,Hadassa Lima,Est. Renata Souza,Depilação a laser,Particular,cancelado
+2026-01-07,16:00,CLI0198,Clarice da Rosa,Dra. Patricia Melo,Microagulhamento,Convênio empresa,confirmado
+2026-01-07,17:00,CLI0069,Isabella da Cruz,Dra. Camila Torres,Peeling químico,Cartão débito,realizado
+2026-01-08,08:00,CLI0139,Rafaela Fogaça,Dra. Camila Torres,Limpeza de pele,Convênio empresa,realizado
+2026-01-08,10:30,CLI0178,Bianca Cavalcante,Dra. Camila Torres,Botox,Particular,realizado
+2026-01-08,11:00,CLI0124,Luara Araújo,Est. Renata Souza,Avaliação inicial,Convênio empresa,confirmado
+2026-01-08,11:00,CLI0068,Dra. Maria Gomes,Dra. Patricia Melo,Preenchimento labial,Cartão crédito,realizado
+2026-01-08,13:00,CLI0147,Maya Correia,Biom. Juliana Faria,Depilação a laser,Cartão crédito,realizado
+2026-01-08,13:30,CLI0097,Isis Machado,Est. Renata Souza,Limpeza de pele,Cartão crédito,realizado
+2026-01-08,14:00,CLI0033,Agatha Fogaça,Est. Renata Souza,Preenchimento labial,Convênio empresa,cancelado
+2026-01-08,14:00,CLI0026,Sophie da Rocha,Dra. Patricia Melo,Botox,Cartão crédito,realizado
+2026-01-08,15:00,CLI0195,Milena Leão,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-01-08,15:30,CLI0082,Natália Silva,Dra. Patricia Melo,Depilação a laser,Pix,cancelado
+2026-01-08,15:30,CLI0059,Ágatha Pimenta,Dra. Camila Torres,Depilação a laser,Pix,realizado
+2026-01-08,16:00,CLI0170,Lara Araújo,Biom. Juliana Faria,Harmonização facial,Cartão crédito,realizado
+2026-01-08,17:00,CLI0105,Lavínia Oliveira,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,cancelado
+2026-01-08,17:00,CLI0173,Amanda Moura,Dra. Patricia Melo,Microagulhamento,Particular,cancelado
+2026-01-09,09:00,CLI0045,Yasmin da Costa,Dra. Patricia Melo,Limpeza de pele,Pix,cancelado
+2026-01-09,09:30,CLI0150,Clara Cunha,Biom. Juliana Faria,Harmonização facial,Cartão crédito,realizado
+2026-01-09,10:30,CLI0118,Isabel Peixoto,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-01-09,11:00,CLI0076,Sabrina Sampaio,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-01-09,14:00,CLI0063,Emanuella Brito,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,realizado
+2026-01-09,14:00,CLI0174,Srta. Alice Vieira,Biom. Juliana Faria,Preenchimento labial,Convênio empresa,cancelado
+2026-01-12,10:00,CLI0078,Isis da Costa,Dra. Patricia Melo,Harmonização facial,Convênio empresa,realizado
+2026-01-12,10:00,CLI0163,Maitê Leão,Est. Renata Souza,Preenchimento facial,Cartão débito,realizado
+2026-01-12,10:30,CLI0151,Bianca da Cunha,Dra. Patricia Melo,Peeling químico,Cartão débito,cancelado
+2026-01-12,11:00,CLI0076,Sabrina Sampaio,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-01-12,13:00,CLI0061,Aylla Cunha,Est. Renata Souza,Peeling químico,Particular,realizado
+2026-01-12,14:30,CLI0009,Srta. Ayla Cardoso,Est. Renata Souza,Preenchimento facial,Cartão crédito,realizado
+2026-01-12,15:00,CLI0161,Olivia Almeida,Dra. Camila Torres,Peeling químico,Convênio empresa,cancelado
+2026-01-12,16:00,CLI0199,Daniela Pacheco,Biom. Juliana Faria,Microagulhamento,Convênio empresa,realizado
+2026-01-12,16:00,CLI0034,Olivia Abreu,Est. Renata Souza,Avaliação inicial,Particular,confirmado
+2026-01-12,17:00,CLI0006,Alice Carvalho,Dra. Patricia Melo,Peeling químico,Cartão crédito,realizado
+2026-01-12,17:00,CLI0145,Srta. Cecilia Moreira,Dra. Camila Torres,Harmonização facial,Cartão débito,realizado
+2026-01-13,08:00,CLI0121,Ana Sophia Jesus,Est. Renata Souza,Limpeza de pele,Particular,realizado
+2026-01-13,09:00,CLI0138,Lara Vargas,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-01-13,09:00,CLI0127,Srta. Alícia Fogaça,Dra. Camila Torres,Limpeza de pele,Cartão débito,confirmado
+2026-01-13,09:30,CLI0030,Srta. Ana Cecília Carvalho,Dra. Camila Torres,Botox,Particular,realizado
+2026-01-13,10:30,CLI0043,Gabrielly Gomes,Dra. Patricia Melo,Peeling químico,Convênio empresa,realizado
+2026-01-13,13:00,CLI0150,Clara Cunha,Est. Renata Souza,Preenchimento labial,Cartão crédito,realizado
+2026-01-13,13:30,CLI0030,Srta. Ana Cecília Carvalho,Dra. Camila Torres,Preenchimento facial,Particular,realizado
+2026-01-13,15:30,CLI0174,Srta. Alice Vieira,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-01-13,16:00,CLI0024,Beatriz Novaes,Dra. Patricia Melo,Botox,Particular,realizado
+2026-01-13,17:00,CLI0163,Maitê Leão,Dra. Patricia Melo,Peeling químico,Cartão débito,cancelado
+2026-01-14,10:00,CLI0071,Clarice da Rosa,Dra. Camila Torres,Harmonização facial,Cartão débito,realizado
+2026-01-14,10:00,CLI0170,Lara Araújo,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-01-14,11:00,CLI0177,Maria Helena Câmara,Biom. Juliana Faria,Harmonização facial,Particular,cancelado
+2026-01-14,13:30,CLI0100,Marcela Silva,Est. Renata Souza,Avaliação inicial,Convênio empresa,cancelado
+2026-01-14,14:30,CLI0126,Mariah Rodrigues,Dra. Patricia Melo,Peeling químico,Cartão débito,realizado
+2026-01-14,15:00,CLI0140,Dra. Hellena Pacheco,Est. Renata Souza,Botox,Cartão crédito,cancelado
+2026-01-14,15:30,CLI0151,Bianca da Cunha,Biom. Juliana Faria,Depilação a laser,Cartão débito,realizado
+2026.01.20,17:00,CLI0061,Aylla Cunha,Est. Renata Souza,Preenchimento labial,Particular,realizado
+2026-01-15,09:00,CLI0135,Srta. Bella Costa,Dra. Camila Torres,Harmonização facial,Particular,cancelado
+2026-01-15,09:30,CLI0199,Daniela Pacheco,Dra. Camila Torres,Peeling químico,Convênio empresa,realizado
+2026-01-15,10:30,CLI0045,Yasmin da Costa,Dra. Camila Torres,Preenchimento facial,Pix,cancelado
+2026-01-15,11:00,CLI0200,Marina Guerra,Dra. Camila Torres,Harmonização facial,Cartão débito,confirmado
+2026-01-15,14:00,CLI0034,Olivia Abreu,Est. Renata Souza,Preenchimento facial,Particular,realizado
+2026-01-15,14:30,CLI0054,Emilly Vasconcelos,Biom. Juliana Faria,Limpeza de pele,Particular,realizado
+2026-01-15,16:00,CLI0033,Agatha Fogaça,Biom. Juliana Faria,Preenchimento labial,Convênio empresa,confirmado
+2026-01-15,16:00,CLI0092,Luna Farias,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-01-15,17:00,CLI0170,Lara Araújo,Dra. Camila Torres,Preenchimento facial,Cartão crédito,realizado
+2026-01-16,08:00,CLI0158,Carolina Correia,Est. Renata Souza,Harmonização facial,Pix,realizado
+2026-01-16,09:00,CLI0111,Zoe da Mata,Dra. Camila Torres,Avaliação inicial,Pix,realizado
+2026-01-16,10:30,CLI0136,Maria Eduarda Rocha,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,confirmado
+2026-01-16,13:00,CLI0117,Hadassa Novaes,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-01-16,13:30,CLI0016,Julia Casa Grande,Dra. Patricia Melo,Depilação a laser,Cartão crédito,realizado
+2026-01-16,13:30,CLI0111,Zoe da Mata,Biom. Juliana Faria,Depilação a laser,Pix,realizado
+2026-01-16,14:30,CLI0083,Lavínia Gomes,Biom. Juliana Faria,Preenchimento labial,Pix,realizado
+2026-01-16,14:30,CLI0071,Clarice da Rosa,Est. Renata Souza,Depilação a laser,Cartão débito,confirmado
+2026-01-16,15:30,CLI0126,Mariah Rodrigues,Dra. Patricia Melo,Preenchimento labial,Cartão débito,realizado
+2026-01-19,08:00,CLI0143,Lorena Azevedo,Est. Renata Souza,Preenchimento labial,Pix,cancelado
+2026-01-19,09:30,CLI0002,Allana Aparecida,Biom. Juliana Faria,Depilação a laser,Cartão crédito,realizado
+2026-01-19,10:00,CLI0130,Maria Helena Casa Grande,Biom. Juliana Faria,Harmonização facial,Convênio empresa,realizado
+2026-01-19,10:00,CLI0147,Maya Correia,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,confirmado
+2026-01-19,10:30,CLI0154,Maria Júlia Freitas,Est. Renata Souza,Preenchimento labial,Pix,confirmado
+2026-01-19,10:30,CLI0047,Maria Fernanda da Luz,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-01-19,11:00,CLI0028,Sophie Camargo,Est. Renata Souza,Preenchimento labial,Pix,realizado
+2026-01-19,13:00,CLI0024,Beatriz Novaes,Dra. Camila Torres,Microagulhamento,Particular,realizado
+2026-01-19,13:30,CLI0176,Fernanda Moura,Dra. Camila Torres,Preenchimento labial,Particular,realizado
+2026-01-19,15:00,CLI0081,Srta. Larissa Sousa,Est. Renata Souza,Microagulhamento,Cartão crédito,realizado
+2026-01-19,15:00,CLI0158,Carolina Correia,Dra. Camila Torres,Peeling químico,Pix,realizado
+2026-01-19,17:00,CLI0091,Clarice Aragão,Dra. Patricia Melo,Botox,Particular,realizado
+2026-01-20,09:00,CLI0153,Alice Silva,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-01-20,11:00,CLI0041,Alícia Costela,Est. Renata Souza,Microagulhamento,Pix,confirmado
+2026-01-20,11:00,CLI0030,Srta. Ana Cecília Carvalho,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-01-20,13:00,CLI0056,Yasmin Caldeira,Dra. Patricia Melo,Harmonização facial,Convênio empresa,realizado
+2026-01-20,13:00,CLI0114,Ana Liz Sampaio,Est. Renata Souza,Limpeza de pele,Particular,confirmado
+2026-01-20,14:30,CLI0194,Anna Liz Carvalho,Dra. Camila Torres,Preenchimento labial,Pix,realizado
+2026-01-20,15:00,CLI0190,Dra. Raquel Macedo,Dra. Camila Torres,Preenchimento labial,Cartão crédito,confirmado
+2026-01-20,15:00,CLI0114,Ana Liz Sampaio,Dra. Patricia Melo,Harmonização facial,Particular,confirmado
+2026-01-21,08:00,CLI0190,Dra. Raquel Macedo,Dra. Patricia Melo,Botox,Cartão crédito,cancelado
+2026-01-21,08:00,CLI0104,Ana Silva,Est. Renata Souza,Preenchimento facial,Convênio empresa,confirmado
+2026-01-21,09:00,CLI0084,Ana Beatriz Cassiano,Dra. Camila Torres,Harmonização facial,Pix,cancelado
+2026-01-21,09:30,CLI0045,Yasmin da Costa,Dra. Patricia Melo,Avaliação inicial,Pix,realizado
+2026-01-21,10:00,CLI0078,Isis da Costa,Biom. Juliana Faria,Peeling químico,Convênio empresa,realizado
+2026-01-21,10:00,CLI0028,Sophie Camargo,Dra. Patricia Melo,Depilação a laser,Pix,confirmado
+2026-01-21,13:00,CLI0021,Maria Isis da Mota,Est. Renata Souza,Microagulhamento,Pix,realizado
+2026-01-21,14:00,CLI0129,Dra. Emilly Jesus,Est. Renata Souza,Preenchimento labial,Pix,cancelado
+2026-01-21,14:30,CLI0102,Zoe Viana,Dra. Camila Torres,Botox,Particular,realizado
+2026-01-21,15:00,CLI0135,Srta. Bella Costa,Est. Renata Souza,Botox,Particular,realizado
+2026-01-21,15:30,CLI0104,Ana Silva,Dra. Patricia Melo,Peeling químico,Convênio empresa,realizado
+2026-01-21,17:00,CLI0020,Sra. Clarice Abreu,Est. Renata Souza,Depilação a laser,Convênio empresa,confirmado
+2026-01-21,17:00,CLI0118,Isabel Peixoto,Est. Renata Souza,Preenchimento labial,Pix,cancelado
+2026-01-22,08:00,CLI0010,Maria Liz Cardoso,Est. Renata Souza,Peeling químico,Particular,realizado
+2026-01-22,09:00,CLI0130,Maria Helena Casa Grande,Est. Renata Souza,Harmonização facial,Convênio empresa,cancelado
+2026-01-22,09:30,CLI0200,Marina Guerra,Dra. Camila Torres,Avaliação inicial,Cartão débito,realizado
+2026-01-22,10:30,CLI0038,Srta. Maria Helena Aparecida,Biom. Juliana Faria,Preenchimento facial,Cartão débito,confirmado
+2026-01-22,10:30,CLI0162,Dra. Clara Campos,Est. Renata Souza,Botox,Cartão crédito,realizado
+2026-01-22,13:30,CLI0039,Dra. Manuella Albuquerque,Dra. Camila Torres,Harmonização facial,Cartão crédito,cancelado
+2026-01-22,14:00,CLI0136,Maria Eduarda Rocha,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-01-22,16:00,CLI0040,Gabrielly da Cunha,Dra. Camila Torres,Preenchimento facial,Convênio empresa,cancelado
+2026-01-22,16:00,CLI0119,Luana Lopes,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-01-22,17:00,CLI0187,Sra. Beatriz Pacheco,Biom. Juliana Faria,Limpeza de pele,Cartão débito,realizado
+2026-01-22,17:00,CLI0166,Joana Araújo,Dra. Camila Torres,Avaliação inicial,Pix,cancelado
+2026-01-23,08:00,CLI0039,Dra. Manuella Albuquerque,Dra. Patricia Melo,Preenchimento labial,Cartão crédito,realizado
+2026-01-23,09:00,CLI0183,Isabela Silva,Biom. Juliana Faria,Botox,Cartão crédito,realizado
+2026-01-23,09:00,CLI0182,Luísa Farias,Est. Renata Souza,Avaliação inicial,Pix,cancelado
+2026-01-23,09:30,CLI0157,Brenda Cavalcanti,Est. Renata Souza,Microagulhamento,Cartão débito,realizado
+2026-01-23,10:00,CLI0167,Sra. Olívia Cardoso,Est. Renata Souza,Harmonização facial,Particular,confirmado
+2026-01-23,10:30,CLI0073,Ana Vitória Pacheco,Biom. Juliana Faria,Microagulhamento,Particular,realizado
+2026-01-23,11:00,CLI0017,Heloísa Nunes,Dra. Camila Torres,Avaliação inicial,Pix,cancelado
+2026-01-23,13:00,CLI0100,Marcela Silva,Est. Renata Souza,Botox,Convênio empresa,realizado
+2026-01-23,13:30,CLI0182,Luísa Farias,Dra. Patricia Melo,Avaliação inicial,Pix,confirmado
+2026-01-23,14:00,CLI0149,Maria Helena Fernandes,Dra. Camila Torres,Harmonização facial,Cartão crédito,confirmado
+2026-01-23,15:00,CLI0150,Clara Cunha,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-01-23,15:30,CLI0168,Camila da Conceição,Dra. Patricia Melo,Preenchimento facial,Particular,confirmado
+2026-01-23,16:00,CLI0165,Liz Oliveira,Est. Renata Souza,Preenchimento facial,Cartão débito,confirmado
+2026-01-26,09:30,CLI0036,Luísa Dias,Dra. Camila Torres,Peeling químico,Pix,realizado
+2026-01-26,11:00,CLI0005,Sra. Ana Vitória Borges,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-01-26,14:30,CLI0034,Olivia Abreu,Dra. Patricia Melo,Preenchimento facial,Particular,realizado
+2026-01-26,15:00,CLI0166,Joana Araújo,Dra. Patricia Melo,Avaliação inicial,Pix,realizado
+2026-01-26,16:00,CLI0088,Sra. Bruna Albuquerque,Dra. Patricia Melo,Limpeza de pele,Pix,realizado
+2026-01-26,16:00,CLI0130,Maria Helena Casa Grande,Dra. Camila Torres,Microagulhamento,Convênio empresa,confirmado
+2026-01-26,17:00,CLI0047,Maria Fernanda da Luz,Biom. Juliana Faria,Harmonização facial,Convênio empresa,realizado
+2026-01-27,09:00,CLI0073,Ana Vitória Pacheco,Biom. Juliana Faria,Peeling químico,Particular,cancelado
+2026-01-27,09:30,CLI0155,Cecília Vasconcelos,Est. Renata Souza,Botox,Pix,cancelado
+2026-01-27,09:30,CLI0132,Maria Júlia Peixoto,Dra. Patricia Melo,Preenchimento labial,Cartão débito,realizado
+2026-01-27,10:30,CLI0062,Olivia Souza,Dra. Patricia Melo,Limpeza de pele,Convênio empresa,realizado
+2026-01-27,11:00,CLI0116,Sra. Yasmin Viana,Dra. Camila Torres,Depilação a laser,Pix,realizado
+2026-01-27,11:00,CLI0021,Maria Isis da Mota,Biom. Juliana Faria,Botox,Pix,realizado
+2026-01-27,13:00,CLI0200,Marina Guerra,Dra. Patricia Melo,Preenchimento facial,Cartão débito,realizado
+2026-01-27,14:00,CLI0096,Mirella Araújo,Dra. Camila Torres,Avaliação inicial,Particular,realizado
+2026-01-27,14:00,CLI0102,Zoe Viana,Est. Renata Souza,Limpeza de pele,Particular,cancelado
+2026-01-27,14:30,CLI0174,Srta. Alice Vieira,Dra. Patricia Melo,Harmonização facial,Convênio empresa,realizado
+2026-01-27,15:00,CLI0094,Srta. Ana Lívia Vieira,Biom. Juliana Faria,Harmonização facial,Convênio empresa,confirmado
+2026-01-27,16:00,CLI0073,Ana Vitória Pacheco,Dra. Patricia Melo,Limpeza de pele,Particular,confirmado
+2026-01-28,09:00,CLI0078,Isis da Costa,Dra. Camila Torres,Limpeza de pele,Convênio empresa,cancelado
+2026-01-28,10:00,CLI0066,Hadassa Sá,Biom. Juliana Faria,Avaliação inicial,Cartão crédito,confirmado
+2026-01-28,10:30,CLI0010,Maria Liz Cardoso,Dra. Patricia Melo,Preenchimento facial,Particular,cancelado
+2026-01-28,13:00,CLI0136,Maria Eduarda Rocha,Dra. Camila Torres,Peeling químico,Cartão crédito,realizado
+2026-01-28,14:30,CLI0115,Zoe Ferreira,Dra. Camila Torres,Preenchimento labial,Cartão débito,realizado
+2026-01-28,15:00,CLI0183,Isabela Silva,Est. Renata Souza,Preenchimento facial,Cartão crédito,realizado
+2026-01-28,16:00,CLI0164,Agatha Silva,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-01-29,08:00,CLI0192,Srta. Ana Beatriz Barros,Est. Renata Souza,Preenchimento labial,Cartão débito,realizado
+2026-01-29,08:00,CLI0052,Laís Nogueira,Biom. Juliana Faria,Botox,Particular,realizado
+2026-01-29,09:30,CLI0107,Lorena Duarte,Dra. Camila Torres,Avaliação inicial,Cartão débito,confirmado
+2026-01-29,11:00,CLI0012,Gabriela Macedo,Est. Renata Souza,Preenchimento facial,Pix,cancelado
+2026-01-29,13:30,CLI0179,Pietra Pereira,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,realizado
+2026-01-29,14:00,CLI0153,Alice Silva,Dra. Camila Torres,Avaliação inicial,Convênio empresa,confirmado
+2026-01-29,14:00,CLI0018,Laís Dias,Dra. Camila Torres,Depilação a laser,Cartão débito,cancelado
+2026-01-29,14:00,CLI0080,Heloisa Câmara,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,cancelado
+2026-01-29,14:30,CLI0001,Lavínia Jesus,Est. Renata Souza,Limpeza de pele,Particular,confirmado
+2026-01-29,15:00,CLI0012,Gabriela Macedo,Dra. Patricia Melo,Microagulhamento,Pix,realizado
+2026-01-29,15:30,CLI0062,Olivia Souza,Biom. Juliana Faria,Peeling químico,Convênio empresa,cancelado
+2026-01-29,15:30,CLI0062,Olivia Souza,Dra. Camila Torres,Microagulhamento,Convênio empresa,realizado
+2026-01-29,16:00,CLI0184,Lunna Gonçalves,Dra. Patricia Melo,Botox,Cartão débito,realizado
+2026-01-30,08:00,CLI0200,Marina Guerra,Est. Renata Souza,Peeling químico,Cartão débito,realizado
+2026-01-30,09:00,CLI0083,Lavínia Gomes,Dra. Camila Torres,Microagulhamento,Pix,realizado
+2026-01-30,09:30,CLI0087,Sra. Maria Vitória Oliveira,Dra. Patricia Melo,Harmonização facial,Cartão crédito,realizado
+2026-01-30,10:30,CLI0133,Amanda Moraes,Dra. Camila Torres,Depilação a laser,Cartão crédito,realizado
+2026-01-30,10:30,CLI0112,Bella Oliveira,Dra. Camila Torres,Preenchimento labial,Cartão débito,cancelado
+2026-01-30,13:00,CLI0095,Beatriz Cirino,Dra. Patricia Melo,Harmonização facial,Particular,cancelado
+2026-01-30,13:30,CLI0079,Lunna Cardoso,Dra. Patricia Melo,Preenchimento facial,Particular,cancelado
+2026-01-30,13:30,CLI0090,Rafaela Moraes,Dra. Camila Torres,Microagulhamento,Cartão débito,confirmado
+2026-01-30,14:30,CLI0111,Zoe da Mata,Biom. Juliana Faria,Avaliação inicial,Pix,realizado
+2026-01-30,16:00,CLI0010,Maria Liz Cardoso,Biom. Juliana Faria,Peeling químico,Particular,realizado
+2026-02-02,08:00,CLI0146,Maria Eduarda Machado,Biom. Juliana Faria,Harmonização facial,Cartão débito,realizado
+2026-02-02,08:00,CLI0030,Srta. Ana Cecília Carvalho,Biom. Juliana Faria,Harmonização facial,Particular,confirmado
+2026-02-02,09:00,CLI0052,Laís Nogueira,Biom. Juliana Faria,Preenchimento labial,Particular,cancelado
+2026-02-02,10:00,CLI0018,Laís Dias,Est. Renata Souza,Microagulhamento,Cartão débito,cancelado
+2026-02-02,13:00,CLI0094,Srta. Ana Lívia Vieira,Est. Renata Souza,Peeling químico,Convênio empresa,realizado
+2026-02-02,13:30,CLI0096,Mirella Araújo,Dra. Camila Torres,Preenchimento facial,Particular,confirmado
+2026-02-02,13:30,CLI0181,Aurora Brito,Biom. Juliana Faria,Peeling químico,Particular,cancelado
+2026-02-02,14:00,CLI0100,Marcela Silva,Dra. Camila Torres,Peeling químico,Convênio empresa,realizado
+2026-02-02,15:00,CLI0156,Srta. Nicole Sá,Dra. Patricia Melo,Botox,Convênio empresa,realizado
+2026-02-02,15:30,CLI0045,Yasmin da Costa,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-02-02,16:00,CLI0132,Maria Júlia Peixoto,Biom. Juliana Faria,Botox,Cartão débito,realizado
+2026-02-03,08:00,CLI0127,Srta. Alícia Fogaça,Est. Renata Souza,Avaliação inicial,Cartão débito,confirmado
+2026-02-03,09:00,CLI0182,Luísa Farias,Est. Renata Souza,Peeling químico,Pix,realizado
+2026-02-03,09:00,CLI0058,Sabrina da Mata,Biom. Juliana Faria,Preenchimento facial,Particular,realizado
+2026-02-03,09:00,CLI0165,Liz Oliveira,Dra. Patricia Melo,Harmonização facial,Cartão débito,confirmado
+2026-02-03,09:30,CLI0089,Sra. Liz Oliveira,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,cancelado
+2026-02-03,10:30,CLI0040,Gabrielly da Cunha,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,realizado
+2026-02-03,13:00,CLI0080,Heloisa Câmara,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,cancelado
+2026-02-03,13:00,CLI0197,Ana Liz Moraes,Dra. Camila Torres,Preenchimento facial,Cartão débito,realizado
+2026-02-03,13:30,CLI0095,Beatriz Cirino,Biom. Juliana Faria,Preenchimento labial,Particular,realizado
+2026-02-03,15:30,CLI0183,Isabela Silva,Biom. Juliana Faria,Microagulhamento,Cartão crédito,confirmado
+2026-02-03,17:00,CLI0129,Dra. Emilly Jesus,Dra. Camila Torres,Preenchimento labial,Pix,confirmado
+2026-02-04,08:00,CLI0021,Maria Isis da Mota,Est. Renata Souza,Limpeza de pele,Pix,confirmado
+2026-02-04,13:00,CLI0176,Fernanda Moura,Est. Renata Souza,Harmonização facial,Particular,realizado
+2026-02-04,14:00,CLI0089,Sra. Liz Oliveira,Est. Renata Souza,Preenchimento labial,Convênio empresa,realizado
+2026-02-04,14:00,CLI0158,Carolina Correia,Dra. Camila Torres,Avaliação inicial,Pix,realizado
+2026-02-04,14:30,CLI0152,Isabel Montenegro,Biom. Juliana Faria,Preenchimento facial,Particular,confirmado
+2026-02-04,14:30,CLI0185,Aylla Souza,Est. Renata Souza,Botox,Pix,realizado
+2026-02-04,14:30,CLI0107,Lorena Duarte,Dra. Camila Torres,Harmonização facial,Cartão débito,confirmado
+2026-02-04,15:00,CLI0051,Marina Rodrigues,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-02-04,15:00,CLI0075,Ana Camargo,Est. Renata Souza,Harmonização facial,Convênio empresa,realizado
+2026-02-05,09:00,CLI0120,Mirella Gomes,Est. Renata Souza,Harmonização facial,Convênio empresa,realizado
+2026-02-05,09:00,CLI0037,Maria Helena Gonçalves,Dra. Camila Torres,Peeling químico,Convênio empresa,cancelado
+2026-02-05,11:00,CLI0053,Luiza Pastor,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-02-05,11:00,CLI0195,Milena Leão,Dra. Camila Torres,Microagulhamento,Pix,realizado
+2026-02-05,13:30,CLI0041,Alícia Costela,Dra. Patricia Melo,Harmonização facial,Pix,cancelado
+2026-02-05,17:00,CLI0188,Sara Rezende,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-02-06,09:00,CLI0006,Alice Carvalho,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,cancelado
+2026-02-06,10:00,CLI0062,Olivia Souza,Est. Renata Souza,Botox,Convênio empresa,realizado
+2026-02-06,11:00,CLI0185,Aylla Souza,Biom. Juliana Faria,Preenchimento facial,Pix,cancelado
+2026-02-06,13:00,CLI0012,Gabriela Macedo,Dra. Camila Torres,Avaliação inicial,Pix,realizado
+2026-02-06,13:00,CLI0025,Dra. Ana Lívia Barros,Est. Renata Souza,Microagulhamento,Cartão crédito,confirmado
+2026-02-06,13:30,CLI0132,Maria Júlia Peixoto,Dra. Patricia Melo,Peeling químico,Cartão débito,cancelado
+2026-02-06,13:30,CLI0073,Ana Vitória Pacheco,Dra. Patricia Melo,Peeling químico,Particular,confirmado
+2026-02-06,13:30,CLI0130,Maria Helena Casa Grande,Est. Renata Souza,Preenchimento labial,Convênio empresa,realizado
+2026-02-06,14:00,CLI0093,Larissa Vasconcelos,Est. Renata Souza,Preenchimento labial,Cartão crédito,cancelado
+2026-02-06,15:30,CLI0068,Dra. Maria Gomes,Est. Renata Souza,Depilação a laser,Cartão crédito,realizado
+2026-02-06,17:00,CLI0064,Ana Beatriz Sales,Biom. Juliana Faria,Microagulhamento,Particular,confirmado
+2026-02-06,17:00,CLI0003,Rebeca Brito,Dra. Camila Torres,Depilação a laser,Particular,realizado
+2026-02-09,08:00,CLI0129,Dra. Emilly Jesus,Dra. Camila Torres,Botox,Pix,realizado
+2026-02-09,09:30,CLI0194,Anna Liz Carvalho,Biom. Juliana Faria,Avaliação inicial,Pix,cancelado
+2026-02-09,09:30,CLI0082,Natália Silva,Dra. Patricia Melo,Peeling químico,Pix,confirmado
+2026-02-09,09:30,CLI0123,Dra. Emanuelly Vargas,Dra. Patricia Melo,Preenchimento facial,Pix,realizado
+2026-02-09,10:30,CLI0150,Clara Cunha,Dra. Camila Torres,Harmonização facial,Cartão crédito,realizado
+2026-02-09,11:00,CLI0183,Isabela Silva,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,cancelado
+2026-02-09,11:00,CLI0005,Sra. Ana Vitória Borges,Est. Renata Souza,Preenchimento labial,Convênio empresa,cancelado
+2026-02-09,14:00,CLI0087,Sra. Maria Vitória Oliveira,Dra. Patricia Melo,Peeling químico,Cartão crédito,cancelado
+2026-02-09,14:30,CLI0039,Dra. Manuella Albuquerque,Biom. Juliana Faria,Microagulhamento,Cartão crédito,confirmado
+2026-02-09,14:30,CLI0009,Srta. Ayla Cardoso,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-02-09,16:00,CLI0168,Camila da Conceição,Biom. Juliana Faria,Botox,Particular,confirmado
+2026-02-10,10:00,CLI0133,Amanda Moraes,Est. Renata Souza,Harmonização facial,Cartão crédito,confirmado
+2026-02-10,10:00,CLI0124,Luara Araújo,Biom. Juliana Faria,Peeling químico,Convênio empresa,confirmado
+2026-02-10,10:00,CLI0077,Olivia Brito,Est. Renata Souza,Peeling químico,Pix,realizado
+2026-02-10,10:30,CLI0168,Camila da Conceição,Dra. Patricia Melo,Limpeza de pele,Particular,realizado
+2026-02-10,11:00,CLI0097,Isis Machado,Biom. Juliana Faria,Harmonização facial,Cartão crédito,confirmado
+2026-02-10,13:00,CLI0081,Srta. Larissa Sousa,Biom. Juliana Faria,Depilação a laser,Cartão crédito,realizado
+2026-02-10,14:00,CLI0106,Dra. Maria Luiza Rocha,Dra. Patricia Melo,Botox,Cartão débito,realizado
+2026-02-10,14:00,CLI0088,Sra. Bruna Albuquerque,Est. Renata Souza,Peeling químico,Pix,confirmado
+2026-02-10,14:00,CLI0090,Rafaela Moraes,Est. Renata Souza,Peeling químico,Cartão débito,realizado
+2026-02-10,15:00,CLI0147,Maya Correia,Dra. Patricia Melo,Depilação a laser,Cartão crédito,realizado
+2026-02-10,15:30,CLI0177,Maria Helena Câmara,Dra. Patricia Melo,Microagulhamento,Particular,cancelado
+2026-02-10,15:30,CLI0074,Antonella Nogueira,Dra. Camila Torres,Microagulhamento,Convênio empresa,cancelado
+2026-02-10,16:00,CLI0198,Clarice da Rosa,Biom. Juliana Faria,Peeling químico,Convênio empresa,realizado
+2026-02-11,09:00,CLI0197,Ana Liz Moraes,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-02-11,09:30,CLI0127,Srta. Alícia Fogaça,Est. Renata Souza,Botox,Cartão débito,realizado
+2026-02-11,10:30,CLI0194,Anna Liz Carvalho,Est. Renata Souza,Peeling químico,Pix,realizado
+2026-02-11,10:30,CLI0120,Mirella Gomes,Biom. Juliana Faria,Preenchimento labial,Convênio empresa,realizado
+2026-02-11,13:00,CLI0026,Sophie da Rocha,Est. Renata Souza,Harmonização facial,Cartão crédito,realizado
+2026-02-11,13:00,CLI0041,Alícia Costela,Dra. Patricia Melo,Harmonização facial,Pix,realizado
+2026-02-11,13:00,CLI0045,Yasmin da Costa,Biom. Juliana Faria,Botox,Pix,cancelado
+2026-02-11,14:00,CLI0070,Maysa da Conceição,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-02-11,14:00,CLI0172,Laís Leão,Biom. Juliana Faria,Limpeza de pele,Cartão débito,realizado
+2026-02-11,14:30,CLI0077,Olivia Brito,Dra. Camila Torres,Microagulhamento,Pix,realizado
+2026-02-11,15:00,CLI0117,Hadassa Novaes,Dra. Patricia Melo,Preenchimento facial,Pix,confirmado
+2026-02-11,15:30,CLI0158,Carolina Correia,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-02-11,15:30,CLI0042,Srta. Lunna Marques,Dra. Patricia Melo,Peeling químico,Cartão débito,realizado
+2026-02-11,16:00,CLI0175,Maria Liz Caldeira,Biom. Juliana Faria,Botox,Pix,confirmado
+2026-02-12,09:00,CLI0084,Ana Beatriz Cassiano,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-02-12,10:30,CLI0085,Ester Leão,Dra. Camila Torres,Peeling químico,Particular,realizado
+2026-02-12,11:00,CLI0189,Dra. Emanuelly da Paz,Est. Renata Souza,Limpeza de pele,Cartão débito,realizado
+2026-02-12,13:00,CLI0067,Julia Ramos,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-02-12,13:30,CLI0036,Luísa Dias,Est. Renata Souza,Limpeza de pele,Pix,realizado
+2026-02-12,17:00,CLI0157,Brenda Cavalcanti,Dra. Patricia Melo,Depilação a laser,Cartão débito,confirmado
+2026-02-13,08:00,CLI0029,Dra. Manuela Mendonça,Biom. Juliana Faria,Avaliação inicial,Cartão crédito,realizado
+2026-02-13,09:30,CLI0123,Dra. Emanuelly Vargas,Dra. Patricia Melo,Microagulhamento,Pix,cancelado
+2026-02-13,10:00,CLI0196,Milena Sousa,Dra. Camila Torres,Avaliação inicial,Cartão débito,cancelado
+2026-02-13,11:00,CLI0043,Gabrielly Gomes,Dra. Patricia Melo,Preenchimento labial,Convênio empresa,realizado
+2026-02-13,13:00,CLI0041,Alícia Costela,Est. Renata Souza,Preenchimento labial,Pix,realizado
+2026-02-13,14:00,CLI0180,Melina Pires,Dra. Patricia Melo,Avaliação inicial,Particular,realizado
+2026-02-13,14:30,CLI0095,Beatriz Cirino,Biom. Juliana Faria,Limpeza de pele,Particular,realizado
+2026-02-13,15:00,CLI0016,Julia Casa Grande,Dra. Camila Torres,Harmonização facial,Cartão crédito,realizado
+2026-02-13,15:30,CLI0136,Maria Eduarda Rocha,Est. Renata Souza,Preenchimento labial,Cartão crédito,confirmado
+2026-02-16,08:00,CLI0019,Aurora Viana,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-02-16,08:00,CLI0139,Rafaela Fogaça,Dra. Camila Torres,Harmonização facial,Convênio empresa,realizado
+2026-02-16,10:00,CLI0187,Sra. Beatriz Pacheco,Dra. Camila Torres,Botox,Cartão débito,realizado
+2026-02-16,10:00,CLI0059,Ágatha Pimenta,Dra. Patricia Melo,Microagulhamento,Pix,realizado
+2026-02-16,10:30,CLI0102,Zoe Viana,Dra. Camila Torres,Limpeza de pele,Particular,confirmado
+2026-02-16,13:00,CLI0074,Antonella Nogueira,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,cancelado
+2026-02-16,13:00,CLI0096,Mirella Araújo,Dra. Patricia Melo,Depilação a laser,Particular,cancelado
+2026-02-16,14:00,CLI0024,Beatriz Novaes,Dra. Patricia Melo,Botox,Particular,cancelado
+2026-02-16,14:00,CLI0034,Olivia Abreu,Dra. Patricia Melo,Harmonização facial,Particular,confirmado
+2026-02-16,14:00,CLI0015,Lorena Rios,Dra. Patricia Melo,Peeling químico,Particular,realizado
+2026-02-16,14:00,CLI0046,Dra. Giovanna da Mata,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-02-16,15:00,CLI0021,Maria Isis da Mota,Biom. Juliana Faria,Microagulhamento,Pix,realizado
+2026-02-16,15:00,CLI0119,Luana Lopes,Dra. Patricia Melo,Avaliação inicial,Particular,cancelado
+2026-02-17,08:00,CLI0071,Clarice da Rosa,Biom. Juliana Faria,Depilação a laser,Cartão débito,confirmado
+2026-02-17,08:00,CLI0127,Srta. Alícia Fogaça,Est. Renata Souza,Depilação a laser,Cartão débito,confirmado
+2026-02-17,09:00,CLI0018,Laís Dias,Dra. Camila Torres,Harmonização facial,Cartão débito,confirmado
+2026-02-17,09:30,CLI0078,Isis da Costa,Biom. Juliana Faria,Depilação a laser,Convênio empresa,realizado
+2026-02-17,10:00,CLI0075,Ana Camargo,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-02-17,13:30,CLI0103,Gabriela Cunha,Biom. Juliana Faria,Avaliação inicial,Particular,realizado
+2026-02-17,15:30,CLI0049,Maria Luísa Vieira,Dra. Camila Torres,Botox,Pix,cancelado
+2026-02-17,15:30,CLI0173,Amanda Moura,Dra. Camila Torres,Limpeza de pele,Particular,realizado
+2026-02-17,16:00,CLI0158,Carolina Correia,Dra. Camila Torres,Limpeza de pele,Pix,realizado
+2026-02-17,17:00,CLI0194,Anna Liz Carvalho,Dra. Camila Torres,Preenchimento facial,Pix,confirmado
+2026-02-18,09:00,CLI0190,Dra. Raquel Macedo,Dra. Patricia Melo,Limpeza de pele,Cartão crédito,confirmado
+2026-02-18,09:30,CLI0097,Isis Machado,Dra. Patricia Melo,Limpeza de pele,Cartão crédito,realizado
+2026-02-18,10:30,CLI0086,Jade Mendonça,Dra. Camila Torres,Limpeza de pele,Cartão débito,realizado
+2026-02-18,13:00,CLI0179,Pietra Pereira,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-02-18,13:00,CLI0144,Elisa Pacheco,Dra. Patricia Melo,Avaliação inicial,Pix,confirmado
+2026-02-18,13:00,CLI0035,Letícia Caldeira,Biom. Juliana Faria,Peeling químico,Particular,realizado
+2026-02-18,14:00,CLI0024,Beatriz Novaes,Biom. Juliana Faria,Botox,Particular,realizado
+2026-02-18,14:30,CLI0195,Milena Leão,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-02-18,15:00,CLI0085,Ester Leão,Dra. Camila Torres,Harmonização facial,Particular,realizado
+2026-02-18,15:00,CLI0097,Isis Machado,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-02-18,17:00,CLI0077,Olivia Brito,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-02-19,10:00,CLI0102,Zoe Viana,Est. Renata Souza,Peeling químico,Particular,cancelado
+2026-02-19,10:30,CLI0005,Sra. Ana Vitória Borges,Dra. Patricia Melo,Peeling químico,Convênio empresa,realizado
+2026-02-19,11:00,CLI0051,Marina Rodrigues,Biom. Juliana Faria,Depilação a laser,Convênio empresa,confirmado
+2026-02-19,13:00,CLI0081,Srta. Larissa Sousa,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-02-19,13:30,CLI0185,Aylla Souza,Est. Renata Souza,Limpeza de pele,Pix,realizado
+2026-02-19,13:30,CLI0063,Emanuella Brito,Est. Renata Souza,Peeling químico,Cartão crédito,cancelado
+2026-02-19,14:00,CLI0120,Mirella Gomes,Est. Renata Souza,Peeling químico,Convênio empresa,realizado
+2026-02-19,14:00,CLI0093,Larissa Vasconcelos,Dra. Patricia Melo,Harmonização facial,Cartão crédito,realizado
+2026-02-19,15:00,CLI0186,Dra. Melina Novaes,Dra. Patricia Melo,Harmonização facial,Cartão débito,realizado
+2026-02-20,08:00,CLI0165,Liz Oliveira,Dra. Camila Torres,Preenchimento labial,Cartão débito,realizado
+2026-02-20,08:00,CLI0196,Milena Sousa,Dra. Patricia Melo,Preenchimento facial,Cartão débito,realizado
+2026-02-20,09:30,CLI0044,Dra. Laís Macedo,Dra. Patricia Melo,Preenchimento facial,Particular,confirmado
+2026-02-20,13:30,CLI0130,Maria Helena Casa Grande,Est. Renata Souza,Botox,Convênio empresa,confirmado
+2026-02-20,14:00,CLI0002,Allana Aparecida,Dra. Patricia Melo,Botox,Cartão crédito,realizado
+2026-02-20,14:00,CLI0005,Sra. Ana Vitória Borges,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-02-20,14:00,CLI0025,Dra. Ana Lívia Barros,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,realizado
+2026-02-20,14:00,CLI0159,Heloisa Guerra,Est. Renata Souza,Microagulhamento,Cartão crédito,realizado
+2026-02-20,15:00,CLI0164,Agatha Silva,Dra. Patricia Melo,Harmonização facial,Pix,realizado
+2026-02-20,15:30,CLI0018,Laís Dias,Biom. Juliana Faria,Botox,Cartão débito,realizado
+2026-02-20,15:30,CLI0136,Maria Eduarda Rocha,Est. Renata Souza,Avaliação inicial,Cartão crédito,realizado
+2026-02-23,08:00,CLI0169,Maria Alice Carvalho,Biom. Juliana Faria,Microagulhamento,Particular,realizado
+2026-02-23,09:00,CLI0012,Gabriela Macedo,Est. Renata Souza,Avaliação inicial,Pix,confirmado
+2026-02-23,09:30,CLI0180,Melina Pires,Dra. Camila Torres,Harmonização facial,Particular,cancelado
+2026-02-23,09:30,CLI0077,Olivia Brito,Biom. Juliana Faria,Depilação a laser,Pix,confirmado
+2026-02-23,10:00,CLI0011,Bruna Cavalcanti,Biom. Juliana Faria,Harmonização facial,Cartão débito,realizado
+2026-02-23,11:00,CLI0021,Maria Isis da Mota,Dra. Patricia Melo,Harmonização facial,Pix,confirmado
+2026-02-23,13:00,CLI0098,Ana Carolina Camargo,Dra. Patricia Melo,Botox,Convênio empresa,realizado
+2026-02-23,13:00,CLI0085,Ester Leão,Biom. Juliana Faria,Preenchimento labial,Particular,confirmado
+2026-02-23,14:30,CLI0054,Emilly Vasconcelos,Biom. Juliana Faria,Depilação a laser,Particular,realizado
+2026-02-23,15:30,CLI0063,Emanuella Brito,Biom. Juliana Faria,Peeling químico,Cartão crédito,realizado
+2026-02-23,16:00,CLI0166,Joana Araújo,Est. Renata Souza,Preenchimento labial,Pix,confirmado
+2026-02-23,17:00,CLI0168,Camila da Conceição,Dra. Camila Torres,Preenchimento labial,Particular,cancelado
+2026-02-24,09:00,CLI0014,Nina Nunes,Dra. Patricia Melo,Limpeza de pele,Cartão débito,realizado
+2026-02-24,09:00,CLI0034,Olivia Abreu,Biom. Juliana Faria,Depilação a laser,Particular,cancelado
+2026-02-24,09:30,CLI0069,Isabella da Cruz,Dra. Patricia Melo,Preenchimento facial,Cartão débito,cancelado
+2026-02-24,10:30,CLI0163,Maitê Leão,Dra. Patricia Melo,Harmonização facial,Cartão débito,realizado
+2026-02-24,11:00,CLI0082,Natália Silva,Dra. Camila Torres,Preenchimento labial,Pix,realizado
+2026-02-24,13:30,CLI0079,Lunna Cardoso,Est. Renata Souza,Peeling químico,Particular,realizado
+2026-02-24,14:00,CLI0092,Luna Farias,Dra. Patricia Melo,Depilação a laser,Cartão crédito,realizado
+2026-02-24,14:00,CLI0143,Lorena Azevedo,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-02-24,14:30,CLI0088,Sra. Bruna Albuquerque,Dra. Patricia Melo,Microagulhamento,Pix,realizado
+2026-02-24,14:30,CLI0175,Maria Liz Caldeira,Dra. Patricia Melo,Preenchimento labial,Pix,confirmado
+2026-02-24,16:00,CLI0076,Sabrina Sampaio,Biom. Juliana Faria,Preenchimento labial,Convênio empresa,realizado
+2026-02-25,10:30,CLI0004,Heloisa Barbosa,Dra. Patricia Melo,Depilação a laser,Particular,realizado
+2026-02-25,10:30,CLI0078,Isis da Costa,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-02-25,13:00,CLI0176,Fernanda Moura,Biom. Juliana Faria,Preenchimento facial,Particular,realizado
+2026-02-25,13:00,CLI0043,Gabrielly Gomes,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-02-25,14:00,CLI0091,Clarice Aragão,Dra. Camila Torres,Microagulhamento,Particular,cancelado
+2026-02-25,14:00,CLI0186,Dra. Melina Novaes,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-02-25,16:00,CLI0124,Luara Araújo,Dra. Camila Torres,Microagulhamento,Convênio empresa,realizado
+2026-02-26,09:30,CLI0028,Sophie Camargo,Est. Renata Souza,Botox,Pix,cancelado
+2026-02-26,10:00,CLI0145,Srta. Cecilia Moreira,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-02-26,13:00,CLI0086,Jade Mendonça,Biom. Juliana Faria,Peeling químico,Cartão débito,realizado
+2026-02-26,13:00,CLI0046,Dra. Giovanna da Mata,Est. Renata Souza,Peeling químico,Convênio empresa,cancelado
+2026-02-26,15:00,CLI0185,Aylla Souza,Dra. Patricia Melo,Limpeza de pele,Pix,cancelado
+2026-02-26,15:30,CLI0155,Cecília Vasconcelos,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-02-26,16:00,CLI0148,Dra. Rebeca Azevedo,Biom. Juliana Faria,Microagulhamento,Convênio empresa,cancelado
+2026-02-26,17:00,CLI0086,Jade Mendonça,Dra. Patricia Melo,Microagulhamento,Cartão débito,cancelado
+2026-02-26,17:00,CLI0072,Vitória Moraes,Dra. Patricia Melo,Microagulhamento,Convênio empresa,realizado
+2026-02-27,08:00,CLI0028,Sophie Camargo,Dra. Camila Torres,Peeling químico,Pix,realizado
+2026-02-27,09:00,CLI0124,Luara Araújo,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-02-27,10:00,CLI0182,Luísa Farias,Dra. Patricia Melo,Peeling químico,Pix,realizado
+2026-02-27,10:30,CLI0062,Olivia Souza,Biom. Juliana Faria,Depilação a laser,Convênio empresa,cancelado
+2026-02-27,13:30,CLI0019,Aurora Viana,Dra. Patricia Melo,Depilação a laser,Particular,confirmado
+2026-02-27,13:30,CLI0101,Lorena Jesus,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-02-27,14:30,CLI0012,Gabriela Macedo,Dra. Patricia Melo,Microagulhamento,Pix,cancelado
+2026-02-27,15:00,CLI0105,Lavínia Oliveira,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,realizado
+2026-02-27,15:00,CLI0169,Maria Alice Carvalho,Est. Renata Souza,Preenchimento facial,Particular,confirmado
+2026-02-27,15:30,CLI0093,Larissa Vasconcelos,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-02-27,15:30,CLI0131,Hadassa Lima,Biom. Juliana Faria,Harmonização facial,Particular,realizado
+2026-02-27,17:00,CLI0130,Maria Helena Casa Grande,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-02-27,17:00,CLI0030,Srta. Ana Cecília Carvalho,Biom. Juliana Faria,Microagulhamento,Particular,realizado
+2026-03-02,08:00,CLI0102,Zoe Viana,Biom. Juliana Faria,Harmonização facial,Particular,confirmado
+2026-03-02,09:00,CLI0082,Natália Silva,Est. Renata Souza,Botox,Pix,realizado
+2026-03-02,10:00,CLI0190,Dra. Raquel Macedo,Biom. Juliana Faria,Avaliação inicial,Cartão crédito,realizado
+2026-03-02,11:00,CLI0048,Isadora Cavalcanti,Est. Renata Souza,Limpeza de pele,Pix,cancelado
+2026-03-02,13:00,CLI0110,Manuella Pimenta,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-03-02,13:30,CLI0090,Rafaela Moraes,Dra. Camila Torres,Harmonização facial,Cartão débito,cancelado
+2026-03-02,14:00,CLI0085,Ester Leão,Dra. Patricia Melo,Harmonização facial,Particular,realizado
+2026-03-02,15:00,CLI0104,Ana Silva,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,cancelado
+2026-03-02,16:00,CLI0117,Hadassa Novaes,Biom. Juliana Faria,Avaliação inicial,Pix,cancelado
+2026-03-02,16:00,CLI0072,Vitória Moraes,Dra. Camila Torres,Preenchimento labial,Convênio empresa,confirmado
+2026-03-02,17:00,CLI0006,Alice Carvalho,Est. Renata Souza,Preenchimento labial,Cartão crédito,realizado
+2026-03-03,10:00,CLI0031,Jade Peixoto,Est. Renata Souza,Preenchimento labial,Cartão crédito,realizado
+2026-03-03,13:00,CLI0153,Alice Silva,Dra. Patricia Melo,Preenchimento labial,Convênio empresa,realizado
+2026-03-03,14:30,CLI0158,Carolina Correia,Dra. Camila Torres,Preenchimento facial,Pix,realizado
+2026-03-03,14:30,CLI0108,Sra. Manuela Albuquerque,Biom. Juliana Faria,Depilação a laser,Pix,cancelado
+2026-03-03,15:00,CLI0068,Dra. Maria Gomes,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,realizado
+2026-03-03,15:30,CLI0096,Mirella Araújo,Biom. Juliana Faria,Avaliação inicial,Particular,cancelado
+2026-03-03,17:00,CLI0091,Clarice Aragão,Dra. Patricia Melo,Preenchimento facial,Particular,realizado
+2026-03-04,09:30,CLI0125,Agatha Camargo,Biom. Juliana Faria,Depilação a laser,Pix,confirmado
+2026-03-04,10:30,CLI0126,Mariah Rodrigues,Biom. Juliana Faria,Preenchimento facial,Cartão débito,realizado
+2026-03-04,10:30,CLI0009,Srta. Ayla Cardoso,Biom. Juliana Faria,Avaliação inicial,Cartão crédito,realizado
+2026-03-04,14:30,CLI0116,Sra. Yasmin Viana,Dra. Camila Torres,Microagulhamento,Pix,realizado
+2026-03-04,14:30,CLI0022,Olívia Pimenta,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-03-04,15:00,CLI0125,Agatha Camargo,Biom. Juliana Faria,Avaliação inicial,Pix,realizado
+2026-03-04,15:00,CLI0130,Maria Helena Casa Grande,Dra. Patricia Melo,Depilação a laser,Convênio empresa,cancelado
+2026-03-04,15:30,CLI0107,Lorena Duarte,Dra. Patricia Melo,Harmonização facial,Cartão débito,realizado
+2026-03-05,09:30,CLI0158,Carolina Correia,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-03-05,13:00,CLI0056,Yasmin Caldeira,Dra. Camila Torres,Limpeza de pele,Convênio empresa,realizado
+2026-03-05,13:30,CLI0200,Marina Guerra,Dra. Patricia Melo,Avaliação inicial,Cartão débito,confirmado
+2026-03-05,13:30,CLI0009,Srta. Ayla Cardoso,Est. Renata Souza,Microagulhamento,Cartão crédito,realizado
+2026-03-05,14:00,CLI0094,Srta. Ana Lívia Vieira,Dra. Camila Torres,Harmonização facial,Convênio empresa,confirmado
+2026-03-05,14:30,CLI0029,Dra. Manuela Mendonça,Dra. Camila Torres,Peeling químico,Cartão crédito,confirmado
+2026-03-05,14:30,CLI0189,Dra. Emanuelly da Paz,Est. Renata Souza,Depilação a laser,Cartão débito,realizado
+2026-03-05,17:00,CLI0113,Ana Cecília Albuquerque,Dra. Camila Torres,Limpeza de pele,Pix,realizado
+2026-03-06,09:00,CLI0116,Sra. Yasmin Viana,Dra. Camila Torres,Depilação a laser,Pix,confirmado
+2026-03-06,09:30,CLI0168,Camila da Conceição,Biom. Juliana Faria,Limpeza de pele,Particular,realizado
+2026-03-06,10:00,CLI0102,Zoe Viana,Dra. Patricia Melo,Limpeza de pele,Particular,cancelado
+2026-03-06,10:30,CLI0137,Caroline Correia,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-03-06,10:30,CLI0192,Srta. Ana Beatriz Barros,Est. Renata Souza,Harmonização facial,Cartão débito,cancelado
+2026-03-06,11:00,CLI0183,Isabela Silva,Biom. Juliana Faria,Depilação a laser,Cartão crédito,cancelado
+2026-03-06,14:30,CLI0075,Ana Camargo,Est. Renata Souza,Avaliação inicial,Convênio empresa,realizado
+2026-03-06,14:30,CLI0037,Maria Helena Gonçalves,Est. Renata Souza,Depilação a laser,Convênio empresa,cancelado
+2026-03-06,14:30,CLI0084,Ana Beatriz Cassiano,Dra. Camila Torres,Preenchimento labial,Pix,cancelado
+2026-03-06,15:00,CLI0163,Maitê Leão,Est. Renata Souza,Preenchimento labial,Cartão débito,confirmado
+2026-03-06,16:00,CLI0035,Letícia Caldeira,Dra. Patricia Melo,Botox,Particular,realizado
+2026-03-09,09:00,CLI0012,Gabriela Macedo,Dra. Patricia Melo,Botox,Pix,realizado
+2026-03-09,09:00,CLI0071,Clarice da Rosa,Est. Renata Souza,Peeling químico,Cartão débito,realizado
+2026-03-09,09:00,CLI0181,Aurora Brito,Dra. Camila Torres,Limpeza de pele,Particular,cancelado
+2026-03-09,09:30,CLI0148,Dra. Rebeca Azevedo,Dra. Patricia Melo,Microagulhamento,Convênio empresa,realizado
+2026-03-09,09:30,CLI0020,Sra. Clarice Abreu,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,cancelado
+2026-03-09,10:30,CLI0161,Olivia Almeida,Biom. Juliana Faria,Depilação a laser,Convênio empresa,realizado
+2026-03-09,13:30,CLI0041,Alícia Costela,Dra. Patricia Melo,Botox,Pix,cancelado
+2026-03-09,15:00,CLI0096,Mirella Araújo,Biom. Juliana Faria,Botox,Particular,cancelado
+2026-03-09,15:30,CLI0052,Laís Nogueira,Biom. Juliana Faria,Peeling químico,Particular,realizado
+2026-03-09,17:00,CLI0083,Lavínia Gomes,Est. Renata Souza,Microagulhamento,Pix,confirmado
+2026-03-10,08:00,CLI0145,Srta. Cecilia Moreira,Biom. Juliana Faria,Harmonização facial,Cartão débito,realizado
+2026-03-10,09:00,CLI0099,Olivia Mendes,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-03-10,09:30,CLI0178,Bianca Cavalcante,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-03-10,10:30,CLI0095,Beatriz Cirino,Biom. Juliana Faria,Depilação a laser,Particular,realizado
+2026-03-10,15:00,CLI0165,Liz Oliveira,Biom. Juliana Faria,Preenchimento labial,Cartão débito,confirmado
+2026-03-10,15:30,CLI0003,Rebeca Brito,Est. Renata Souza,Preenchimento labial,Particular,cancelado
+2026-03-11,08:00,CLI0166,Joana Araújo,Biom. Juliana Faria,Harmonização facial,Pix,cancelado
+2026-03-11,09:00,CLI0166,Joana Araújo,Biom. Juliana Faria,Avaliação inicial,Pix,confirmado
+2026-03-11,10:00,CLI0029,Dra. Manuela Mendonça,Dra. Patricia Melo,Preenchimento labial,Cartão crédito,confirmado
+2026-03-11,11:00,CLI0110,Manuella Pimenta,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,realizado
+2026-03-11,13:30,CLI0176,Fernanda Moura,Biom. Juliana Faria,Preenchimento labial,Particular,realizado
+2026-03-11,14:00,CLI0053,Luiza Pastor,Biom. Juliana Faria,Depilação a laser,Cartão crédito,realizado
+2026-03-11,15:30,CLI0161,Olivia Almeida,Biom. Juliana Faria,Depilação a laser,Convênio empresa,confirmado
+2026-03-11,15:30,CLI0154,Maria Júlia Freitas,Est. Renata Souza,Botox,Pix,realizado
+2026-03-11,16:00,CLI0036,Luísa Dias,Dra. Camila Torres,Depilação a laser,Pix,realizado
+2026-03-12,08:00,CLI0056,Yasmin Caldeira,Dra. Camila Torres,Depilação a laser,Convênio empresa,confirmado
+2026-03-12,11:00,CLI0093,Larissa Vasconcelos,Biom. Juliana Faria,Depilação a laser,Cartão crédito,confirmado
+2026-03-12,11:00,CLI0108,Sra. Manuela Albuquerque,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-03-12,14:30,CLI0005,Sra. Ana Vitória Borges,Dra. Camila Torres,Botox,Convênio empresa,realizado
+2026-03-12,15:00,CLI0074,Antonella Nogueira,Dra. Patricia Melo,Depilação a laser,Convênio empresa,cancelado
+2026-03-12,15:00,CLI0022,Olívia Pimenta,Biom. Juliana Faria,Peeling químico,Cartão crédito,realizado
+2026-03-13,08:00,CLI0156,Srta. Nicole Sá,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-03-13,10:30,CLI0017,Heloísa Nunes,Dra. Camila Torres,Harmonização facial,Pix,cancelado
+2026-03-13,11:00,CLI0128,Brenda Souza,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-03-13,13:00,CLI0084,Ana Beatriz Cassiano,Dra. Camila Torres,Peeling químico,Pix,cancelado
+2026-03-13,13:00,CLI0023,Dra. Ana Beatriz Montenegro,Dra. Camila Torres,Harmonização facial,Particular,confirmado
+2026-03-13,14:00,CLI0021,Maria Isis da Mota,Biom. Juliana Faria,Preenchimento facial,Pix,confirmado
+2026-03-13,15:30,CLI0004,Heloisa Barbosa,Biom. Juliana Faria,Botox,Particular,realizado
+2026-03-13,15:30,CLI0033,Agatha Fogaça,Est. Renata Souza,Preenchimento labial,Convênio empresa,realizado
+2026-03-13,16:00,CLI0086,Jade Mendonça,Dra. Patricia Melo,Peeling químico,Cartão débito,confirmado
+2026-03-13,17:00,CLI0187,Sra. Beatriz Pacheco,Biom. Juliana Faria,Botox,Cartão débito,realizado
+2026-03-16,08:00,CLI0093,Larissa Vasconcelos,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,realizado
+2026-03-16,08:00,CLI0063,Emanuella Brito,Dra. Patricia Melo,Microagulhamento,Cartão crédito,cancelado
+2026-03-16,08:00,CLI0133,Amanda Moraes,Dra. Patricia Melo,Preenchimento labial,Cartão crédito,cancelado
+2026-03-16,09:30,CLI0039,Dra. Manuella Albuquerque,Dra. Camila Torres,Avaliação inicial,Cartão crédito,cancelado
+2026-03-16,10:30,CLI0041,Alícia Costela,Dra. Camila Torres,Preenchimento labial,Pix,realizado
+2026-03-16,11:00,CLI0058,Sabrina da Mata,Biom. Juliana Faria,Depilação a laser,Particular,realizado
+2026-03-16,13:30,CLI0142,Allana Duarte,Dra. Camila Torres,Microagulhamento,Cartão débito,realizado
+2026-03-16,14:00,CLI0190,Dra. Raquel Macedo,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-03-16,14:30,CLI0075,Ana Camargo,Est. Renata Souza,Limpeza de pele,Convênio empresa,cancelado
+2026-03-16,14:30,CLI0095,Beatriz Cirino,Dra. Patricia Melo,Limpeza de pele,Particular,confirmado
+2026-03-16,15:00,CLI0129,Dra. Emilly Jesus,Dra. Camila Torres,Preenchimento facial,Pix,realizado
+2026-03-16,16:00,CLI0073,Ana Vitória Pacheco,Est. Renata Souza,Microagulhamento,Particular,realizado
+2026-03-16,16:00,CLI0195,Milena Leão,Biom. Juliana Faria,Preenchimento facial,Pix,realizado
+2026-03-16,17:00,CLI0070,Maysa da Conceição,Dra. Camila Torres,Microagulhamento,Convênio empresa,realizado
+2026-03-17,08:00,CLI0146,Maria Eduarda Machado,Dra. Patricia Melo,Preenchimento facial,Cartão débito,realizado
+2026-03-17,09:00,CLI0192,Srta. Ana Beatriz Barros,Dra. Camila Torres,Avaliação inicial,Cartão débito,realizado
+2026-03-17,09:30,CLI0016,Julia Casa Grande,Est. Renata Souza,Preenchimento labial,Cartão crédito,realizado
+2026-03-17,09:30,CLI0052,Laís Nogueira,Dra. Camila Torres,Preenchimento facial,Particular,realizado
+2026-03-17,10:00,CLI0007,Esther Silva,Est. Renata Souza,Botox,Pix,realizado
+2026-03-17,10:30,CLI0075,Ana Camargo,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-03-17,13:30,CLI0082,Natália Silva,Est. Renata Souza,Limpeza de pele,Pix,realizado
+2026-03-17,13:30,CLI0043,Gabrielly Gomes,Dra. Patricia Melo,Microagulhamento,Convênio empresa,cancelado
+2026-03-17,14:00,CLI0053,Luiza Pastor,Biom. Juliana Faria,Depilação a laser,Cartão crédito,cancelado
+2026-03-17,16:00,CLI0001,Lavínia Jesus,Dra. Patricia Melo,Peeling químico,Particular,realizado
+2026-03-17,17:00,CLI0060,Srta. Maria Cecília Novais,Dra. Patricia Melo,Microagulhamento,Particular,cancelado
+2026-03-17,17:00,CLI0164,Agatha Silva,Dra. Patricia Melo,Preenchimento labial,Pix,confirmado
+2026-03-18,08:00,CLI0132,Maria Júlia Peixoto,Est. Renata Souza,Peeling químico,Cartão débito,realizado
+2026-03-18,09:00,CLI0038,Srta. Maria Helena Aparecida,Biom. Juliana Faria,Microagulhamento,Cartão débito,cancelado
+2026-03-18,09:00,CLI0064,Ana Beatriz Sales,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-03-18,10:30,CLI0119,Luana Lopes,Dra. Camila Torres,Preenchimento labial,Particular,realizado
+2026-03-18,10:30,CLI0176,Fernanda Moura,Dra. Camila Torres,Limpeza de pele,Particular,realizado
+2026-03-18,11:00,CLI0138,Lara Vargas,Biom. Juliana Faria,Harmonização facial,Particular,realizado
+2026-03-18,13:00,CLI0008,Sara Rezende,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,confirmado
+2026-03-19,08:00,CLI0004,Heloisa Barbosa,Biom. Juliana Faria,Preenchimento facial,Particular,realizado
+2026-03-19,08:00,CLI0119,Luana Lopes,Biom. Juliana Faria,Depilação a laser,Particular,cancelado
+2026-03-19,08:00,CLI0128,Brenda Souza,Dra. Patricia Melo,Depilação a laser,Convênio empresa,realizado
+2026-03-19,09:00,CLI0006,Alice Carvalho,Biom. Juliana Faria,Harmonização facial,Cartão crédito,realizado
+2026-03-19,10:00,CLI0091,Clarice Aragão,Biom. Juliana Faria,Peeling químico,Particular,realizado
+2026-03-19,11:00,CLI0103,Gabriela Cunha,Dra. Camila Torres,Peeling químico,Particular,realizado
+2026-03-19,17:00,CLI0024,Beatriz Novaes,Est. Renata Souza,Preenchimento labial,Particular,realizado
+2026-03-20,08:00,CLI0039,Dra. Manuella Albuquerque,Biom. Juliana Faria,Peeling químico,Cartão crédito,cancelado
+2026-03-20,08:00,CLI0047,Maria Fernanda da Luz,Est. Renata Souza,Limpeza de pele,Convênio empresa,realizado
+2026-03-20,08:00,CLI0189,Dra. Emanuelly da Paz,Biom. Juliana Faria,Depilação a laser,Cartão débito,realizado
+2026-03-20,08:00,CLI0152,Isabel Montenegro,Est. Renata Souza,Preenchimento facial,Particular,confirmado
+2026-03-20,09:30,CLI0045,Yasmin da Costa,Biom. Juliana Faria,Microagulhamento,Pix,realizado
+2026-03-20,10:30,CLI0200,Marina Guerra,Dra. Camila Torres,Harmonização facial,Cartão débito,confirmado
+2026-03-20,11:00,CLI0125,Agatha Camargo,Est. Renata Souza,Depilação a laser,Pix,realizado
+2026-03-20,13:00,CLI0072,Vitória Moraes,Biom. Juliana Faria,Depilação a laser,Convênio empresa,realizado
+2026-03-20,14:00,CLI0106,Dra. Maria Luiza Rocha,Dra. Patricia Melo,Botox,Cartão débito,realizado
+2026-03-20,15:00,CLI0064,Ana Beatriz Sales,Biom. Juliana Faria,Peeling químico,Particular,confirmado
+2026-03-20,16:00,CLI0165,Liz Oliveira,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-03-20,16:00,CLI0098,Ana Carolina Camargo,Est. Renata Souza,Harmonização facial,Convênio empresa,confirmado
+2026-03-20,16:00,CLI0092,Luna Farias,Biom. Juliana Faria,Preenchimento facial,Cartão crédito,realizado
+2026-03-23,08:00,CLI0057,Alícia Mendes,Dra. Patricia Melo,Botox,Pix,realizado
+2026-03-23,08:00,CLI0083,Lavínia Gomes,Dra. Camila Torres,Preenchimento facial,Pix,confirmado
+2026-03-23,09:00,CLI0010,Maria Liz Cardoso,Dra. Camila Torres,Limpeza de pele,Particular,confirmado
+2026-03-23,09:30,CLI0181,Aurora Brito,Dra. Camila Torres,Avaliação inicial,Particular,realizado
+2026-03-23,10:00,CLI0158,Carolina Correia,Biom. Juliana Faria,Microagulhamento,Pix,realizado
+2026-03-23,11:00,CLI0019,Aurora Viana,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-03-23,11:00,CLI0078,Isis da Costa,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,cancelado
+2026-03-23,13:30,CLI0164,Agatha Silva,Est. Renata Souza,Preenchimento facial,Pix,confirmado
+2026-03-23,14:00,CLI0127,Srta. Alícia Fogaça,Est. Renata Souza,Preenchimento facial,Cartão débito,cancelado
+2026-03-24,08:00,CLI0187,Sra. Beatriz Pacheco,Dra. Patricia Melo,Botox,Cartão débito,realizado
+2026-03-24,09:30,CLI0082,Natália Silva,Dra. Camila Torres,Microagulhamento,Pix,cancelado
+2026-03-24,10:30,CLI0003,Rebeca Brito,Biom. Juliana Faria,Limpeza de pele,Particular,realizado
+2026-03-24,10:30,CLI0090,Rafaela Moraes,Dra. Camila Torres,Botox,Cartão débito,realizado
+2026-03-24,11:00,CLI0155,Cecília Vasconcelos,Biom. Juliana Faria,Preenchimento labial,Pix,cancelado
+2026-03-24,11:00,CLI0037,Maria Helena Gonçalves,Dra. Camila Torres,Limpeza de pele,Convênio empresa,realizado
+2026-03-24,13:00,CLI0127,Srta. Alícia Fogaça,Est. Renata Souza,Avaliação inicial,Cartão débito,cancelado
+22/01/2026,13:30,CLI0099,Olivia Mendes,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,cancelado
+2026-03-24,15:00,CLI0058,Sabrina da Mata,Biom. Juliana Faria,Depilação a laser,Particular,realizado
+2026-03-24,15:30,CLI0188,Sara Rezende,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-03-24,17:00,CLI0026,Sophie da Rocha,Dra. Patricia Melo,Limpeza de pele,Cartão crédito,realizado
+2026-03-25,08:00,CLI0093,Larissa Vasconcelos,Dra. Patricia Melo,Preenchimento labial,Cartão crédito,realizado
+2026-03-25,09:00,CLI0061,Aylla Cunha,Dra. Camila Torres,Depilação a laser,Particular,confirmado
+2026-03-25,09:30,CLI0168,Camila da Conceição,Dra. Patricia Melo,Preenchimento facial,Particular,realizado
+2026-03-25,10:00,CLI0007,Esther Silva,Biom. Juliana Faria,Peeling químico,Pix,realizado
+2026-03-25,10:30,CLI0082,Natália Silva,Dra. Camila Torres,Preenchimento labial,Pix,realizado
+2026-03-25,11:00,CLI0024,Beatriz Novaes,Dra. Patricia Melo,Botox,Particular,cancelado
+2026-03-25,11:00,CLI0026,Sophie da Rocha,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,cancelado
+2026-03-25,13:00,CLI0044,Dra. Laís Macedo,Biom. Juliana Faria,Preenchimento labial,Particular,confirmado
+2026-03-25,14:00,CLI0179,Pietra Pereira,Est. Renata Souza,Peeling químico,Convênio empresa,realizado
+2026-03-25,15:00,CLI0170,Lara Araújo,Dra. Patricia Melo,Limpeza de pele,Cartão crédito,realizado
+2026-03-25,16:00,CLI0019,Aurora Viana,Dra. Camila Torres,Peeling químico,Particular,realizado
+2026-03-25,17:00,CLI0141,Ana Julia Pimenta,Dra. Patricia Melo,Preenchimento facial,Pix,realizado
+2026-03-25,17:00,CLI0122,Sophia Teixeira,Dra. Camila Torres,Peeling químico,Particular,cancelado
+2026-03-26,09:30,CLI0100,Marcela Silva,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-03-26,09:30,CLI0016,Julia Casa Grande,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-03-26,09:30,CLI0045,Yasmin da Costa,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-03-26,09:30,CLI0161,Olivia Almeida,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-03-26,10:00,CLI0147,Maya Correia,Dra. Patricia Melo,Peeling químico,Cartão crédito,realizado
+2026-03-26,10:30,CLI0120,Mirella Gomes,Biom. Juliana Faria,Peeling químico,Convênio empresa,confirmado
+2026-03-26,13:00,CLI0139,Rafaela Fogaça,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,realizado
+2026-03-26,13:00,CLI0011,Bruna Cavalcanti,Dra. Camila Torres,Depilação a laser,Cartão débito,realizado
+2026-03-26,13:30,CLI0048,Isadora Cavalcanti,Dra. Camila Torres,Peeling químico,Pix,cancelado
+2026-03-26,15:00,CLI0126,Mariah Rodrigues,Est. Renata Souza,Preenchimento labial,Cartão débito,confirmado
+2026-03-26,16:00,CLI0133,Amanda Moraes,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,cancelado
+2026-03-26,17:00,CLI0100,Marcela Silva,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,cancelado
+2026-03-26,17:00,CLI0102,Zoe Viana,Dra. Camila Torres,Avaliação inicial,Particular,confirmado
+2026-03-27,09:00,CLI0200,Marina Guerra,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-03-27,09:30,CLI0039,Dra. Manuella Albuquerque,Dra. Camila Torres,Preenchimento labial,Cartão crédito,confirmado
+2026-03-27,10:30,CLI0106,Dra. Maria Luiza Rocha,Dra. Patricia Melo,Harmonização facial,Cartão débito,confirmado
+2026-03-27,13:30,CLI0156,Srta. Nicole Sá,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-03-27,14:00,CLI0100,Marcela Silva,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-03-27,14:00,CLI0071,Clarice da Rosa,Dra. Patricia Melo,Botox,Cartão débito,confirmado
+2026-03-27,14:00,CLI0151,Bianca da Cunha,Dra. Patricia Melo,Preenchimento labial,Cartão débito,cancelado
+2026-03-30,08:00,CLI0146,Maria Eduarda Machado,Biom. Juliana Faria,Limpeza de pele,Cartão débito,realizado
+2026-03-30,10:00,CLI0015,Lorena Rios,Dra. Camila Torres,Harmonização facial,Particular,realizado
+2026-03-30,10:30,CLI0080,Heloisa Câmara,Dra. Patricia Melo,Preenchimento labial,Convênio empresa,realizado
+2026-03-30,10:30,CLI0035,Letícia Caldeira,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-03-30,10:30,CLI0017,Heloísa Nunes,Dra. Patricia Melo,Preenchimento facial,Pix,confirmado
+2026-03-30,11:00,CLI0069,Isabella da Cruz,Dra. Camila Torres,Microagulhamento,Cartão débito,realizado
+2026-03-30,13:00,CLI0187,Sra. Beatriz Pacheco,Dra. Camila Torres,Limpeza de pele,Cartão débito,cancelado
+2026-03-30,14:30,CLI0037,Maria Helena Gonçalves,Dra. Patricia Melo,Botox,Convênio empresa,cancelado
+2026-03-30,15:30,CLI0085,Ester Leão,Biom. Juliana Faria,Botox,Particular,cancelado
+2026-03-30,15:30,CLI0093,Larissa Vasconcelos,Biom. Juliana Faria,Peeling químico,Cartão crédito,realizado
+2026-03-30,17:00,CLI0055,Clara Marques,Dra. Patricia Melo,Harmonização facial,Pix,confirmado
+2026-03-30,17:00,CLI0096,Mirella Araújo,Dra. Camila Torres,Avaliação inicial,Particular,realizado
+2026-03-31,08:00,CLI0099,Olivia Mendes,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,realizado
+2026-03-31,08:00,CLI0132,Maria Júlia Peixoto,Dra. Camila Torres,Harmonização facial,Cartão débito,realizado
+2026-03-31,09:30,CLI0166,Joana Araújo,Dra. Camila Torres,Limpeza de pele,Pix,realizado
+2026-03-31,10:00,CLI0166,Joana Araújo,Biom. Juliana Faria,Peeling químico,Pix,cancelado
+2026-03-31,13:00,CLI0130,Maria Helena Casa Grande,Dra. Camila Torres,Botox,Convênio empresa,realizado
+2026-03-31,13:30,CLI0096,Mirella Araújo,Dra. Patricia Melo,Preenchimento facial,Particular,cancelado
+2026-03-31,13:30,CLI0056,Yasmin Caldeira,Est. Renata Souza,Avaliação inicial,Convênio empresa,confirmado
+2026-03-31,14:00,CLI0151,Bianca da Cunha,Est. Renata Souza,Microagulhamento,Cartão débito,realizado
+2026-03-31,14:30,CLI0102,Zoe Viana,Dra. Camila Torres,Botox,Particular,confirmado
+2026-03-31,15:30,CLI0067,Julia Ramos,Dra. Camila Torres,Peeling químico,Pix,realizado
+2026-03-31,16:00,CLI0156,Srta. Nicole Sá,Est. Renata Souza,Peeling químico,Convênio empresa,cancelado
+2026-03-31,17:00,CLI0097,Isis Machado,Est. Renata Souza,Harmonização facial,Cartão crédito,realizado
+2026-03-31,17:00,CLI0170,Lara Araújo,Est. Renata Souza,Avaliação inicial,Cartão crédito,confirmado
+2026-04-01,10:30,CLI0087,Sra. Maria Vitória Oliveira,Est. Renata Souza,Peeling químico,Cartão crédito,realizado
+2026-04-01,10:30,CLI0047,Maria Fernanda da Luz,Dra. Camila Torres,Harmonização facial,Convênio empresa,realizado
+2026-04-01,11:00,CLI0172,Laís Leão,Est. Renata Souza,Preenchimento facial,Cartão débito,confirmado
+2026-04-01,13:00,CLI0104,Ana Silva,Dra. Camila Torres,Limpeza de pele,Convênio empresa,realizado
+2026-04-01,13:30,CLI0168,Camila da Conceição,Est. Renata Souza,Peeling químico,Particular,cancelado
+2026-04-01,15:00,CLI0077,Olivia Brito,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-04-01,15:00,CLI0104,Ana Silva,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-04-01,15:30,CLI0168,Camila da Conceição,Est. Renata Souza,Limpeza de pele,Particular,realizado
+2026-04-01,15:30,CLI0186,Dra. Melina Novaes,Biom. Juliana Faria,Avaliação inicial,Cartão débito,cancelado
+2026-04-01,16:00,CLI0133,Amanda Moraes,Biom. Juliana Faria,Botox,Cartão crédito,confirmado
+2026-04-02,11:00,CLI0057,Alícia Mendes,Biom. Juliana Faria,Peeling químico,Pix,cancelado
+2026-04-02,11:00,CLI0085,Ester Leão,Est. Renata Souza,Peeling químico,Particular,cancelado
+2026-04-02,11:00,CLI0052,Laís Nogueira,Dra. Patricia Melo,Harmonização facial,Particular,realizado
+2026-04-02,13:00,CLI0077,Olivia Brito,Dra. Camila Torres,Preenchimento facial,Pix,realizado
+2026-04-02,13:30,CLI0031,Jade Peixoto,Dra. Camila Torres,Preenchimento labial,Cartão crédito,cancelado
+2026-04-02,13:30,CLI0002,Allana Aparecida,Est. Renata Souza,Limpeza de pele,Cartão crédito,realizado
+2026-04-02,14:00,CLI0050,Maria Flor Leão,Dra. Camila Torres,Depilação a laser,Particular,confirmado
+2026-04-02,15:00,CLI0086,Jade Mendonça,Biom. Juliana Faria,Microagulhamento,Cartão débito,realizado
+2026-04-02,16:00,CLI0186,Dra. Melina Novaes,Biom. Juliana Faria,Microagulhamento,Cartão débito,realizado
+2026-04-02,17:00,CLI0081,Srta. Larissa Sousa,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,cancelado
+2026-04-03,09:30,CLI0080,Heloisa Câmara,Dra. Camila Torres,Depilação a laser,Convênio empresa,confirmado
+2026-04-03,10:30,CLI0151,Bianca da Cunha,Biom. Juliana Faria,Preenchimento labial,Cartão débito,realizado
+2026-04-03,13:00,CLI0123,Dra. Emanuelly Vargas,Dra. Camila Torres,Botox,Pix,confirmado
+2026-04-03,15:00,CLI0112,Bella Oliveira,Dra. Patricia Melo,Depilação a laser,Cartão débito,cancelado
+2026-04-03,15:30,CLI0052,Laís Nogueira,Est. Renata Souza,Botox,Particular,realizado
+2026-04-03,15:30,CLI0161,Olivia Almeida,Biom. Juliana Faria,Limpeza de pele,Convênio empresa,realizado
+2026-04-03,16:00,CLI0126,Mariah Rodrigues,Dra. Camila Torres,Preenchimento facial,Cartão débito,confirmado
+2026-04-03,17:00,CLI0194,Anna Liz Carvalho,Biom. Juliana Faria,Botox,Pix,realizado
+2026-04-06,08:00,CLI0104,Ana Silva,Biom. Juliana Faria,Limpeza de pele,Convênio empresa,realizado
+2026-04-06,11:00,CLI0032,Luísa Cardoso,Dra. Camila Torres,Depilação a laser,Pix,realizado
+2026-04-06,13:00,CLI0078,Isis da Costa,Dra. Camila Torres,Avaliação inicial,Convênio empresa,realizado
+2026-04-06,13:30,CLI0075,Ana Camargo,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-04-06,13:30,CLI0088,Sra. Bruna Albuquerque,Est. Renata Souza,Limpeza de pele,Pix,realizado
+2026-04-06,13:30,CLI0107,Lorena Duarte,Dra. Patricia Melo,Preenchimento labial,Cartão débito,confirmado
+2026-04-06,13:30,CLI0065,Rafaela Nogueira,Biom. Juliana Faria,Limpeza de pele,Particular,realizado
+2026-04-06,14:00,CLI0198,Clarice da Rosa,Dra. Camila Torres,Botox,Convênio empresa,realizado
+2026-04-06,15:30,CLI0055,Clara Marques,Dra. Camila Torres,Avaliação inicial,Pix,realizado
+2026-04-06,17:00,CLI0168,Camila da Conceição,Dra. Camila Torres,Botox,Particular,realizado
+2026-04-07,10:00,CLI0085,Ester Leão,Dra. Camila Torres,Botox,Particular,realizado
+2026-04-07,10:30,CLI0031,Jade Peixoto,Dra. Camila Torres,Preenchimento labial,Cartão crédito,cancelado
+2026-04-07,11:00,CLI0052,Laís Nogueira,Dra. Patricia Melo,Peeling químico,Particular,realizado
+2026-04-07,14:00,CLI0011,Bruna Cavalcanti,Dra. Patricia Melo,Limpeza de pele,Cartão débito,cancelado
+2026-04-07,14:00,CLI0200,Marina Guerra,Dra. Camila Torres,Preenchimento labial,Cartão débito,realizado
+2026-04-07,14:30,CLI0051,Marina Rodrigues,Biom. Juliana Faria,Peeling químico,Convênio empresa,confirmado
+2026-04-07,17:00,CLI0108,Sra. Manuela Albuquerque,Dra. Camila Torres,Avaliação inicial,Pix,confirmado
+2026-04-07,17:00,CLI0029,Dra. Manuela Mendonça,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,realizado
+2026-04-08,09:30,CLI0088,Sra. Bruna Albuquerque,Dra. Camila Torres,Depilação a laser,Pix,cancelado
+2026-04-08,10:30,CLI0117,Hadassa Novaes,Est. Renata Souza,Harmonização facial,Pix,realizado
+2026-04-08,10:30,CLI0117,Hadassa Novaes,Dra. Patricia Melo,Harmonização facial,Pix,cancelado
+2026-04-08,14:30,CLI0113,Ana Cecília Albuquerque,Est. Renata Souza,Preenchimento labial,Pix,realizado
+2026-04-08,15:00,CLI0170,Lara Araújo,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-04-08,16:00,CLI0093,Larissa Vasconcelos,Est. Renata Souza,Depilação a laser,Cartão crédito,realizado
+2026-04-08,16:00,CLI0167,Sra. Olívia Cardoso,Biom. Juliana Faria,Preenchimento labial,Particular,realizado
+2026-04-08,17:00,CLI0026,Sophie da Rocha,Biom. Juliana Faria,Botox,Cartão crédito,realizado
+2026-04-08,17:00,CLI0025,Dra. Ana Lívia Barros,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-04-09,08:00,CLI0157,Brenda Cavalcanti,Biom. Juliana Faria,Harmonização facial,Cartão débito,cancelado
+2026-04-09,09:00,CLI0041,Alícia Costela,Dra. Patricia Melo,Harmonização facial,Pix,confirmado
+2026-04-09,13:00,CLI0029,Dra. Manuela Mendonça,Dra. Patricia Melo,Botox,Cartão crédito,realizado
+2026-04-09,13:30,CLI0174,Srta. Alice Vieira,Biom. Juliana Faria,Depilação a laser,Convênio empresa,realizado
+2026-04-09,15:00,CLI0067,Julia Ramos,Est. Renata Souza,Botox,Pix,confirmado
+2026-04-09,15:30,CLI0197,Ana Liz Moraes,Biom. Juliana Faria,Microagulhamento,Cartão débito,confirmado
+2026-04-10,08:00,CLI0157,Brenda Cavalcanti,Dra. Camila Torres,Preenchimento facial,Cartão débito,confirmado
+2026-04-10,08:00,CLI0072,Vitória Moraes,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,cancelado
+2026-04-10,08:00,CLI0141,Ana Julia Pimenta,Dra. Camila Torres,Peeling químico,Pix,confirmado
+2026-04-10,10:00,CLI0144,Elisa Pacheco,Dra. Patricia Melo,Microagulhamento,Pix,realizado
+2026-04-10,11:00,CLI0124,Luara Araújo,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,confirmado
+2026-04-10,11:00,CLI0115,Zoe Ferreira,Dra. Camila Torres,Harmonização facial,Cartão débito,realizado
+2026-04-10,13:00,CLI0027,Sophie Pires,Dra. Patricia Melo,Botox,Convênio empresa,confirmado
+2026.01.20,13:30,CLI0193,Sofia Ribeiro,Est. Renata Souza,Limpeza de pele,Cartão crédito,realizado
+2026-04-10,15:30,CLI0177,Maria Helena Câmara,Dra. Camila Torres,Depilação a laser,Particular,realizado
+2026-04-10,16:00,CLI0114,Ana Liz Sampaio,Dra. Patricia Melo,Preenchimento labial,Particular,cancelado
+2026-04-10,16:00,CLI0144,Elisa Pacheco,Dra. Patricia Melo,Microagulhamento,Pix,cancelado
+2026-04-10,17:00,CLI0121,Ana Sophia Jesus,Dra. Patricia Melo,Preenchimento facial,Particular,realizado
+2026-04-10,17:00,CLI0104,Ana Silva,Biom. Juliana Faria,Preenchimento labial,Convênio empresa,cancelado
+2026-04-10,17:00,CLI0014,Nina Nunes,Biom. Juliana Faria,Harmonização facial,Cartão débito,realizado
+2026-04-13,09:30,CLI0127,Srta. Alícia Fogaça,Dra. Patricia Melo,Preenchimento labial,Cartão débito,realizado
+2026-04-13,10:00,CLI0157,Brenda Cavalcanti,Biom. Juliana Faria,Preenchimento labial,Cartão débito,cancelado
+2026-04-13,13:00,CLI0194,Anna Liz Carvalho,Dra. Camila Torres,Preenchimento labial,Pix,cancelado
+2026-04-13,13:30,CLI0056,Yasmin Caldeira,Biom. Juliana Faria,Microagulhamento,Convênio empresa,realizado
+2026-04-13,15:30,CLI0096,Mirella Araújo,Dra. Camila Torres,Botox,Particular,realizado
+2026-04-13,16:00,CLI0025,Dra. Ana Lívia Barros,Biom. Juliana Faria,Botox,Cartão crédito,realizado
+2026-04-13,17:00,CLI0091,Clarice Aragão,Est. Renata Souza,Avaliação inicial,Particular,confirmado
+2026-04-14,10:30,CLI0088,Sra. Bruna Albuquerque,Dra. Patricia Melo,Preenchimento facial,Pix,realizado
+2026-04-14,13:00,CLI0027,Sophie Pires,Est. Renata Souza,Avaliação inicial,Convênio empresa,cancelado
+22/01/2026,13:30,CLI0150,Clara Cunha,Biom. Juliana Faria,Preenchimento facial,Cartão crédito,realizado
+2026-04-14,13:30,CLI0144,Elisa Pacheco,Dra. Patricia Melo,Avaliação inicial,Pix,realizado
+2026-04-14,14:30,CLI0169,Maria Alice Carvalho,Biom. Juliana Faria,Harmonização facial,Particular,realizado
+2026-04-14,14:30,CLI0108,Sra. Manuela Albuquerque,Biom. Juliana Faria,Peeling químico,Pix,cancelado
+2026-04-14,14:30,CLI0106,Dra. Maria Luiza Rocha,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-04-14,15:00,CLI0182,Luísa Farias,Biom. Juliana Faria,Avaliação inicial,Pix,confirmado
+2026-04-14,15:00,CLI0178,Bianca Cavalcante,Est. Renata Souza,Preenchimento labial,Particular,realizado
+2026-04-14,15:30,CLI0136,Maria Eduarda Rocha,Dra. Camila Torres,Avaliação inicial,Cartão crédito,cancelado
+2026-04-14,15:30,CLI0183,Isabela Silva,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,realizado
+2026-04-14,15:30,CLI0160,Vitória Moraes,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-04-14,16:00,CLI0109,Maria Alice Nunes,Dra. Camila Torres,Avaliação inicial,Cartão crédito,realizado
+2026-04-15,09:30,CLI0098,Ana Carolina Camargo,Dra. Camila Torres,Botox,Convênio empresa,realizado
+2026-04-15,14:00,CLI0193,Sofia Ribeiro,Dra. Camila Torres,Microagulhamento,Cartão crédito,cancelado
+2026-04-15,14:00,CLI0061,Aylla Cunha,Est. Renata Souza,Botox,Particular,cancelado
+2026-04-15,14:30,CLI0027,Sophie Pires,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,cancelado
+2026-04-15,16:00,CLI0069,Isabella da Cruz,Biom. Juliana Faria,Peeling químico,Cartão débito,realizado
+2026-04-15,17:00,CLI0038,Srta. Maria Helena Aparecida,Dra. Camila Torres,Peeling químico,Cartão débito,realizado
+2026-04-16,09:30,CLI0115,Zoe Ferreira,Dra. Camila Torres,Preenchimento facial,Cartão débito,realizado
+2026-04-16,10:00,CLI0135,Srta. Bella Costa,Biom. Juliana Faria,Avaliação inicial,Particular,realizado
+2026-04-16,10:30,CLI0110,Manuella Pimenta,Est. Renata Souza,Preenchimento facial,Cartão crédito,realizado
+2026-04-16,14:00,CLI0189,Dra. Emanuelly da Paz,Dra. Camila Torres,Depilação a laser,Cartão débito,realizado
+2026-04-16,14:00,CLI0147,Maya Correia,Est. Renata Souza,Preenchimento labial,Cartão crédito,realizado
+2026-04-16,14:30,CLI0194,Anna Liz Carvalho,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-04-16,14:30,CLI0083,Lavínia Gomes,Dra. Camila Torres,Peeling químico,Pix,cancelado
+2026-04-16,15:30,CLI0004,Heloisa Barbosa,Est. Renata Souza,Limpeza de pele,Particular,confirmado
+2026-04-16,15:30,CLI0120,Mirella Gomes,Biom. Juliana Faria,Botox,Convênio empresa,realizado
+2026-04-16,16:00,CLI0107,Lorena Duarte,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-04-16,17:00,CLI0200,Marina Guerra,Dra. Patricia Melo,Limpeza de pele,Cartão débito,realizado
+2026-04-16,17:00,CLI0150,Clara Cunha,Est. Renata Souza,Botox,Cartão crédito,realizado
+2026-04-17,09:00,CLI0022,Olívia Pimenta,Biom. Juliana Faria,Avaliação inicial,Cartão crédito,confirmado
+2026-04-17,10:00,CLI0057,Alícia Mendes,Est. Renata Souza,Microagulhamento,Pix,realizado
+2026-04-17,10:00,CLI0076,Sabrina Sampaio,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-04-17,11:00,CLI0198,Clarice da Rosa,Dra. Patricia Melo,Harmonização facial,Convênio empresa,realizado
+2026-04-17,13:00,CLI0041,Alícia Costela,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-04-17,13:00,CLI0176,Fernanda Moura,Dra. Camila Torres,Limpeza de pele,Particular,confirmado
+2026-04-17,13:30,CLI0007,Esther Silva,Est. Renata Souza,Botox,Pix,realizado
+2026-04-17,14:30,CLI0165,Liz Oliveira,Biom. Juliana Faria,Botox,Cartão débito,realizado
+2026-04-17,15:00,CLI0030,Srta. Ana Cecília Carvalho,Est. Renata Souza,Harmonização facial,Particular,realizado
+2026-04-17,15:00,CLI0076,Sabrina Sampaio,Biom. Juliana Faria,Microagulhamento,Convênio empresa,confirmado
+2026-04-17,15:00,CLI0002,Allana Aparecida,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-04-17,15:30,CLI0139,Rafaela Fogaça,Est. Renata Souza,Botox,Convênio empresa,confirmado
+2026-04-17,15:30,CLI0180,Melina Pires,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-04-17,16:00,CLI0098,Ana Carolina Camargo,Dra. Camila Torres,Depilação a laser,Convênio empresa,realizado
+2026-04-20,09:00,CLI0156,Srta. Nicole Sá,Est. Renata Souza,Harmonização facial,Convênio empresa,cancelado
+2026-04-20,09:30,CLI0014,Nina Nunes,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-04-20,13:00,CLI0005,Sra. Ana Vitória Borges,Dra. Camila Torres,Avaliação inicial,Convênio empresa,realizado
+2026-04-20,13:30,CLI0100,Marcela Silva,Dra. Patricia Melo,Depilação a laser,Convênio empresa,realizado
+2026-04-20,14:00,CLI0092,Luna Farias,Dra. Camila Torres,Peeling químico,Cartão crédito,realizado
+2026-04-20,15:30,CLI0165,Liz Oliveira,Dra. Camila Torres,Botox,Cartão débito,realizado
+2026-04-20,17:00,CLI0148,Dra. Rebeca Azevedo,Biom. Juliana Faria,Peeling químico,Convênio empresa,cancelado
+2026-04-21,08:00,CLI0170,Lara Araújo,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,confirmado
+2026-04-21,09:00,CLI0065,Rafaela Nogueira,Biom. Juliana Faria,Harmonização facial,Particular,realizado
+2026-04-21,09:30,CLI0057,Alícia Mendes,Dra. Patricia Melo,Avaliação inicial,Pix,realizado
+2026-04-21,09:30,CLI0163,Maitê Leão,Est. Renata Souza,Microagulhamento,Cartão débito,realizado
+2026-04-21,09:30,CLI0092,Luna Farias,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,realizado
+2026-04-21,10:30,CLI0022,Olívia Pimenta,Biom. Juliana Faria,Microagulhamento,Cartão crédito,realizado
+2026-04-21,14:00,CLI0166,Joana Araújo,Dra. Camila Torres,Peeling químico,Pix,realizado
+2026-04-21,14:30,CLI0002,Allana Aparecida,Dra. Patricia Melo,Avaliação inicial,Cartão crédito,confirmado
+2026-04-21,14:30,CLI0057,Alícia Mendes,Est. Renata Souza,Limpeza de pele,Pix,realizado
+2026-04-21,15:00,CLI0106,Dra. Maria Luiza Rocha,Biom. Juliana Faria,Preenchimento facial,Cartão débito,realizado
+2026-04-21,15:00,CLI0047,Maria Fernanda da Luz,Dra. Camila Torres,Avaliação inicial,Convênio empresa,cancelado
+2026-04-21,17:00,CLI0142,Allana Duarte,Biom. Juliana Faria,Preenchimento labial,Cartão débito,realizado
+2026-04-22,11:00,CLI0050,Maria Flor Leão,Dra. Patricia Melo,Harmonização facial,Particular,realizado
+2026-04-22,11:00,CLI0146,Maria Eduarda Machado,Est. Renata Souza,Depilação a laser,Cartão débito,realizado
+2026-04-22,11:00,CLI0002,Allana Aparecida,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,cancelado
+2026-04-22,13:30,CLI0123,Dra. Emanuelly Vargas,Dra. Patricia Melo,Microagulhamento,Pix,realizado
+2026-04-22,14:00,CLI0125,Agatha Camargo,Dra. Camila Torres,Preenchimento facial,Pix,confirmado
+2026-04-22,15:00,CLI0158,Carolina Correia,Est. Renata Souza,Preenchimento facial,Pix,confirmado
+2026-04-22,17:00,CLI0071,Clarice da Rosa,Est. Renata Souza,Preenchimento facial,Cartão débito,realizado
+2026-04-23,08:00,CLI0055,Clara Marques,Est. Renata Souza,Avaliação inicial,Pix,confirmado
+2026-04-23,14:00,CLI0129,Dra. Emilly Jesus,Dra. Camila Torres,Depilação a laser,Pix,realizado
+2026-04-23,15:00,CLI0130,Maria Helena Casa Grande,Dra. Camila Torres,Depilação a laser,Convênio empresa,confirmado
+2026-04-23,15:00,CLI0121,Ana Sophia Jesus,Biom. Juliana Faria,Microagulhamento,Particular,cancelado
+2026-04-23,15:30,CLI0068,Dra. Maria Gomes,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-04-23,16:00,CLI0058,Sabrina da Mata,Est. Renata Souza,Preenchimento facial,Particular,cancelado
+2026-04-23,17:00,CLI0072,Vitória Moraes,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,realizado
+2026-04-24,08:00,CLI0117,Hadassa Novaes,Dra. Camila Torres,Microagulhamento,Pix,realizado
+2026-04-24,10:00,CLI0011,Bruna Cavalcanti,Dra. Patricia Melo,Limpeza de pele,Cartão débito,realizado
+2026-04-24,10:00,CLI0097,Isis Machado,Dra. Patricia Melo,Microagulhamento,Cartão crédito,realizado
+2026-04-24,11:00,CLI0068,Dra. Maria Gomes,Biom. Juliana Faria,Botox,Cartão crédito,realizado
+2026-04-24,13:30,CLI0036,Luísa Dias,Biom. Juliana Faria,Preenchimento facial,Pix,confirmado
+2026-04-24,13:30,CLI0036,Luísa Dias,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-04-24,14:00,CLI0181,Aurora Brito,Est. Renata Souza,Peeling químico,Particular,confirmado
+2026-04-24,14:30,CLI0140,Dra. Hellena Pacheco,Biom. Juliana Faria,Depilação a laser,Cartão crédito,cancelado
+2026-04-24,14:30,CLI0094,Srta. Ana Lívia Vieira,Dra. Camila Torres,Avaliação inicial,Convênio empresa,realizado
+2026-04-24,15:00,CLI0003,Rebeca Brito,Biom. Juliana Faria,Preenchimento facial,Particular,confirmado
+2026-04-24,15:00,CLI0145,Srta. Cecilia Moreira,Biom. Juliana Faria,Harmonização facial,Cartão débito,realizado
+2026-04-24,15:00,CLI0132,Maria Júlia Peixoto,Est. Renata Souza,Limpeza de pele,Cartão débito,realizado
+2026-04-24,16:00,CLI0133,Amanda Moraes,Est. Renata Souza,Depilação a laser,Cartão crédito,cancelado
+2026-04-24,16:00,CLI0125,Agatha Camargo,Dra. Patricia Melo,Botox,Pix,confirmado
+2026-04-27,08:00,CLI0063,Emanuella Brito,Biom. Juliana Faria,Preenchimento facial,Cartão crédito,realizado
+2026-04-27,10:00,CLI0123,Dra. Emanuelly Vargas,Biom. Juliana Faria,Depilação a laser,Pix,realizado
+2026-04-27,10:30,CLI0043,Gabrielly Gomes,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,cancelado
+2026-04-27,11:00,CLI0041,Alícia Costela,Dra. Camila Torres,Limpeza de pele,Pix,cancelado
+2026-04-27,13:30,CLI0056,Yasmin Caldeira,Dra. Patricia Melo,Harmonização facial,Convênio empresa,realizado
+2026-04-27,14:00,CLI0162,Dra. Clara Campos,Dra. Camila Torres,Preenchimento facial,Cartão crédito,realizado
+2026-04-27,14:30,CLI0154,Maria Júlia Freitas,Dra. Camila Torres,Peeling químico,Pix,realizado
+2026-04-27,15:30,CLI0085,Ester Leão,Dra. Camila Torres,Harmonização facial,Particular,cancelado
+2026-04-28,09:30,CLI0099,Olivia Mendes,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-04-28,09:30,CLI0025,Dra. Ana Lívia Barros,Dra. Patricia Melo,Botox,Cartão crédito,confirmado
+2026-04-28,09:30,CLI0169,Maria Alice Carvalho,Dra. Camila Torres,Depilação a laser,Particular,confirmado
+2026-04-28,11:00,CLI0108,Sra. Manuela Albuquerque,Dra. Camila Torres,Avaliação inicial,Pix,cancelado
+2026-04-28,14:00,CLI0169,Maria Alice Carvalho,Est. Renata Souza,Preenchimento facial,Particular,realizado
+2026-04-28,14:30,CLI0106,Dra. Maria Luiza Rocha,Biom. Juliana Faria,Preenchimento facial,Cartão débito,confirmado
+2026-04-28,14:30,CLI0117,Hadassa Novaes,Dra. Camila Torres,Limpeza de pele,Pix,cancelado
+2026-04-28,16:00,CLI0129,Dra. Emilly Jesus,Dra. Camila Torres,Preenchimento labial,Pix,cancelado
+2026-04-28,17:00,CLI0134,Emanuelly Alves,Dra. Patricia Melo,Preenchimento facial,Particular,confirmado
+2026-04-29,08:00,CLI0134,Emanuelly Alves,Dra. Patricia Melo,Limpeza de pele,Particular,realizado
+2026-04-29,11:00,CLI0105,Lavínia Oliveira,Dra. Camila Torres,Preenchimento facial,Cartão crédito,cancelado
+2026-04-29,13:30,CLI0066,Hadassa Sá,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,realizado
+2026-04-29,14:00,CLI0154,Maria Júlia Freitas,Dra. Patricia Melo,Peeling químico,Pix,realizado
+2026-04-29,14:30,CLI0167,Sra. Olívia Cardoso,Est. Renata Souza,Peeling químico,Particular,confirmado
+2026-04-29,14:30,CLI0109,Maria Alice Nunes,Est. Renata Souza,Peeling químico,Cartão crédito,cancelado
+2026-04-29,15:30,CLI0002,Allana Aparecida,Dra. Camila Torres,Avaliação inicial,Cartão crédito,realizado
+2026-04-29,16:00,CLI0124,Luara Araújo,Dra. Patricia Melo,Microagulhamento,Convênio empresa,confirmado
+2026-04-29,16:00,CLI0190,Dra. Raquel Macedo,Dra. Camila Torres,Depilação a laser,Cartão crédito,realizado
+2026-04-30,08:00,CLI0163,Maitê Leão,Dra. Camila Torres,Preenchimento facial,Cartão débito,cancelado
+2026-04-30,10:00,CLI0192,Srta. Ana Beatriz Barros,Dra. Patricia Melo,Preenchimento facial,Cartão débito,realizado
+2026-04-30,11:00,CLI0148,Dra. Rebeca Azevedo,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-04-30,11:00,CLI0057,Alícia Mendes,Dra. Camila Torres,Botox,Pix,cancelado
+2026-04-30,13:00,CLI0154,Maria Júlia Freitas,Dra. Camila Torres,Preenchimento labial,Pix,realizado
+2026-04-30,14:00,CLI0106,Dra. Maria Luiza Rocha,Dra. Patricia Melo,Preenchimento facial,Cartão débito,realizado
+2026-04-30,14:00,CLI0144,Elisa Pacheco,Dra. Patricia Melo,Peeling químico,Pix,realizado
+2026-04-30,14:00,CLI0055,Clara Marques,Dra. Patricia Melo,Microagulhamento,Pix,confirmado
+2026-04-30,15:30,CLI0158,Carolina Correia,Dra. Camila Torres,Preenchimento facial,Pix,cancelado
+2026-05-01,08:00,CLI0148,Dra. Rebeca Azevedo,Est. Renata Souza,Preenchimento facial,Convênio empresa,cancelado
+2026-05-01,09:00,CLI0130,Maria Helena Casa Grande,Dra. Camila Torres,Avaliação inicial,Convênio empresa,realizado
+2026-05-01,10:00,CLI0093,Larissa Vasconcelos,Dra. Camila Torres,Preenchimento facial,Cartão crédito,realizado
+2026-05-01,13:30,CLI0164,Agatha Silva,Dra. Patricia Melo,Botox,Pix,realizado
+2026-05-01,14:00,CLI0154,Maria Júlia Freitas,Biom. Juliana Faria,Preenchimento facial,Pix,realizado
+2026-05-01,14:30,CLI0104,Ana Silva,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,realizado
+2026-05-01,14:30,CLI0058,Sabrina da Mata,Biom. Juliana Faria,Harmonização facial,Particular,cancelado
+2026-05-01,15:00,CLI0158,Carolina Correia,Est. Renata Souza,Botox,Pix,realizado
+2026-05-01,15:30,CLI0189,Dra. Emanuelly da Paz,Dra. Camila Torres,Preenchimento labial,Cartão débito,confirmado
+2026-05-01,15:30,CLI0073,Ana Vitória Pacheco,Est. Renata Souza,Microagulhamento,Particular,realizado
+2026-05-01,16:00,CLI0169,Maria Alice Carvalho,Est. Renata Souza,Limpeza de pele,Particular,realizado
+2026-05-01,16:00,CLI0071,Clarice da Rosa,Dra. Patricia Melo,Microagulhamento,Cartão débito,cancelado
+2026-05-04,09:00,CLI0067,Julia Ramos,Dra. Patricia Melo,Limpeza de pele,Pix,realizado
+2026-05-04,10:00,CLI0189,Dra. Emanuelly da Paz,Biom. Juliana Faria,Limpeza de pele,Cartão débito,realizado
+2026-05-04,10:30,CLI0147,Maya Correia,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,cancelado
+2026-05-04,13:00,CLI0081,Srta. Larissa Sousa,Est. Renata Souza,Avaliação inicial,Cartão crédito,confirmado
+2026-05-04,13:00,CLI0024,Beatriz Novaes,Est. Renata Souza,Preenchimento labial,Particular,confirmado
+2026-05-04,13:30,CLI0175,Maria Liz Caldeira,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-05-04,13:30,CLI0046,Dra. Giovanna da Mata,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-05-04,15:30,CLI0065,Rafaela Nogueira,Dra. Patricia Melo,Depilação a laser,Particular,confirmado
+2026-05-04,15:30,CLI0003,Rebeca Brito,Est. Renata Souza,Limpeza de pele,Particular,realizado
+2026-05-04,16:00,CLI0030,Srta. Ana Cecília Carvalho,Est. Renata Souza,Avaliação inicial,Particular,confirmado
+2026-05-04,16:00,CLI0124,Luara Araújo,Biom. Juliana Faria,Microagulhamento,Convênio empresa,cancelado
+2026-05-05,08:00,CLI0158,Carolina Correia,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-05-05,09:00,CLI0200,Marina Guerra,Dra. Camila Torres,Preenchimento labial,Cartão débito,cancelado
+2026-05-05,10:00,CLI0059,Ágatha Pimenta,Biom. Juliana Faria,Microagulhamento,Pix,realizado
+2026-05-05,11:00,CLI0159,Heloisa Guerra,Dra. Patricia Melo,Peeling químico,Cartão crédito,cancelado
+2026-05-05,13:30,CLI0109,Maria Alice Nunes,Dra. Camila Torres,Avaliação inicial,Cartão crédito,realizado
+2026-05-05,14:00,CLI0179,Pietra Pereira,Dra. Patricia Melo,Microagulhamento,Convênio empresa,realizado
+2026-05-05,14:30,CLI0193,Sofia Ribeiro,Biom. Juliana Faria,Botox,Cartão crédito,confirmado
+2026-05-05,16:00,CLI0047,Maria Fernanda da Luz,Est. Renata Souza,Depilação a laser,Convênio empresa,realizado
+2026-05-05,17:00,CLI0101,Lorena Jesus,Biom. Juliana Faria,Harmonização facial,Cartão crédito,realizado
+2026-05-06,10:00,CLI0173,Amanda Moura,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-05-06,10:00,CLI0068,Dra. Maria Gomes,Est. Renata Souza,Harmonização facial,Cartão crédito,confirmado
+2026-05-06,11:00,CLI0088,Sra. Bruna Albuquerque,Biom. Juliana Faria,Harmonização facial,Pix,cancelado
+2026-05-06,13:00,CLI0054,Emilly Vasconcelos,Est. Renata Souza,Microagulhamento,Particular,cancelado
+2026-05-06,13:30,CLI0072,Vitória Moraes,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,confirmado
+2026-05-06,14:30,CLI0093,Larissa Vasconcelos,Est. Renata Souza,Preenchimento facial,Cartão crédito,confirmado
+2026-05-07,09:30,CLI0190,Dra. Raquel Macedo,Dra. Patricia Melo,Botox,Cartão crédito,realizado
+2026-05-07,09:30,CLI0177,Maria Helena Câmara,Dra. Camila Torres,Limpeza de pele,Particular,realizado
+2026-05-07,11:00,CLI0185,Aylla Souza,Dra. Patricia Melo,Peeling químico,Pix,realizado
+2026-05-07,11:00,CLI0067,Julia Ramos,Est. Renata Souza,Avaliação inicial,Pix,confirmado
+2026-05-07,13:30,CLI0108,Sra. Manuela Albuquerque,Biom. Juliana Faria,Avaliação inicial,Pix,confirmado
+2026-05-07,15:30,CLI0026,Sophie da Rocha,Est. Renata Souza,Limpeza de pele,Cartão crédito,confirmado
+2026-05-07,17:00,CLI0111,Zoe da Mata,Dra. Patricia Melo,Limpeza de pele,Pix,realizado
+2026-05-07,17:00,CLI0144,Elisa Pacheco,Dra. Camila Torres,Depilação a laser,Pix,realizado
+2026-05-07,17:00,CLI0122,Sophia Teixeira,Dra. Camila Torres,Harmonização facial,Particular,realizado
+2026-05-08,08:00,CLI0089,Sra. Liz Oliveira,Dra. Patricia Melo,Preenchimento labial,Convênio empresa,realizado
+2026-05-08,10:00,CLI0088,Sra. Bruna Albuquerque,Est. Renata Souza,Microagulhamento,Pix,realizado
+2026-05-08,10:30,CLI0200,Marina Guerra,Est. Renata Souza,Microagulhamento,Cartão débito,confirmado
+2026-05-08,10:30,CLI0158,Carolina Correia,Dra. Patricia Melo,Preenchimento facial,Pix,realizado
+2026-05-08,10:30,CLI0182,Luísa Farias,Dra. Patricia Melo,Peeling químico,Pix,cancelado
+2026-05-08,13:00,CLI0147,Maya Correia,Dra. Camila Torres,Preenchimento labial,Cartão crédito,realizado
+2026-05-08,14:30,CLI0174,Srta. Alice Vieira,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,realizado
+2026-05-08,16:00,CLI0125,Agatha Camargo,Dra. Patricia Melo,Preenchimento labial,Pix,cancelado
+2026-05-08,16:00,CLI0164,Agatha Silva,Est. Renata Souza,Depilação a laser,Pix,confirmado
+2026-05-08,17:00,CLI0200,Marina Guerra,Est. Renata Souza,Avaliação inicial,Cartão débito,cancelado
+2026-05-11,08:00,CLI0141,Ana Julia Pimenta,Dra. Camila Torres,Depilação a laser,Pix,confirmado
+2026-05-11,09:00,CLI0102,Zoe Viana,Dra. Camila Torres,Preenchimento labial,Particular,cancelado
+2026-05-11,09:00,CLI0196,Milena Sousa,Dra. Camila Torres,Peeling químico,Cartão débito,confirmado
+2026-05-11,09:00,CLI0040,Gabrielly da Cunha,Dra. Patricia Melo,Peeling químico,Convênio empresa,realizado
+2026-05-11,09:30,CLI0043,Gabrielly Gomes,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-05-11,10:30,CLI0170,Lara Araújo,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-05-11,10:30,CLI0139,Rafaela Fogaça,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,confirmado
+2026-05-11,11:00,CLI0170,Lara Araújo,Est. Renata Souza,Harmonização facial,Cartão crédito,cancelado
+2026-05-11,14:00,CLI0034,Olivia Abreu,Biom. Juliana Faria,Botox,Particular,realizado
+2026-05-11,14:30,CLI0046,Dra. Giovanna da Mata,Dra. Patricia Melo,Depilação a laser,Convênio empresa,confirmado
+2026-05-11,15:00,CLI0164,Agatha Silva,Est. Renata Souza,Microagulhamento,Pix,cancelado
+2026-05-11,15:30,CLI0064,Ana Beatriz Sales,Est. Renata Souza,Harmonização facial,Particular,realizado
+2026-05-12,08:00,CLI0003,Rebeca Brito,Biom. Juliana Faria,Microagulhamento,Particular,realizado
+2026-05-12,08:00,CLI0077,Olivia Brito,Dra. Patricia Melo,Peeling químico,Pix,confirmado
+2026-05-12,09:00,CLI0068,Dra. Maria Gomes,Dra. Patricia Melo,Limpeza de pele,Cartão crédito,confirmado
+2026-05-12,09:30,CLI0005,Sra. Ana Vitória Borges,Dra. Camila Torres,Avaliação inicial,Convênio empresa,realizado
+2026-05-12,10:30,CLI0035,Letícia Caldeira,Dra. Camila Torres,Harmonização facial,Particular,confirmado
+2026-05-12,10:30,CLI0116,Sra. Yasmin Viana,Dra. Patricia Melo,Limpeza de pele,Pix,realizado
+2026-05-12,13:00,CLI0094,Srta. Ana Lívia Vieira,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-05-12,13:00,CLI0049,Maria Luísa Vieira,Dra. Patricia Melo,Depilação a laser,Pix,realizado
+2026-05-12,13:00,CLI0069,Isabella da Cruz,Biom. Juliana Faria,Preenchimento labial,Cartão débito,realizado
+2026-05-12,14:00,CLI0121,Ana Sophia Jesus,Dra. Camila Torres,Harmonização facial,Particular,cancelado
+2026-05-12,15:30,CLI0042,Srta. Lunna Marques,Dra. Patricia Melo,Depilação a laser,Cartão débito,realizado
+2026-05-12,16:00,CLI0059,Ágatha Pimenta,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-05-12,16:00,CLI0060,Srta. Maria Cecília Novais,Dra. Camila Torres,Avaliação inicial,Particular,realizado
+2026-05-12,16:00,CLI0196,Milena Sousa,Est. Renata Souza,Peeling químico,Cartão débito,confirmado
+2026-05-13,08:00,CLI0187,Sra. Beatriz Pacheco,Biom. Juliana Faria,Preenchimento labial,Cartão débito,realizado
+2026-05-13,09:30,CLI0193,Sofia Ribeiro,Dra. Camila Torres,Peeling químico,Cartão crédito,cancelado
+2026-05-13,10:30,CLI0027,Sophie Pires,Est. Renata Souza,Preenchimento facial,Convênio empresa,cancelado
+2026-05-13,13:30,CLI0004,Heloisa Barbosa,Biom. Juliana Faria,Microagulhamento,Particular,cancelado
+2026-05-13,14:00,CLI0019,Aurora Viana,Dra. Patricia Melo,Preenchimento facial,Particular,realizado
+2026-05-13,16:00,CLI0080,Heloisa Câmara,Dra. Patricia Melo,Microagulhamento,Convênio empresa,cancelado
+2026-05-13,16:00,CLI0179,Pietra Pereira,Dra. Camila Torres,Microagulhamento,Convênio empresa,realizado
+2026-05-13,17:00,CLI0065,Rafaela Nogueira,Dra. Patricia Melo,Botox,Particular,realizado
+2026-05-14,08:00,CLI0093,Larissa Vasconcelos,Biom. Juliana Faria,Preenchimento labial,Cartão crédito,realizado
+2026-05-14,08:00,CLI0003,Rebeca Brito,Dra. Patricia Melo,Preenchimento facial,Particular,realizado
+2026-05-14,10:30,CLI0032,Luísa Cardoso,Dra. Patricia Melo,Peeling químico,Pix,realizado
+2026-05-14,13:00,CLI0122,Sophia Teixeira,Est. Renata Souza,Microagulhamento,Particular,realizado
+2026-05-14,13:00,CLI0163,Maitê Leão,Est. Renata Souza,Botox,Cartão débito,realizado
+2026-05-14,13:30,CLI0051,Marina Rodrigues,Dra. Camila Torres,Avaliação inicial,Convênio empresa,realizado
+2026-05-14,14:30,CLI0071,Clarice da Rosa,Dra. Camila Torres,Depilação a laser,Cartão débito,realizado
+2026-05-14,15:30,CLI0162,Dra. Clara Campos,Dra. Camila Torres,Avaliação inicial,Cartão crédito,confirmado
+2026-05-14,16:00,CLI0099,Olivia Mendes,Dra. Patricia Melo,Limpeza de pele,Cartão crédito,realizado
+2026-05-15,08:00,CLI0065,Rafaela Nogueira,Dra. Patricia Melo,Harmonização facial,Particular,confirmado
+2026-05-15,09:30,CLI0064,Ana Beatriz Sales,Dra. Patricia Melo,Preenchimento labial,Particular,confirmado
+2026-05-15,09:30,CLI0166,Joana Araújo,Dra. Camila Torres,Preenchimento facial,Pix,cancelado
+2026-05-15,11:00,CLI0060,Srta. Maria Cecília Novais,Est. Renata Souza,Harmonização facial,Particular,realizado
+2026-05-15,14:00,CLI0076,Sabrina Sampaio,Dra. Patricia Melo,Limpeza de pele,Convênio empresa,confirmado
+2026-05-15,15:30,CLI0006,Alice Carvalho,Dra. Patricia Melo,Microagulhamento,Cartão crédito,realizado
+2026-05-15,16:00,CLI0087,Sra. Maria Vitória Oliveira,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-05-18,09:30,CLI0188,Sara Rezende,Dra. Camila Torres,Microagulhamento,Convênio empresa,confirmado
+2026-05-18,10:30,CLI0157,Brenda Cavalcanti,Est. Renata Souza,Depilação a laser,Cartão débito,realizado
+2026-05-18,11:00,CLI0140,Dra. Hellena Pacheco,Est. Renata Souza,Harmonização facial,Cartão crédito,realizado
+2026-05-18,11:00,CLI0062,Olivia Souza,Dra. Camila Torres,Avaliação inicial,Convênio empresa,cancelado
+2026-05-18,13:30,CLI0040,Gabrielly da Cunha,Est. Renata Souza,Peeling químico,Convênio empresa,confirmado
+2026-05-18,13:30,CLI0094,Srta. Ana Lívia Vieira,Dra. Camila Torres,Avaliação inicial,Convênio empresa,cancelado
+2026-05-18,14:00,CLI0049,Maria Luísa Vieira,Dra. Patricia Melo,Avaliação inicial,Pix,realizado
+2026-05-18,17:00,CLI0154,Maria Júlia Freitas,Biom. Juliana Faria,Preenchimento labial,Pix,confirmado
+2026-05-19,10:00,CLI0125,Agatha Camargo,Dra. Camila Torres,Botox,Pix,confirmado
+2026-05-19,13:30,CLI0168,Camila da Conceição,Dra. Camila Torres,Harmonização facial,Particular,realizado
+2026-05-19,14:00,CLI0025,Dra. Ana Lívia Barros,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-05-19,14:30,CLI0057,Alícia Mendes,Dra. Camila Torres,Botox,Pix,realizado
+2026-05-19,15:30,CLI0160,Vitória Moraes,Est. Renata Souza,Botox,Convênio empresa,realizado
+2026-05-19,17:00,CLI0046,Dra. Giovanna da Mata,Dra. Camila Torres,Limpeza de pele,Convênio empresa,realizado
+2026-05-19,17:00,CLI0165,Liz Oliveira,Dra. Patricia Melo,Harmonização facial,Cartão débito,confirmado
+2026-05-20,09:30,CLI0169,Maria Alice Carvalho,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-05-20,10:00,CLI0020,Sra. Clarice Abreu,Dra. Camila Torres,Preenchimento labial,Convênio empresa,realizado
+2026-05-20,10:00,CLI0169,Maria Alice Carvalho,Biom. Juliana Faria,Avaliação inicial,Particular,confirmado
+2026-05-20,10:30,CLI0158,Carolina Correia,Dra. Camila Torres,Preenchimento labial,Pix,realizado
+2026-05-20,11:00,CLI0141,Ana Julia Pimenta,Est. Renata Souza,Depilação a laser,Pix,cancelado
+2026-05-20,11:00,CLI0186,Dra. Melina Novaes,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-05-20,13:00,CLI0137,Caroline Correia,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,confirmado
+2026-05-20,14:00,CLI0047,Maria Fernanda da Luz,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-05-20,15:00,CLI0180,Melina Pires,Dra. Patricia Melo,Preenchimento labial,Particular,realizado
+2026-05-20,15:30,CLI0143,Lorena Azevedo,Dra. Patricia Melo,Microagulhamento,Pix,realizado
+2026-05-20,15:30,CLI0107,Lorena Duarte,Dra. Camila Torres,Microagulhamento,Cartão débito,cancelado
+2026-05-21,08:00,CLI0153,Alice Silva,Biom. Juliana Faria,Peeling químico,Convênio empresa,realizado
+2026-05-21,09:00,CLI0077,Olivia Brito,Dra. Patricia Melo,Limpeza de pele,Pix,realizado
+2026-05-21,10:00,CLI0077,Olivia Brito,Biom. Juliana Faria,Microagulhamento,Pix,realizado
+2026-05-21,11:00,CLI0118,Isabel Peixoto,Biom. Juliana Faria,Preenchimento facial,Pix,realizado
+2026-05-21,11:00,CLI0186,Dra. Melina Novaes,Dra. Patricia Melo,Preenchimento facial,Cartão débito,cancelado
+2026-05-21,13:00,CLI0115,Zoe Ferreira,Dra. Camila Torres,Botox,Cartão débito,realizado
+2026-05-21,14:00,CLI0197,Ana Liz Moraes,Est. Renata Souza,Microagulhamento,Cartão débito,cancelado
+2026-05-21,14:30,CLI0143,Lorena Azevedo,Biom. Juliana Faria,Preenchimento labial,Pix,realizado
+2026-05-21,14:30,CLI0094,Srta. Ana Lívia Vieira,Biom. Juliana Faria,Limpeza de pele,Convênio empresa,realizado
+2026-05-21,15:30,CLI0177,Maria Helena Câmara,Dra. Camila Torres,Peeling químico,Particular,realizado
+2026-05-21,16:00,CLI0188,Sara Rezende,Dra. Patricia Melo,Preenchimento labial,Convênio empresa,realizado
+2026-05-21,17:00,CLI0198,Clarice da Rosa,Est. Renata Souza,Avaliação inicial,Convênio empresa,confirmado
+2026-05-22,08:00,CLI0040,Gabrielly da Cunha,Dra. Patricia Melo,Harmonização facial,Convênio empresa,confirmado
+2026-05-22,09:00,CLI0087,Sra. Maria Vitória Oliveira,Dra. Patricia Melo,Botox,Cartão crédito,confirmado
+2026-05-22,09:30,CLI0145,Srta. Cecilia Moreira,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-05-22,10:00,CLI0198,Clarice da Rosa,Dra. Camila Torres,Depilação a laser,Convênio empresa,realizado
+2026-05-22,10:00,CLI0144,Elisa Pacheco,Dra. Patricia Melo,Depilação a laser,Pix,confirmado
+2026-05-22,10:30,CLI0103,Gabriela Cunha,Dra. Camila Torres,Depilação a laser,Particular,confirmado
+2026-05-22,14:00,CLI0079,Lunna Cardoso,Dra. Camila Torres,Microagulhamento,Particular,confirmado
+2026-05-22,14:00,CLI0148,Dra. Rebeca Azevedo,Dra. Camila Torres,Limpeza de pele,Convênio empresa,cancelado
+2026-05-22,16:00,CLI0075,Ana Camargo,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-05-22,16:00,CLI0112,Bella Oliveira,Biom. Juliana Faria,Preenchimento facial,Cartão débito,cancelado
+2026-05-22,17:00,CLI0090,Rafaela Moraes,Dra. Patricia Melo,Depilação a laser,Cartão débito,realizado
+2026-05-25,08:00,CLI0168,Camila da Conceição,Est. Renata Souza,Preenchimento facial,Particular,realizado
+2026-05-25,09:00,CLI0023,Dra. Ana Beatriz Montenegro,Dra. Patricia Melo,Depilação a laser,Particular,realizado
+2026-05-25,10:00,CLI0090,Rafaela Moraes,Est. Renata Souza,Microagulhamento,Cartão débito,confirmado
+2026-05-25,14:30,CLI0144,Elisa Pacheco,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-05-25,14:30,CLI0063,Emanuella Brito,Biom. Juliana Faria,Peeling químico,Cartão crédito,realizado
+2026-05-25,16:00,CLI0069,Isabella da Cruz,Dra. Patricia Melo,Microagulhamento,Cartão débito,confirmado
+2026-05-25,16:00,CLI0040,Gabrielly da Cunha,Dra. Camila Torres,Preenchimento labial,Convênio empresa,realizado
+2026-05-25,17:00,CLI0158,Carolina Correia,Dra. Patricia Melo,Preenchimento facial,Pix,cancelado
+2026-05-25,17:00,CLI0012,Gabriela Macedo,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-05-26,08:00,CLI0121,Ana Sophia Jesus,Est. Renata Souza,Limpeza de pele,Particular,confirmado
+2026-05-26,10:00,CLI0055,Clara Marques,Est. Renata Souza,Avaliação inicial,Pix,cancelado
+2026-05-26,10:30,CLI0016,Julia Casa Grande,Biom. Juliana Faria,Peeling químico,Cartão crédito,realizado
+2026-05-26,10:30,CLI0170,Lara Araújo,Est. Renata Souza,Preenchimento labial,Cartão crédito,realizado
+2026-05-26,14:00,CLI0153,Alice Silva,Dra. Camila Torres,Preenchimento facial,Convênio empresa,realizado
+2026-05-26,15:00,CLI0150,Clara Cunha,Dra. Camila Torres,Peeling químico,Cartão crédito,realizado
+2026-05-26,15:00,CLI0120,Mirella Gomes,Dra. Camila Torres,Preenchimento labial,Convênio empresa,cancelado
+2026-05-26,15:30,CLI0160,Vitória Moraes,Biom. Juliana Faria,Botox,Convênio empresa,cancelado
+2026-05-26,15:30,CLI0131,Hadassa Lima,Dra. Camila Torres,Microagulhamento,Particular,cancelado
+2026-05-26,16:00,CLI0178,Bianca Cavalcante,Dra. Camila Torres,Peeling químico,Particular,cancelado
+2026-05-26,17:00,CLI0075,Ana Camargo,Dra. Patricia Melo,Limpeza de pele,Convênio empresa,cancelado
+2026-05-27,09:30,CLI0191,Bella Ramos,Dra. Camila Torres,Microagulhamento,Cartão débito,realizado
+2026-05-27,09:30,CLI0147,Maya Correia,Dra. Patricia Melo,Peeling químico,Cartão crédito,confirmado
+2026-05-27,10:30,CLI0136,Maria Eduarda Rocha,Est. Renata Souza,Harmonização facial,Cartão crédito,cancelado
+2026-05-27,13:00,CLI0088,Sra. Bruna Albuquerque,Biom. Juliana Faria,Preenchimento labial,Pix,cancelado
+2026-05-27,13:30,CLI0085,Ester Leão,Biom. Juliana Faria,Limpeza de pele,Particular,realizado
+2026-05-27,14:00,CLI0118,Isabel Peixoto,Dra. Camila Torres,Botox,Pix,realizado
+2026-05-27,14:00,CLI0008,Sara Rezende,Est. Renata Souza,Limpeza de pele,Cartão crédito,realizado
+2026-05-27,14:00,CLI0149,Maria Helena Fernandes,Biom. Juliana Faria,Preenchimento facial,Cartão crédito,realizado
+2026-05-27,14:00,CLI0143,Lorena Azevedo,Dra. Camila Torres,Preenchimento facial,Pix,realizado
+2026-05-27,14:30,CLI0168,Camila da Conceição,Biom. Juliana Faria,Microagulhamento,Particular,realizado
+2026-05-27,15:00,CLI0091,Clarice Aragão,Est. Renata Souza,Limpeza de pele,Particular,confirmado
+2026-05-27,15:00,CLI0134,Emanuelly Alves,Biom. Juliana Faria,Depilação a laser,Particular,realizado
+2026-05-27,15:30,CLI0177,Maria Helena Câmara,Biom. Juliana Faria,Depilação a laser,Particular,realizado
+2026-05-27,16:00,CLI0071,Clarice da Rosa,Dra. Camila Torres,Peeling químico,Cartão débito,cancelado
+2026-05-28,08:00,CLI0187,Sra. Beatriz Pacheco,Est. Renata Souza,Depilação a laser,Cartão débito,cancelado
+2026-05-28,08:00,CLI0176,Fernanda Moura,Est. Renata Souza,Preenchimento labial,Particular,cancelado
+2026-05-28,09:30,CLI0028,Sophie Camargo,Biom. Juliana Faria,Botox,Pix,confirmado
+2026-05-28,10:00,CLI0050,Maria Flor Leão,Dra. Camila Torres,Depilação a laser,Particular,realizado
+2026-05-28,10:30,CLI0158,Carolina Correia,Biom. Juliana Faria,Limpeza de pele,Pix,realizado
+2026-05-28,13:30,CLI0078,Isis da Costa,Est. Renata Souza,Preenchimento facial,Convênio empresa,realizado
+2026-05-28,13:30,CLI0100,Marcela Silva,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,realizado
+2026-05-28,14:00,CLI0035,Letícia Caldeira,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-05-29,10:00,CLI0106,Dra. Maria Luiza Rocha,Biom. Juliana Faria,Limpeza de pele,Cartão débito,realizado
+2026-05-29,13:00,CLI0064,Ana Beatriz Sales,Dra. Patricia Melo,Botox,Particular,confirmado
+2026-05-29,13:00,CLI0138,Lara Vargas,Dra. Camila Torres,Avaliação inicial,Particular,cancelado
+2026-05-29,13:00,CLI0113,Ana Cecília Albuquerque,Est. Renata Souza,Peeling químico,Pix,cancelado
+2026-05-29,13:00,CLI0043,Gabrielly Gomes,Est. Renata Souza,Botox,Convênio empresa,confirmado
+2026-05-29,13:30,CLI0046,Dra. Giovanna da Mata,Dra. Patricia Melo,Microagulhamento,Convênio empresa,cancelado
+2026-05-29,13:30,CLI0116,Sra. Yasmin Viana,Dra. Camila Torres,Limpeza de pele,Pix,confirmado
+2026-05-29,15:30,CLI0157,Brenda Cavalcanti,Dra. Camila Torres,Avaliação inicial,Cartão débito,realizado
+2026-05-29,16:00,CLI0133,Amanda Moraes,Dra. Camila Torres,Limpeza de pele,Cartão crédito,realizado
+2026-05-29,17:00,CLI0189,Dra. Emanuelly da Paz,Dra. Patricia Melo,Microagulhamento,Cartão débito,cancelado
+2026-06-01,09:30,CLI0029,Dra. Manuela Mendonça,Biom. Juliana Faria,Depilação a laser,Cartão crédito,cancelado
+2026-06-01,11:00,CLI0065,Rafaela Nogueira,Biom. Juliana Faria,Preenchimento labial,Particular,realizado
+2026-06-01,13:00,CLI0041,Alícia Costela,Dra. Patricia Melo,Botox,Pix,realizado
+2026-06-01,13:30,CLI0083,Lavínia Gomes,Dra. Camila Torres,Preenchimento facial,Pix,cancelado
+2026-06-01,15:30,CLI0152,Isabel Montenegro,Biom. Juliana Faria,Harmonização facial,Particular,realizado
+2026-06-01,15:30,CLI0030,Srta. Ana Cecília Carvalho,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-06-01,15:30,CLI0135,Srta. Bella Costa,Dra. Patricia Melo,Avaliação inicial,Particular,confirmado
+2026-06-01,17:00,CLI0119,Luana Lopes,Dra. Patricia Melo,Preenchimento labial,Particular,confirmado
+2026-06-02,08:00,CLI0038,Srta. Maria Helena Aparecida,Est. Renata Souza,Botox,Cartão débito,realizado
+2026-06-02,09:00,CLI0114,Ana Liz Sampaio,Dra. Camila Torres,Limpeza de pele,Particular,confirmado
+2026-06-02,09:30,CLI0031,Jade Peixoto,Biom. Juliana Faria,Botox,Cartão crédito,confirmado
+2026-06-02,10:30,CLI0196,Milena Sousa,Dra. Camila Torres,Harmonização facial,Cartão débito,cancelado
+2026-06-02,14:00,CLI0128,Brenda Souza,Dra. Camila Torres,Harmonização facial,Convênio empresa,realizado
+2026-06-02,14:30,CLI0056,Yasmin Caldeira,Dra. Patricia Melo,Harmonização facial,Convênio empresa,cancelado
+2026-06-02,14:30,CLI0072,Vitória Moraes,Biom. Juliana Faria,Botox,Convênio empresa,realizado
+2026-06-02,15:00,CLI0009,Srta. Ayla Cardoso,Est. Renata Souza,Microagulhamento,Cartão crédito,realizado
+2026-06-02,15:30,CLI0080,Heloisa Câmara,Dra. Patricia Melo,Peeling químico,Convênio empresa,realizado
+2026-06-02,16:00,CLI0046,Dra. Giovanna da Mata,Dra. Camila Torres,Depilação a laser,Convênio empresa,realizado
+2026-06-02,17:00,CLI0145,Srta. Cecilia Moreira,Biom. Juliana Faria,Preenchimento facial,Cartão débito,realizado
+2026-06-03,08:00,CLI0093,Larissa Vasconcelos,Dra. Camila Torres,Peeling químico,Cartão crédito,realizado
+2026-06-03,10:30,CLI0017,Heloísa Nunes,Dra. Patricia Melo,Preenchimento facial,Pix,realizado
+2026-06-03,13:00,CLI0028,Sophie Camargo,Biom. Juliana Faria,Preenchimento facial,Pix,realizado
+2026-06-03,13:00,CLI0095,Beatriz Cirino,Dra. Camila Torres,Depilação a laser,Particular,confirmado
+2026-06-03,15:00,CLI0157,Brenda Cavalcanti,Biom. Juliana Faria,Harmonização facial,Cartão débito,confirmado
+2026-06-03,17:00,CLI0178,Bianca Cavalcante,Est. Renata Souza,Microagulhamento,Particular,confirmado
+2026-06-04,08:00,CLI0031,Jade Peixoto,Dra. Patricia Melo,Preenchimento labial,Cartão crédito,realizado
+2026-06-04,10:00,CLI0135,Srta. Bella Costa,Biom. Juliana Faria,Botox,Particular,realizado
+2026-06-04,10:00,CLI0157,Brenda Cavalcanti,Est. Renata Souza,Limpeza de pele,Cartão débito,realizado
+2026-06-04,10:30,CLI0181,Aurora Brito,Dra. Patricia Melo,Microagulhamento,Particular,realizado
+2026-06-04,10:30,CLI0177,Maria Helena Câmara,Est. Renata Souza,Preenchimento labial,Particular,realizado
+2026-06-04,11:00,CLI0176,Fernanda Moura,Est. Renata Souza,Depilação a laser,Particular,confirmado
+2026-06-04,13:00,CLI0158,Carolina Correia,Dra. Patricia Melo,Botox,Pix,realizado
+2026-06-04,13:30,CLI0145,Srta. Cecilia Moreira,Dra. Patricia Melo,Harmonização facial,Cartão débito,realizado
+2026-06-04,14:00,CLI0090,Rafaela Moraes,Biom. Juliana Faria,Botox,Cartão débito,realizado
+2026-06-04,14:00,CLI0077,Olivia Brito,Est. Renata Souza,Botox,Pix,realizado
+2026-06-04,14:30,CLI0135,Srta. Bella Costa,Est. Renata Souza,Preenchimento facial,Particular,confirmado
+2026-06-04,15:30,CLI0147,Maya Correia,Dra. Camila Torres,Harmonização facial,Cartão crédito,confirmado
+2026-06-05,10:00,CLI0045,Yasmin da Costa,Est. Renata Souza,Microagulhamento,Pix,cancelado
+2026-06-05,10:00,CLI0005,Sra. Ana Vitória Borges,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-06-05,14:30,CLI0077,Olivia Brito,Est. Renata Souza,Avaliação inicial,Pix,confirmado
+2026-06-05,15:00,CLI0040,Gabrielly da Cunha,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-06-05,16:00,CLI0122,Sophia Teixeira,Dra. Camila Torres,Preenchimento facial,Particular,cancelado
+2026-06-05,16:00,CLI0119,Luana Lopes,Dra. Patricia Melo,Botox,Particular,confirmado
+2026-06-08,09:00,CLI0153,Alice Silva,Est. Renata Souza,Microagulhamento,Convênio empresa,realizado
+2026-06-08,09:30,CLI0078,Isis da Costa,Dra. Camila Torres,Microagulhamento,Convênio empresa,realizado
+2026-06-08,10:00,CLI0200,Marina Guerra,Dra. Camila Torres,Harmonização facial,Cartão débito,confirmado
+2026-06-08,13:00,CLI0070,Maysa da Conceição,Dra. Camila Torres,Harmonização facial,Convênio empresa,realizado
+2026-06-08,13:30,CLI0096,Mirella Araújo,Est. Renata Souza,Limpeza de pele,Particular,confirmado
+2026-06-08,14:00,CLI0161,Olivia Almeida,Biom. Juliana Faria,Depilação a laser,Convênio empresa,realizado
+2026-06-08,16:00,CLI0007,Esther Silva,Dra. Patricia Melo,Avaliação inicial,Pix,realizado
+2026-06-08,17:00,CLI0072,Vitória Moraes,Dra. Camila Torres,Microagulhamento,Convênio empresa,cancelado
+2026-06-09,09:00,CLI0012,Gabriela Macedo,Est. Renata Souza,Botox,Pix,confirmado
+2026-06-09,10:30,CLI0195,Milena Leão,Biom. Juliana Faria,Microagulhamento,Pix,realizado
+2026-06-09,10:30,CLI0050,Maria Flor Leão,Est. Renata Souza,Avaliação inicial,Particular,realizado
+2026-06-09,13:30,CLI0088,Sra. Bruna Albuquerque,Est. Renata Souza,Microagulhamento,Pix,realizado
+2026-06-09,13:30,CLI0198,Clarice da Rosa,Dra. Camila Torres,Peeling químico,Convênio empresa,realizado
+2026-06-09,15:00,CLI0012,Gabriela Macedo,Dra. Camila Torres,Microagulhamento,Pix,cancelado
+2026-06-09,15:30,CLI0053,Luiza Pastor,Dra. Camila Torres,Harmonização facial,Cartão crédito,cancelado
+2026-06-09,17:00,CLI0197,Ana Liz Moraes,Dra. Camila Torres,Avaliação inicial,Cartão débito,realizado
+2026-06-09,17:00,CLI0183,Isabela Silva,Dra. Camila Torres,Botox,Cartão crédito,realizado
+2026-06-10,09:00,CLI0071,Clarice da Rosa,Dra. Camila Torres,Avaliação inicial,Cartão débito,confirmado
+2026-06-10,09:30,CLI0070,Maysa da Conceição,Est. Renata Souza,Limpeza de pele,Convênio empresa,realizado
+2026-06-10,09:30,CLI0013,Sabrina Ribeiro,Dra. Camila Torres,Harmonização facial,Particular,realizado
+2026-06-10,09:30,CLI0101,Lorena Jesus,Dra. Patricia Melo,Microagulhamento,Cartão crédito,realizado
+2026-06-10,10:00,CLI0027,Sophie Pires,Est. Renata Souza,Avaliação inicial,Convênio empresa,realizado
+2026-06-10,10:30,CLI0019,Aurora Viana,Est. Renata Souza,Avaliação inicial,Particular,cancelado
+2026-06-10,13:00,CLI0028,Sophie Camargo,Dra. Camila Torres,Preenchimento labial,Pix,cancelado
+2026-06-10,17:00,CLI0086,Jade Mendonça,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-06-11,08:00,CLI0125,Agatha Camargo,Dra. Camila Torres,Harmonização facial,Pix,realizado
+2026-06-11,09:00,CLI0167,Sra. Olívia Cardoso,Est. Renata Souza,Avaliação inicial,Particular,cancelado
+2026-06-11,09:30,CLI0146,Maria Eduarda Machado,Dra. Camila Torres,Harmonização facial,Cartão débito,realizado
+2026-06-11,09:30,CLI0058,Sabrina da Mata,Est. Renata Souza,Microagulhamento,Particular,cancelado
+2026-06-11,10:30,CLI0117,Hadassa Novaes,Dra. Patricia Melo,Harmonização facial,Pix,realizado
+2026-06-11,11:00,CLI0197,Ana Liz Moraes,Biom. Juliana Faria,Avaliação inicial,Cartão débito,realizado
+2026-06-11,11:00,CLI0017,Heloísa Nunes,Biom. Juliana Faria,Depilação a laser,Pix,cancelado
+2026-06-11,13:30,CLI0090,Rafaela Moraes,Dra. Patricia Melo,Preenchimento facial,Cartão débito,realizado
+2026-06-11,14:00,CLI0063,Emanuella Brito,Biom. Juliana Faria,Harmonização facial,Cartão crédito,cancelado
+2026-06-11,14:30,CLI0103,Gabriela Cunha,Dra. Patricia Melo,Limpeza de pele,Particular,confirmado
+2026-06-11,15:30,CLI0047,Maria Fernanda da Luz,Est. Renata Souza,Microagulhamento,Convênio empresa,cancelado
+2026-06-11,16:00,CLI0146,Maria Eduarda Machado,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-06-11,17:00,CLI0104,Ana Silva,Dra. Camila Torres,Microagulhamento,Convênio empresa,confirmado
+2026-06-12,09:00,CLI0104,Ana Silva,Dra. Camila Torres,Depilação a laser,Convênio empresa,realizado
+2026-06-12,13:30,CLI0148,Dra. Rebeca Azevedo,Biom. Juliana Faria,Limpeza de pele,Convênio empresa,realizado
+2026-06-12,14:00,CLI0116,Sra. Yasmin Viana,Est. Renata Souza,Depilação a laser,Pix,confirmado
+2026-06-12,14:30,CLI0152,Isabel Montenegro,Dra. Patricia Melo,Microagulhamento,Particular,confirmado
+2026-06-12,14:30,CLI0036,Luísa Dias,Dra. Camila Torres,Preenchimento facial,Pix,realizado
+2026-06-12,15:00,CLI0170,Lara Araújo,Dra. Camila Torres,Harmonização facial,Cartão crédito,realizado
+2026-06-12,15:00,CLI0127,Srta. Alícia Fogaça,Dra. Camila Torres,Preenchimento labial,Cartão débito,realizado
+2026-06-12,17:00,CLI0025,Dra. Ana Lívia Barros,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,realizado
+2026-06-15,08:00,CLI0141,Ana Julia Pimenta,Dra. Camila Torres,Avaliação inicial,Pix,realizado
+2026-06-15,09:30,CLI0170,Lara Araújo,Dra. Patricia Melo,Preenchimento facial,Cartão crédito,realizado
+2026-06-15,13:00,CLI0104,Ana Silva,Dra. Patricia Melo,Avaliação inicial,Convênio empresa,realizado
+2026-06-15,13:00,CLI0143,Lorena Azevedo,Est. Renata Souza,Depilação a laser,Pix,realizado
+2026-06-15,14:30,CLI0023,Dra. Ana Beatriz Montenegro,Dra. Camila Torres,Avaliação inicial,Particular,cancelado
+2026-06-15,15:30,CLI0111,Zoe da Mata,Dra. Patricia Melo,Microagulhamento,Pix,cancelado
+2026-06-15,16:00,CLI0146,Maria Eduarda Machado,Est. Renata Souza,Depilação a laser,Cartão débito,realizado
+2026-06-15,17:00,CLI0033,Agatha Fogaça,Est. Renata Souza,Botox,Convênio empresa,realizado
+2026-06-15,17:00,CLI0029,Dra. Manuela Mendonça,Est. Renata Souza,Botox,Cartão crédito,realizado
+2026-06-15,17:00,CLI0074,Antonella Nogueira,Biom. Juliana Faria,Preenchimento facial,Convênio empresa,realizado
+2026-06-16,08:00,CLI0166,Joana Araújo,Biom. Juliana Faria,Harmonização facial,Pix,cancelado
+2026-06-16,09:00,CLI0035,Letícia Caldeira,Biom. Juliana Faria,Depilação a laser,Particular,cancelado
+2026-06-16,09:30,CLI0058,Sabrina da Mata,Dra. Patricia Melo,Botox,Particular,confirmado
+2026-06-16,13:00,CLI0131,Hadassa Lima,Dra. Patricia Melo,Depilação a laser,Particular,realizado
+2026-06-16,14:00,CLI0106,Dra. Maria Luiza Rocha,Est. Renata Souza,Botox,Cartão débito,realizado
+2026-06-16,14:30,CLI0179,Pietra Pereira,Dra. Patricia Melo,Preenchimento facial,Convênio empresa,cancelado
+2026-06-16,17:00,CLI0128,Brenda Souza,Biom. Juliana Faria,Avaliação inicial,Convênio empresa,realizado
+2026-06-17,08:00,CLI0200,Marina Guerra,Dra. Patricia Melo,Harmonização facial,Cartão débito,confirmado
+2026-06-17,09:00,CLI0130,Maria Helena Casa Grande,Est. Renata Souza,Peeling químico,Convênio empresa,realizado
+2026-06-17,09:30,CLI0149,Maria Helena Fernandes,Dra. Camila Torres,Peeling químico,Cartão crédito,confirmado
+2026-06-17,10:30,CLI0076,Sabrina Sampaio,Biom. Juliana Faria,Botox,Convênio empresa,confirmado
+2026-06-17,10:30,CLI0192,Srta. Ana Beatriz Barros,Est. Renata Souza,Botox,Cartão débito,cancelado
+2026-06-17,10:30,CLI0007,Esther Silva,Dra. Patricia Melo,Preenchimento labial,Pix,realizado
+2026-06-17,10:30,CLI0158,Carolina Correia,Est. Renata Souza,Peeling químico,Pix,realizado
+2026-06-17,11:00,CLI0181,Aurora Brito,Dra. Camila Torres,Harmonização facial,Particular,realizado
+2026-06-17,14:00,CLI0021,Maria Isis da Mota,Dra. Camila Torres,Limpeza de pele,Pix,cancelado
+2026-06-17,14:30,CLI0080,Heloisa Câmara,Dra. Camila Torres,Microagulhamento,Convênio empresa,confirmado
+2026-06-17,14:30,CLI0121,Ana Sophia Jesus,Est. Renata Souza,Depilação a laser,Particular,realizado
+2026-06-17,15:30,CLI0037,Maria Helena Gonçalves,Est. Renata Souza,Harmonização facial,Convênio empresa,confirmado
+2026-06-17,15:30,CLI0162,Dra. Clara Campos,Dra. Camila Torres,Avaliação inicial,Cartão crédito,confirmado
+2026-06-18,09:30,CLI0155,Cecília Vasconcelos,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-06-18,10:30,CLI0045,Yasmin da Costa,Biom. Juliana Faria,Harmonização facial,Pix,realizado
+2026-06-18,13:00,CLI0198,Clarice da Rosa,Biom. Juliana Faria,Harmonização facial,Convênio empresa,realizado
+2026-06-18,14:30,CLI0038,Srta. Maria Helena Aparecida,Biom. Juliana Faria,Harmonização facial,Cartão débito,cancelado
+2026-06-18,14:30,CLI0054,Emilly Vasconcelos,Est. Renata Souza,Botox,Particular,realizado
+2026-06-18,17:00,CLI0136,Maria Eduarda Rocha,Dra. Camila Torres,Microagulhamento,Cartão crédito,realizado
+2026-06-18,17:00,CLI0194,Anna Liz Carvalho,Dra. Camila Torres,Botox,Pix,realizado
+2026-06-19,08:00,CLI0009,Srta. Ayla Cardoso,Dra. Camila Torres,Botox,Cartão crédito,confirmado
+2026-06-19,09:00,CLI0106,Dra. Maria Luiza Rocha,Dra. Camila Torres,Harmonização facial,Cartão débito,realizado
+2026-06-19,13:00,CLI0060,Srta. Maria Cecília Novais,Dra. Patricia Melo,Harmonização facial,Particular,realizado
+2026-06-19,13:00,CLI0115,Zoe Ferreira,Est. Renata Souza,Avaliação inicial,Cartão débito,realizado
+2026-06-19,13:30,CLI0103,Gabriela Cunha,Est. Renata Souza,Harmonização facial,Particular,confirmado
+2026-06-19,13:30,CLI0101,Lorena Jesus,Biom. Juliana Faria,Limpeza de pele,Cartão crédito,confirmado
+2026-06-19,14:00,CLI0038,Srta. Maria Helena Aparecida,Dra. Patricia Melo,Botox,Cartão débito,realizado
+2026-06-19,14:00,CLI0025,Dra. Ana Lívia Barros,Est. Renata Souza,Depilação a laser,Cartão crédito,confirmado
+2026-06-19,15:00,CLI0087,Sra. Maria Vitória Oliveira,Biom. Juliana Faria,Microagulhamento,Cartão crédito,confirmado
+2026-06-19,15:00,CLI0003,Rebeca Brito,Dra. Camila Torres,Preenchimento labial,Particular,realizado
+2026-06-19,15:30,CLI0057,Alícia Mendes,Est. Renata Souza,Peeling químico,Pix,realizado
+2026-06-19,16:00,CLI0069,Isabella da Cruz,Dra. Camila Torres,Peeling químico,Cartão débito,confirmado
+2026-06-19,17:00,CLI0167,Sra. Olívia Cardoso,Est. Renata Souza,Microagulhamento,Particular,realizado
+2026-01-21,08:00,CLI0190,Dra. Raquel Macedo,Dra. Patricia Melo,Botox,Cartão crédito,cancelado
+2026-03-09,09:00,CLI0181,Aurora Brito,Dra. Camila Torres,Limpeza de pele,Particular,cancelado
+2026-06-09,13:30,CLI0088,Sra. Bruna Albuquerque,Est. Renata Souza,Microagulhamento,Pix,realizado
+2026-05-21,16:00,CLI0188,Sara Rezende,Dra. Patricia Melo,Preenchimento labial,Convênio empresa,realizado
+2026-04-24,10:00,CLI0097,Isis Machado,Dra. Patricia Melo,Microagulhamento,Cartão crédito,realizado

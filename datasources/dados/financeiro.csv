@@ -1,0 +1,740 @@
+data,tipo,categoria,valor,descricao
+2026-01-01,entrada,Depilação a laser,1415.87,Pagamento - Olívia Pimenta
+2026-01-01,entrada,Harmonização facial,1823.2,Pagamento - Jade Carvalho
+2026-01-01,entrada,Harmonização facial,730.67,Pagamento - Srta. Maria Alice Guerra
+2026-01-01,entrada,Pacote tratamento,1422.81,Pagamento - Alexia Viana
+2026-01-01,saida,Cosméticos,4628.94,Pagamento - Insumos médicos
+2026-01-02,saida,Aluguel,3129.45,Pagamento - Aluguel
+2026-01-02,entrada,Peeling,602.48,Pagamento - Ísis Campos
+2026-01-02,entrada,Peeling,1924.53,Pagamento - Srta. Eduarda Viana
+2026-01-02,entrada,Microagulhamento,1993.13,Pagamento - Liz da Conceição
+2026-01-02,entrada,Botox,950.76,Pagamento - Giovanna Nogueira
+2026-01-02,entrada,Preenchimento,771.39,Pagamento - Jade Brito
+2026-01-02,entrada,Microagulhamento,737.47,Pagamento - Sara da Mota
+2026-01-05,saida,Folha de pagamento,22099.0,Pagamento fixo - Folha de pagamento
+2026-01-05,saida,Marketing digital,204.16,Pagamento - Folha de pagamento
+2026-01-05,entrada,Botox,1824.07,Pagamento - Emilly Teixeira
+2026-01-05,entrada,Peeling,1621.3,Pagamento - Amanda Novaes
+2026-01-05,entrada,Preenchimento,419.7,Pagamento - Sabrina Fonseca
+2026-01-05,saida,Aluguel,6472.0,Pagamento fixo - Aluguel
+2026-01-05,entrada,Preenchimento,1851.44,Pagamento - Maria Sophia Castro
+2026-01-05,entrada,Limpeza de pele,1343.74,Pagamento - Isis da Luz
+2026-01-05,entrada,Avaliação,1606.8,Pagamento - Srta. Maria Cecília Pereira
+2026-01-05,entrada,Pacote tratamento,484.33,Pagamento - Maria Julia Freitas
+2026-01-05,entrada,Peeling,475.59,Pagamento - Sra. Ísis Silva
+2026-01-06,entrada,Microagulhamento,1837.85,Pagamento - Sra. Maria Helena Cavalcante
+2026-01-06,entrada,Botox,1176.15,Pagamento - Eloah da Cruz
+2026-01-06,entrada,Pacote tratamento,1112.84,Pagamento - Maria Luísa Nunes
+2026-01-06,entrada,Depilação a laser,1734.88,Pagamento - Lunna Ferreira
+2026-01-07,entrada,Avaliação,683.94,Pagamento - Ágatha da Rosa
+2026-01-07,entrada,Depilação a laser,1922.06,Pagamento - Fernanda Barros
+2026-01-07,entrada,Pacote tratamento,506.05,Pagamento - Rafaela Dias
+2026-01-08,saida,Aluguel,1047.77,Pagamento - Folha de pagamento
+2026-01-08,entrada,Pacote tratamento,1592.77,Pagamento - Vitória Ramos
+2026-01-08,entrada,Microagulhamento,436.78,Pagamento - Julia Fogaça
+2026-01-08,entrada,Depilação a laser,393.83,Pagamento - Sra. Luna da Luz
+2026-01-08,entrada,Microagulhamento,1459.12,Pagamento - Srta. Ana Lívia da Luz
+2026-01-08,entrada,Preenchimento,921.1,Pagamento - Sra. Ana Júlia Sales
+2026-01-09,entrada,Limpeza de pele,808.08,Pagamento - Jade Pacheco
+2026-01-09,entrada,Depilação a laser,1823.98,Pagamento - Srta. Isis Monteiro
+2026-01-09,entrada,Microagulhamento,1127.06,Pagamento - Sara Albuquerque
+2026-01-09,entrada,Pacote tratamento,1550.05,Pagamento - Dra. Bruna da Mata
+2026-01-09,entrada,Harmonização facial,360.69,Pagamento - Hadassa Gomes
+2026-01-09,entrada,Botox,1523.56,Pagamento - Sra. Emilly Farias
+2026-01-12,entrada,Botox,362.97,Pagamento - Isadora Garcia
+2026-01-12,entrada,Botox,874.12,Pagamento - Allana Vargas
+2026-01-12,entrada,Pacote tratamento,1943.18,Pagamento - Aurora Pires
+2026-01-12,entrada,Avaliação,1393.79,Pagamento - Cecilia Vargas
+2026-01-12,entrada,Depilação a laser,407.09,Pagamento - Ana Beatriz Mendes
+2026-01-12,entrada,Pacote tratamento,1207.7,Pagamento - Natália Garcia
+2026-01-13,entrada,Preenchimento,659.85,Pagamento - Lunna Moura
+2026-01-13,entrada,Avaliação,1079.23,Pagamento - Sra. Giovanna Cardoso
+2026-01-13,entrada,Avaliação,553.22,Pagamento - Dra. Luana Abreu
+2026-01-13,entrada,Limpeza de pele,1872.19,Pagamento - Ana Albuquerque
+2026-01-13,entrada,Botox,1550.28,Pagamento - Esther Mendonça
+2026-01-13,entrada,Pacote tratamento,1411.51,Pagamento - Ana Sophia Rios
+2026-01-14,entrada,Botox,712.56,Pagamento - Melissa Barros
+2026-01-14,entrada,Harmonização facial,324.42,Pagamento - Julia da Conceição
+2026-01-14,entrada,Botox,1837.93,Pagamento - Maya Aragão
+2026-01-14,entrada,Preenchimento,1075.51,Pagamento - Sra. Alexia Martins
+2026-01-14,entrada,Harmonização facial,1720.1,Pagamento - Lorena Santos
+2026-01-14,entrada,Preenchimento,1690.26,Pagamento - Dra. Olívia Ribeiro
+2026-01-14,entrada,Preenchimento,494.11,Pagamento - Maria Luísa Rios
+2026-01-15,entrada,Harmonização facial,870.36,Pagamento - Aurora Costela
+2026-01-15,entrada,Preenchimento,765.62,Pagamento - Kamilly Silveira
+2026-01-15,entrada,Limpeza de pele,1599.19,Pagamento - Srta. Isis Borges
+2026-01-15,entrada,Depilação a laser,851.2,Pagamento - Rafaela Fonseca
+2026-01-15,entrada,Limpeza de pele,1024.56,Pagamento - Alice Silva
+2026-01-15,entrada,Limpeza de pele,407.29,Pagamento - Juliana Montenegro
+2026-01-15,entrada,Avaliação,533.46,Pagamento - Ana Lívia Pereira
+2026-01-16,entrada,Microagulhamento,1240.79,Pagamento - Dra. Beatriz Nascimento
+2026-01-16,entrada,Pacote tratamento,714.2,Pagamento - Maria Laura Ferreira
+2026-01-16,entrada,Botox,526.73,Pagamento - Lorena Araújo
+2026-01-16,entrada,Depilação a laser,1622.02,Pagamento - Nina Novaes
+2026-01-16,saida,Cosméticos,587.47,Pagamento - Folha de pagamento
+2026-01-19,entrada,Preenchimento,1501.46,Pagamento - Alana Farias
+2026-01-19,entrada,Peeling,1007.58,Pagamento - Srta. Isis Abreu
+2026-01-19,entrada,Pacote tratamento,1477.01,Pagamento - Clarice Abreu
+2026-01-19,entrada,Limpeza de pele,543.25,Pagamento - Lunna Mendes
+2026-01-19,saida,Cosméticos,2177.75,Pagamento - Aluguel
+2026-01-20,entrada,Avaliação,1960.55,Pagamento - Júlia Abreu
+2026-01-20,entrada,Limpeza de pele,499.76,Pagamento - Bianca Sá
+2026-01-20,saida,Folha de pagamento,22252.0,Pagamento fixo - Folha de pagamento
+2026-01-20,entrada,Botox,1248.11,Pagamento - Letícia Novais
+2026-01-20,saida,Aluguel,6719.0,Pagamento fixo - Aluguel
+2026-01-20,entrada,Preenchimento,1366.23,Pagamento - Srta. Ana Lívia Lima
+2026-01-20,entrada,Pacote tratamento,1340.48,Pagamento - Ana Júlia Moreira
+2026-01-20,entrada,Botox,1313.66,Pagamento - Srta. Maria Laura Cunha
+2026-01-20,entrada,Peeling,891.35,Pagamento - Eduarda Novais
+2026-01-21,entrada,Harmonização facial,1464.91,Pagamento - Eloah Souza
+2026-01-21,entrada,Limpeza de pele,491.55,Pagamento - Sra. Lorena Cavalcante
+2026-01-21,entrada,Limpeza de pele,769.93,Pagamento - Lívia Pacheco
+2026-01-21,entrada,Pacote tratamento,1609.56,Pagamento - Isis Porto
+2026-01-22,entrada,Pacote tratamento,599.75,Pagamento - Ana Vitória da Luz
+2026-01-22,entrada,Botox,391.85,Pagamento - Maria Correia
+2026-01-22,entrada,Microagulhamento,784.61,Pagamento - Clarice Fogaça
+2026-01-22,entrada,Depilação a laser,727.35,Pagamento - Dra. Stella Farias
+2026-01-22,entrada,Pacote tratamento,373.64,Pagamento - Heloísa Pimenta
+2026-01-22,entrada,Botox,1872.26,Pagamento - Sra. Olivia Vasconcelos
+2026-01-22,saida,Impostos,339.51,Pagamento - Equipamentos
+2026-01-23,entrada,Pacote tratamento,1307.6,Pagamento - Hadassa Teixeira
+2026-01-23,entrada,Microagulhamento,1012.41,Pagamento - Isabella Montenegro
+2026-01-23,entrada,Preenchimento,1821.63,Pagamento - Evelyn da Cunha
+2026-01-26,entrada,Limpeza de pele,1624.26,Pagamento - Maria Alice das Neves
+2026-01-26,entrada,Microagulhamento,687.23,Pagamento - Antonella Aragão
+2026-01-26,entrada,Limpeza de pele,1554.17,Pagamento - Cecilia Brito
+2026-01-26,entrada,Limpeza de pele,938.41,Pagamento - Sophie Lopes
+2026-01-26,entrada,Limpeza de pele,425.0,Pagamento - Emilly Pinto
+2026-01-27,entrada,Depilação a laser,546.4,Pagamento - Maria Rodrigues
+2026-01-27,entrada,Pacote tratamento,602.7,Pagamento - Dra. Ana da Paz
+2026-01-27,entrada,Microagulhamento,531.89,Pagamento - Maria Julia Almeida
+2026-01-28,entrada,Pacote tratamento,1010.98,Pagamento - Maria Helena Marques
+2026-01-28,entrada,Peeling,1326.18,Pagamento - Agatha da Cunha
+2026-01-28,entrada,Microagulhamento,673.75,Pagamento - Srta. Anna Liz Fernandes
+2026-01-28,entrada,Preenchimento,1747.81,Pagamento - Marina da Paz
+2026-01-28,entrada,Limpeza de pele,871.02,Pagamento - Daniela Azevedo
+2026-01-28,entrada,Botox,1476.76,Pagamento - Elisa da Mota
+2026-01-28,entrada,Microagulhamento,1958.45,Pagamento - Sra. Maria Clara Macedo
+2026-01-28,entrada,Botox,777.03,Pagamento - Clarice Gomes
+2026-01-29,entrada,Limpeza de pele,721.31,Pagamento - Nicole Carvalho
+2026-01-29,entrada,Depilação a laser,1551.5,Pagamento - Beatriz Casa Grande
+2026-01-29,entrada,Limpeza de pele,1305.69,Pagamento - Maria Vitória Freitas
+2026-01-29,entrada,Pacote tratamento,774.59,Pagamento - Yasmin Marques
+2026-01-29,entrada,Preenchimento,999.88,Pagamento - Rafaela Cavalcante
+2026-01-29,entrada,Avaliação,1753.51,Pagamento - Bella Campos
+2026-01-29,entrada,Harmonização facial,1282.81,Pagamento - Jade das Neves
+2026-01-29,entrada,Avaliação,1131.66,Pagamento - Bianca Cavalcante
+2026-01-30,entrada,Harmonização facial,1853.38,Pagamento - Sabrina Pacheco
+2026-01-30,entrada,Botox,1010.21,Pagamento - Isabella Gomes
+2026-01-30,entrada,Botox,368.1,Pagamento - Sarah Viana
+2026-01-30,entrada,Pacote tratamento,1546.91,Pagamento - Isabel Moreira
+2026-02-02,entrada,Harmonização facial,909.29,Pagamento - Camila Macedo
+2026-02-02,saida,Folha de pagamento,276.46,Pagamento - Marketing digital
+2026-02-02,entrada,Depilação a laser,1914.89,Pagamento - Ana Julia das Neves
+2026-02-02,entrada,Botox,1478.37,Pagamento - Hadassa Câmara
+2026-02-02,entrada,Limpeza de pele,441.26,Pagamento - Ana Clara Duarte
+2026-02-02,entrada,Preenchimento,1069.15,Pagamento - Eloá da Paz
+2026-02-02,entrada,Avaliação,970.34,Pagamento - Dra. Maria Julia Duarte
+2026-02-03,entrada,Harmonização facial,1495.62,Pagamento - Marina Mendonça
+2026-02-03,entrada,Botox,1959.92,Pagamento - Pietra Ramos
+2026-02-03,entrada,Pacote tratamento,1612.12,Pagamento - Luana Nunes
+2026-02-03,entrada,Depilação a laser,614.41,Pagamento - Srta. Bella Moura
+2026-02-03,entrada,Microagulhamento,1365.58,Pagamento - Yasmin Novais
+2026-02-04,saida,Equipamentos,2803.69,Pagamento - Impostos
+2026-02-04,entrada,Peeling,1024.03,Pagamento - Sophie Mendes
+2026-02-04,entrada,Preenchimento,954.29,Pagamento - Nina Aragão
+2026-02-04,entrada,Microagulhamento,1202.56,Pagamento - Olívia Sales
+2026-02-05,entrada,Preenchimento,1354.77,Pagamento - Dra. Sophia Cirino
+2026-02-05,entrada,Microagulhamento,1550.79,Pagamento - Maria Isis da Mota
+2026-02-05,entrada,Botox,1175.05,Pagamento - Eduarda Aparecida
+2026-02-05,entrada,Microagulhamento,1809.56,Pagamento - Beatriz Gonçalves
+2026-02-05,saida,Insumos médicos,2433.69,Pagamento - Folha de pagamento
+2026-02-05,saida,Folha de pagamento,22074.0,Pagamento fixo - Folha de pagamento
+2026-02-05,saida,Aluguel,6575.0,Pagamento fixo - Aluguel
+2026-02-06,saida,Cosméticos,3739.42,Pagamento - Impostos
+2026-02-06,entrada,Microagulhamento,705.68,Pagamento - Sara Rocha
+2026-02-06,entrada,Limpeza de pele,535.29,Pagamento - Kamilly Campos
+2026-02-06,entrada,Avaliação,1505.87,Pagamento - Emilly Montenegro
+2026-02-06,entrada,Avaliação,1498.29,Pagamento - Ester Moreira
+2026-02-09,entrada,Limpeza de pele,1580.39,Pagamento - Antonella Farias
+2026-02-09,entrada,Limpeza de pele,844.79,Pagamento - Maria Cecília Nascimento
+2026-02-09,entrada,Peeling,1156.06,Pagamento - Emanuella Almeida
+2026-02-09,entrada,Depilação a laser,771.15,Pagamento - Dra. Jade Lopes
+2026-02-09,entrada,Preenchimento,933.78,Pagamento - Pietra Duarte
+2026-02-09,entrada,Pacote tratamento,1126.59,Pagamento - Maria Isis Marques
+2026-02-09,entrada,Avaliação,1710.25,Pagamento - Sarah Gomes
+2026-02-10,saida,Marketing digital,910.18,Pagamento - Aluguel
+2026-02-10,entrada,Preenchimento,485.92,Pagamento - Caroline Novais
+2026-02-10,entrada,Peeling,1929.04,Pagamento - Srta. Maysa Nunes
+2026-02-10,entrada,Depilação a laser,1826.51,Pagamento - Vitória Vieira
+2026-02-10,entrada,Pacote tratamento,1355.62,Pagamento - Fernanda Ferreira
+2026-02-10,entrada,Preenchimento,620.2,Pagamento - Dra. Maria Clara Cunha
+2026-02-10,entrada,Avaliação,1829.07,Pagamento - Srta. Mariana Montenegro
+2026-02-10,entrada,Pacote tratamento,448.42,Pagamento - Mariah Pastor
+2026-02-11,entrada,Avaliação,1883.93,Pagamento - Letícia Santos
+2026-02-11,entrada,Avaliação,1918.58,Pagamento - Gabriela Fernandes
+2026-02-11,entrada,Botox,798.39,Pagamento - Dra. Alana Camargo
+2026-02-11,entrada,Pacote tratamento,889.39,Pagamento - Sra. Yasmin Moraes
+2026-02-12,entrada,Microagulhamento,1126.45,Pagamento - Dra. Antonella Aragão
+2026-02-12,entrada,Avaliação,1731.24,Pagamento - Jade da Rosa
+2026-02-12,entrada,Depilação a laser,1283.8,Pagamento - Manuella Souza
+2026-02-12,entrada,Pacote tratamento,1078.61,Pagamento - Dra. Clara Sales
+2026-02-12,entrada,Limpeza de pele,1719.41,Pagamento - Sarah Oliveira
+2026-02-12,entrada,Botox,795.58,Pagamento - Sra. Maria Vitória Costa
+2026-02-12,entrada,Avaliação,1395.94,Pagamento - Srta. Gabriela Silva
+2026-02-12,entrada,Preenchimento,337.46,Pagamento - Maria Laura Nascimento
+2026-02-13,entrada,Harmonização facial,1641.76,Pagamento - Maria Júlia Teixeira
+2026-02-13,entrada,Limpeza de pele,1123.21,Pagamento - Daniela Barbosa
+2026-02-13,entrada,Peeling,1608.57,Pagamento - Ana Aragão
+2026-02-13,entrada,Botox,552.18,Pagamento - Ana Laura Cassiano
+2026-02-13,entrada,Peeling,1075.08,Pagamento - Heloisa Rezende
+2026-02-13,saida,Aluguel,3616.7,Pagamento - Insumos médicos
+2026-02-16,entrada,Preenchimento,369.96,Pagamento - Hadassa Machado
+2026-02-16,entrada,Harmonização facial,1726.86,Pagamento - Alexia Nunes
+2026-02-16,entrada,Harmonização facial,574.13,Pagamento - Lívia Freitas
+2026-02-16,entrada,Microagulhamento,1276.69,Pagamento - Giovanna Ferreira
+2026-02-17,saida,Folha de pagamento,2141.9,Pagamento - Cosméticos
+2026-02-17,entrada,Harmonização facial,1207.19,Pagamento - Maria Alice Araújo
+2026-02-17,entrada,Pacote tratamento,1217.77,Pagamento - Sra. Milena Barros
+2026-02-17,entrada,Botox,1431.44,Pagamento - Clarice Vieira
+2026-02-17,entrada,Harmonização facial,648.76,Pagamento - Sara Cavalcanti
+2026-02-17,entrada,Microagulhamento,551.51,Pagamento - Luana Guerra
+2026-02-18,saida,Insumos médicos,4854.11,Pagamento - Impostos
+2026-02-18,entrada,Avaliação,1958.52,Pagamento - Juliana Campos
+2026-02-18,entrada,Microagulhamento,1400.31,Pagamento - Maria Eduarda Rodrigues
+2026-02-18,entrada,Pacote tratamento,1877.28,Pagamento - Heloisa Vieira
+2026-02-18,entrada,Harmonização facial,307.3,Pagamento - Maria Liz Aragão
+2026-02-19,saida,Folha de pagamento,3119.13,Pagamento - Aluguel
+2026-02-19,entrada,Limpeza de pele,1058.15,Pagamento - Maria Eduarda Pereira
+2026-02-19,entrada,Botox,982.77,Pagamento - Dra. Luana Aparecida
+2026-02-19,entrada,Avaliação,498.69,Pagamento - Luana Jesus
+2026-02-19,entrada,Preenchimento,1543.79,Pagamento - Melissa Souza
+2026-02-19,entrada,Pacote tratamento,875.76,Pagamento - Srta. Yasmin Viana
+2026-02-19,entrada,Harmonização facial,1659.28,Pagamento - Zoe da Costa
+2026-02-19,entrada,Botox,537.02,Pagamento - Marcela Jesus
+2026-02-20,entrada,Avaliação,677.64,Pagamento - Nina Marques
+2026-02-20,entrada,Peeling,632.72,Pagamento - Dra. Ana Luiza Pastor
+2026-02-20,entrada,Preenchimento,1215.3,Pagamento - Bárbara Monteiro
+2026-02-20,entrada,Pacote tratamento,1451.01,Pagamento - Ana Luiza Azevedo
+2026-02-20,entrada,Preenchimento,1958.93,Pagamento - Alícia Novais
+2026-02-20,entrada,Depilação a laser,630.57,Pagamento - Evelyn Leão
+2026-02-20,entrada,Microagulhamento,1325.39,Pagamento - Clarice da Paz
+2026-02-20,saida,Folha de pagamento,21757.0,Pagamento fixo - Folha de pagamento
+2026-02-20,saida,Aluguel,6569.0,Pagamento fixo - Aluguel
+2026-02-23,entrada,Preenchimento,666.68,Pagamento - Nina Martins
+2026-02-23,entrada,Microagulhamento,897.3,Pagamento - Olivia da Mota
+2026-02-23,entrada,Pacote tratamento,1786.31,Pagamento - Elisa Duarte
+2026-02-23,entrada,Depilação a laser,928.37,Pagamento - Maria Júlia Melo
+2026-02-23,entrada,Harmonização facial,1517.14,Pagamento - Yasmin Aparecida
+2026-02-23,entrada,Microagulhamento,320.72,Pagamento - Olivia Silva
+2026-02-24,entrada,Preenchimento,1886.36,Pagamento - Giovanna Freitas
+2026-02-24,entrada,Peeling,1106.84,Pagamento - Ana Luiza Rodrigues
+2026-02-24,entrada,Avaliação,"R$ 1.977,29",Pagamento - Sra. Vitória Mendes
+2026-02-24,entrada,Preenchimento,544.19,Pagamento - Sara Sales
+2026-02-24,entrada,Depilação a laser,1666.27,Pagamento - Liz da Mata
+2026-02-24,entrada,Depilação a laser,1538.63,Pagamento - Joana Albuquerque
+2026-02-24,entrada,Peeling,578.44,Pagamento - Bianca Borges
+2026-02-24,entrada,Depilação a laser,537.27,Pagamento - Dra. Cecilia Sampaio
+2026-02-25,entrada,Preenchimento,311.25,Pagamento - Sra. Elisa Sampaio
+2026-02-25,entrada,Peeling,1004.67,Pagamento - Ana Laura Casa Grande
+2026-02-25,entrada,Avaliação,1085.6,Pagamento - Dra. Sofia das Neves
+2026-02-25,entrada,Harmonização facial,638.74,Pagamento - Maria Sophia Teixeira
+2026-02-25,entrada,Depilação a laser,792.09,Pagamento - Julia Montenegro
+2026-02-25,entrada,Pacote tratamento,371.8,Pagamento - Maitê Costela
+2026-02-26,entrada,Pacote tratamento,1841.55,Pagamento - Maria Isis Vieira
+2026-02-26,entrada,Peeling,1009.17,Pagamento - Eduarda Peixoto
+2026-02-26,entrada,Pacote tratamento,511.1,Pagamento - Luana Caldeira
+2026-02-26,entrada,Pacote tratamento,681.68,Pagamento - Joana Fonseca
+2026-02-26,entrada,Botox,561.84,Pagamento - Ana Beatriz Cirino
+2026-02-26,entrada,Peeling,1139.97,Pagamento - Alice Fernandes
+2026-02-26,entrada,Peeling,1925.25,Pagamento - Hadassa Freitas
+2026-02-27,entrada,Preenchimento,1600.02,Pagamento - Isabel da Rocha
+2026-02-27,entrada,Pacote tratamento,1990.37,Pagamento - Aylla Pinto
+2026-02-27,entrada,Preenchimento,1318.12,Pagamento - Ana Vitória Vasconcelos
+2026-03-02,entrada,Harmonização facial,843.46,Pagamento - Ana Laura Freitas
+2026-03-02,entrada,Harmonização facial,1288.81,Pagamento - Melissa Borges
+2026-03-02,entrada,Botox,1736.98,Pagamento - Eloah Gomes
+2026-03-02,entrada,Pacote tratamento,1956.24,Pagamento - Pietra Gomes
+2026-03-02,entrada,Depilação a laser,1776.19,Pagamento - Sofia Alves
+2026-03-02,entrada,Preenchimento,934.44,Pagamento - Eduarda da Mata
+2026-03-03,entrada,Microagulhamento,577.63,Pagamento - Alexia Rodrigues
+2026-03-03,entrada,Peeling,-913.98,Pagamento - Melina Cavalcanti
+2026-03-03,entrada,Microagulhamento,382.82,Pagamento - Maria Cecília Rodrigues
+2026-03-03,entrada,Peeling,1200.34,Pagamento - Ana Júlia da Paz
+2026-03-04,saida,Equipamentos,1550.81,Pagamento - Impostos
+2026-03-04,entrada,Microagulhamento,1699.64,Pagamento - Beatriz Cassiano
+2026-03-04,entrada,Microagulhamento,462.92,Pagamento - Antonella Marques
+2026-03-04,entrada,Peeling,761.48,Pagamento - Kamilly Ramos
+2026-03-04,entrada,Harmonização facial,1224.31,Pagamento - Sra. Liz da Paz
+2026-03-04,entrada,Harmonização facial,1599.97,Pagamento - Lara Andrade
+2026-03-04,entrada,Limpeza de pele,1602.95,Pagamento - Zoe Silva
+2026-03-04,entrada,Microagulhamento,1705.6,Pagamento - Manuela Freitas
+2026-03-05,entrada,Avaliação,1342.83,Pagamento - Brenda Lima
+2026-03-05,saida,Folha de pagamento,21816.0,Pagamento fixo - Folha de pagamento
+2026-03-05,entrada,Avaliação,1738.32,Pagamento - Alana Moura
+2026-03-05,saida,Aluguel,6627.0,Pagamento fixo - Aluguel
+2026-03-05,entrada,Limpeza de pele,1651.68,Pagamento - Dra. Juliana Silveira
+2026-03-05,entrada,Harmonização facial,474.11,Pagamento - Isabella Cunha
+2026-03-05,entrada,Harmonização facial,1155.75,Pagamento - Sara da Luz
+2026-03-05,entrada,Depilação a laser,878.53,Pagamento - Ana Julia Teixeira
+2026-03-06,entrada,Preenchimento,498.16,Pagamento - Eloá Farias
+2026-03-06,entrada,Harmonização facial,1869.8,Pagamento - Melina Borges
+2026-03-06,entrada,Pacote tratamento,891.96,Pagamento - Lorena da Luz
+01/01/2026,entrada,Microagulhamento,536.32,Pagamento - Natália Mendonça
+2026-03-06,entrada,Pacote tratamento,1812.53,Pagamento - Ana Clara Silveira
+2026-03-06,entrada,Avaliação,1598.1,Pagamento - Alícia da Costa
+2026-03-09,entrada,Harmonização facial,1469.68,Pagamento - Dra. Maria Helena das Neves
+2026-03-09,saida,Folha de pagamento,357.41,Pagamento - Marketing digital
+2026-03-09,entrada,Pacote tratamento,1587.47,Pagamento - Srta. Ana Lívia Santos
+01/01/2026,entrada,Preenchimento,432.15,Pagamento - Caroline Alves
+2026-03-09,entrada,Depilação a laser,1474.39,Pagamento - Nicole Novais
+2026-03-09,entrada,Preenchimento,678.01,Pagamento - Ana Clara Araújo
+2026-03-09,entrada,Peeling,513.09,Pagamento - Ana Vitória Porto
+2026-03-09,entrada,Peeling,348.89,Pagamento - Raquel Dias
+15-02-2026,entrada,Harmonização facial,1967.89,Pagamento - Zoe da Rosa
+2026-03-10,entrada,Limpeza de pele,1298.93,Pagamento - Nina Sampaio
+2026-03-10,entrada,Microagulhamento,349.74,Pagamento - Maitê da Mota
+2026-03-10,entrada,Limpeza de pele,614.13,Pagamento - Mariah Cunha
+2026-03-10,saida,Marketing digital,"R$ 4.720,86",Pagamento - Equipamentos
+2026-03-10,entrada,Preenchimento,1630.03,Pagamento - Nina da Costa
+2026-03-10,entrada,Peeling,373.58,Pagamento - Dra. Lara Ferreira
+2026-03-10,entrada,Botox,1097.44,Pagamento - Zoe Castro
+2026-03-10,entrada,Peeling,1434.9,Pagamento - Mariana Costela
+2026-03-11,entrada,Microagulhamento,572.95,Pagamento - Maria Sophia Leão
+2026-03-11,entrada,Avaliação,1627.36,Pagamento - Isadora Nogueira
+2026-03-11,entrada,Limpeza de pele,1158.35,Pagamento - Lívia Costa
+2026-03-11,entrada,Preenchimento,468.48,Pagamento - Maria Flor Ramos
+2026-03-11,entrada,Botox,1199.03,Pagamento - Elisa Cunha
+2026-03-12,entrada,Pacote tratamento,922.99,Pagamento - Maria Júlia Ramos
+2026-03-12,entrada,Avaliação,1747.2,Pagamento - Ana Luiza Silveira
+2026-03-12,entrada,Preenchimento,1871.19,Pagamento - Camila Albuquerque
+2026-03-12,entrada,Harmonização facial,1832.82,Pagamento - Dra. Alícia Mendonça
+2026-03-12,entrada,Avaliação,307.36,Pagamento - Mariana Farias
+2026-03-13,entrada,Preenchimento,607.44,Pagamento - Sara Alves
+2026-03-13,entrada,Microagulhamento,1968.21,Pagamento - Lunna Garcia
+2026-03-13,entrada,Depilação a laser,664.27,Pagamento - Sarah Pastor
+2026-03-13,entrada,Limpeza de pele,992.88,Pagamento - Luísa Fogaça
+2026-03-13,entrada,Microagulhamento,510.15,Pagamento - Eloah da Luz
+2026-03-13,entrada,Preenchimento,1183.54,Pagamento - Raquel Gonçalves
+2026-03-16,entrada,Peeling,1467.98,Pagamento - Sra. Melina Rezende
+2026-03-16,entrada,Pacote tratamento,496.73,Pagamento - Ayla Pacheco
+2026-03-16,entrada,Peeling,1076.81,Pagamento - Ísis Vargas
+2026-03-16,entrada,Peeling,1247.12,Pagamento - Dra. Letícia Dias
+2026-03-16,entrada,Botox,439.82,Pagamento - Alice Barbosa
+2026-03-17,entrada,Avaliação,992.38,Pagamento - Isabelly Carvalho
+2026-03-17,entrada,Depilação a laser,620.93,Pagamento - Nina Nascimento
+2026-03-17,entrada,Preenchimento,1821.08,Pagamento - Letícia Nogueira
+2026-03-17,entrada,Pacote tratamento,1896.44,Pagamento - Lorena Pimenta
+2026-03-18,entrada,Pacote tratamento,1442.56,Pagamento - Isabella Pires
+2026-03-18,entrada,Depilação a laser,1044.7,Pagamento - Marina Cardoso
+2026-03-18,entrada,Preenchimento,502.67,Pagamento - Carolina Souza
+2026-03-19,entrada,Depilação a laser,905.37,Pagamento - Stephany Jesus
+2026-03-19,entrada,Peeling,1585.72,Pagamento - Srta. Ágatha da Cruz
+2026-03-19,entrada,Peeling,1600.19,Pagamento - Evelyn Almeida
+2026-03-19,entrada,Depilação a laser,1532.84,Pagamento - Heloisa da Costa
+2026-03-19,entrada,Preenchimento,1560.43,Pagamento - Heloisa Barros
+2026-03-19,entrada,Limpeza de pele,875.67,Pagamento - Nicole da Rocha
+2026-03-19,entrada,Harmonização facial,410.01,Pagamento - Ayla Farias
+2026-03-19,entrada,Depilação a laser,508.7,Pagamento - Maria Alice Andrade
+2026-03-20,entrada,Botox,1711.53,Pagamento - Stephany das Neves
+2026-03-20,saida,Aluguel,6383.0,Pagamento fixo - Aluguel
+2026-03-20,entrada,Harmonização facial,350.53,Pagamento - Esther Vargas
+2026-03-20,saida,Folha de pagamento,21727.0,Pagamento fixo - Folha de pagamento
+2026-03-20,entrada,Preenchimento,507.72,Pagamento - Yasmin Moura
+2026-03-20,entrada,Harmonização facial,1605.6,Pagamento - Srta. Catarina Lima
+2026-03-20,entrada,Pacote tratamento,1169.4,Pagamento - Kamilly Nunes
+2026-03-20,entrada,Pacote tratamento,1145.37,Pagamento - Julia da Costa
+2026-03-23,entrada,Microagulhamento,559.65,Pagamento - Srta. Ana Beatriz Silveira
+2026-03-23,entrada,Preenchimento,1592.29,Pagamento - Mirella Duarte
+2026-03-23,entrada,Avaliação,1604.87,Pagamento - Manuella Novais
+2026-03-23,entrada,Pacote tratamento,643.28,Pagamento - Anna Liz Vieira
+2026-03-23,entrada,Pacote tratamento,1133.43,Pagamento - Allana Campos
+2026-03-23,entrada,Peeling,1222.14,Pagamento - Srta. Pietra Cirino
+2026-03-24,saida,Cosméticos,845.54,Pagamento - Marketing digital
+2026-03-24,entrada,Peeling,1803.99,Pagamento - Isadora Viana
+2026-03-24,entrada,Botox,600.68,Pagamento - Clara Nogueira
+2026-03-24,entrada,Pacote tratamento,1081.42,Pagamento - Alice Souza
+2026-03-24,entrada,Preenchimento,-952.17,Pagamento - Isabel Moura
+2026-03-24,entrada,Botox,1984.21,Pagamento - Júlia Aragão
+2026-03-24,entrada,Avaliação,330.04,Pagamento - Maria Helena Moraes
+2026-03-24,entrada,Microagulhamento,1749.89,Pagamento - Maria Sophia Fonseca
+2026-03-25,entrada,Pacote tratamento,1598.82,Pagamento - Camila Aparecida
+2026-03-25,entrada,Pacote tratamento,1422.13,Pagamento - Yasmin Melo
+2026-03-25,entrada,Avaliação,1272.76,Pagamento - Maria Luiza Moura
+2026-03-25,entrada,Pacote tratamento,1255.83,Pagamento - Dra. Nicole Sampaio
+2026-03-25,entrada,Harmonização facial,1161.36,Pagamento - Antonella Araújo
+2026-03-25,entrada,Depilação a laser,747.76,Pagamento - Rebeca da Costa
+2026-03-26,entrada,Botox,1600.83,Pagamento - Rafaela Silveira
+2026-03-26,entrada,Harmonização facial,1722.79,Pagamento - Rafaela Vieira
+2026-03-26,entrada,Microagulhamento,1676.24,Pagamento - Isadora Moraes
+2026-03-26,entrada,Peeling,844.82,Pagamento - Juliana Martins
+2026-03-26,entrada,Microagulhamento,1603.0,Pagamento - Ana Júlia Cavalcante
+2026-03-26,entrada,Botox,1303.79,Pagamento - Ana Sophia Nogueira
+2026-03-27,entrada,Preenchimento,1027.85,Pagamento - Maya Ribeiro
+2026-03-27,entrada,Microagulhamento,1000.28,Pagamento - Dra. Ana Beatriz Monteiro
+2026-03-27,entrada,Botox,1424.11,Pagamento - Dra. Marina Andrade
+2026-03-27,entrada,Limpeza de pele,698.86,Pagamento - Dra. Beatriz Costa
+2026-03-27,entrada,Peeling,1307.3,Pagamento - Mariane Silveira
+2026-03-27,entrada,Preenchimento,1777.2,Pagamento - Mariana Dias
+2026-03-27,saida,Aluguel,294.62,Pagamento - Insumos médicos
+2026-03-30,entrada,Depilação a laser,1265.68,Pagamento - Mariah Castro
+2026-03-30,entrada,Depilação a laser,753.25,Pagamento - Emanuelly Dias
+2026-03-30,entrada,Pacote tratamento,1418.21,Pagamento - Melina Souza
+2026-03-31,saida,Cosméticos,1168.44,Pagamento - Marketing digital
+2026-03-31,entrada,Botox,1975.8,Pagamento - Isabela Fogaça
+2026-03-31,entrada,Depilação a laser,1269.6,Pagamento - Isabel Nogueira
+2026-03-31,entrada,Microagulhamento,1273.32,Pagamento - Zoe Leão
+2026-03-31,entrada,Pacote tratamento,470.1,Pagamento - Srta. Isabelly Pires
+2026-03-31,entrada,Limpeza de pele,871.14,Pagamento - Luana Rezende
+2026-03-31,entrada,Avaliação,1679.48,Pagamento - Gabrielly Castro
+2026-03-31,entrada,Microagulhamento,583.27,Pagamento - Lorena Martins
+2026-04-01,entrada,Peeling,380.8,Pagamento - Srta. Aurora Sampaio
+2026-04-01,entrada,Depilação a laser,1667.83,Pagamento - Ana Liz da Paz
+2026-04-01,entrada,Avaliação,663.94,Pagamento - Eloá Souza
+2026-04-02,entrada,Preenchimento,1306.17,Pagamento - Melissa Rios
+2026-04-02,entrada,Peeling,414.36,Pagamento - Ana Laura Camargo
+2026-04-02,entrada,Avaliação,1107.96,Pagamento - Maria Isis da Rocha
+2026-04-02,saida,Impostos,567.98,Pagamento - Impostos
+2026-04-03,entrada,Depilação a laser,727.15,Pagamento - Dra. Heloisa Gomes
+2026-04-03,entrada,Avaliação,1667.02,Pagamento - Maria Isis Nascimento
+2026-04-03,entrada,Depilação a laser,1427.88,Pagamento - Sra. Antonella Leão
+2026-04-03,entrada,Microagulhamento,"R$ 640,13",Pagamento - Dra. Isabela da Mata
+2026-04-03,entrada,Avaliação,1070.49,Pagamento - Zoe Azevedo
+2026-04-06,entrada,Pacote tratamento,755.49,Pagamento - Rebeca Silva
+2026-04-06,entrada,Pacote tratamento,662.02,Pagamento - Sra. Maysa Porto
+2026-04-06,entrada,Botox,1367.33,Pagamento - Bárbara Rodrigues
+2026-04-06,entrada,Avaliação,1766.61,Pagamento - Laura da Conceição
+2026-04-07,entrada,Peeling,1735.01,Pagamento - Melissa Leão
+2026-04-07,entrada,Depilação a laser,841.71,Pagamento - Mariane Pereira
+2026-04-07,entrada,Limpeza de pele,555.8,Pagamento - Eduarda Pastor
+2026-04-07,entrada,Preenchimento,1377.68,Pagamento - Ana Luiza Gonçalves
+2026-04-07,entrada,Botox,1187.86,Pagamento - Raquel Vargas
+2026-04-07,entrada,Depilação a laser,1888.88,Pagamento - Isabela Camargo
+2026-04-07,entrada,Microagulhamento,1086.23,Pagamento - Nicole da Rosa
+2026-04-08,entrada,Preenchimento,554.94,Pagamento - Luana Sousa
+2026-04-08,entrada,Botox,717.5,Pagamento - Manuella Monteiro
+2026-04-08,entrada,Limpeza de pele,989.97,Pagamento - Ana Luiza Viana
+2026-04-08,entrada,Peeling,1398.27,Pagamento - Fernanda Freitas
+2026-04-08,entrada,Peeling,1467.65,Pagamento - Ana Cecília Lima
+2026-04-09,entrada,Peeling,1419.74,Pagamento - Julia Campos
+2026-04-09,entrada,Peeling,1642.44,Pagamento - Isadora Mendonça
+2026-04-09,entrada,Peeling,531.93,Pagamento - Evelyn Barbosa
+2026-04-09,saida,Impostos,402.72,Pagamento - Marketing digital
+2026-04-09,entrada,Depilação a laser,1017.43,Pagamento - Alana da Mata
+2026-04-09,entrada,Pacote tratamento,1251.7,Pagamento - Luísa Aparecida
+2026-04-09,entrada,Botox,643.38,Pagamento - Sra. Gabriela Nascimento
+2026-04-10,entrada,Botox,394.06,Pagamento - Manuella Garcia
+2026-04-10,entrada,Preenchimento,833.64,Pagamento - Bárbara Freitas
+2026-04-10,entrada,Peeling,1774.19,Pagamento - Olívia Santos
+2026-04-10,entrada,Depilação a laser,1824.51,Pagamento - Liz Cavalcante
+2026-04-10,entrada,Preenchimento,974.72,Pagamento - Maysa da Rosa
+2026-04-10,entrada,Harmonização facial,701.27,Pagamento - Dra. Marcela Araújo
+2026-04-13,entrada,Depilação a laser,1669.93,Pagamento - Isadora Abreu
+2026-04-13,entrada,Limpeza de pele,1890.35,Pagamento - Srta. Kamilly da Rosa
+2026-04-13,entrada,Microagulhamento,859.79,Pagamento - Yasmin Santos
+2026-04-13,saida,Folha de pagamento,1040.74,Pagamento - Insumos médicos
+2026-04-13,entrada,Preenchimento,704.73,Pagamento - Kamilly da Rosa
+2026-04-13,entrada,Avaliação,728.07,Pagamento - Melissa da Cunha
+2026-04-13,entrada,Preenchimento,1187.33,Pagamento - Cecília da Mata
+2026-04-13,entrada,Preenchimento,1614.42,Pagamento - Rebeca Pastor
+2026-04-14,entrada,Depilação a laser,732.32,Pagamento - Sra. Aurora da Conceição
+2026-04-14,entrada,Botox,1133.61,Pagamento - Maria Flor Sousa
+2026-04-14,entrada,Microagulhamento,1489.35,Pagamento - Sabrina Abreu
+2026-04-14,entrada,Preenchimento,838.03,Pagamento - Maria Laura Andrade
+2026-04-14,entrada,Depilação a laser,1107.25,Pagamento - Ana Beatriz da Conceição
+2026-04-14,entrada,Limpeza de pele,1937.64,Pagamento - Milena da Rosa
+2026-04-15,entrada,Botox,1397.18,Pagamento - Bruna da Costa
+2026-04-15,entrada,Botox,1730.5,Pagamento - Isabel Moraes
+2026-04-15,entrada,Microagulhamento,1107.88,Pagamento - Ester da Costa
+2026-04-15,entrada,Microagulhamento,1696.32,Pagamento - Zoe Garcia
+2026-04-16,entrada,Limpeza de pele,730.07,Pagamento - Srta. Luana Cirino
+2026-04-16,entrada,Depilação a laser,825.76,Pagamento - Ana Vitória Sales
+2026-04-16,entrada,Microagulhamento,1835.37,Pagamento - Maria Sophia da Cruz
+2026-04-17,entrada,Limpeza de pele,1758.0,Pagamento - Maya Dias
+2026-04-17,entrada,Depilação a laser,313.37,Pagamento - Rafaela Moura
+2026-04-17,entrada,Depilação a laser,1876.76,Pagamento - Sra. Valentina Vieira
+2026-04-17,entrada,Peeling,811.51,Pagamento - Eduarda Farias
+2026-04-17,entrada,Limpeza de pele,805.62,Pagamento - Laís Rezende
+2026-04-17,entrada,Harmonização facial,1857.01,Pagamento - Kamilly da Rosa
+2026-04-17,entrada,Microagulhamento,1795.09,Pagamento - Sra. Olívia Teixeira
+2026-04-20,saida,Aluguel,6267.0,Pagamento fixo - Aluguel
+2026-04-20,saida,Folha de pagamento,22218.0,Pagamento fixo - Folha de pagamento
+15-02-2026,entrada,Preenchimento,1701.48,Pagamento - Ísis Albuquerque
+2026-04-20,entrada,Microagulhamento,1519.56,Pagamento - Sra. Sofia Lima
+2026-04-20,entrada,Depilação a laser,1875.05,Pagamento - Zoe Carvalho
+2026-04-20,entrada,Preenchimento,1699.44,Pagamento - Alana Aparecida
+2026-04-20,entrada,Pacote tratamento,1100.86,Pagamento - Stephany Fernandes
+2026-04-20,entrada,Botox,765.86,Pagamento - Julia Costela
+2026-04-21,entrada,Depilação a laser,1323.6,Pagamento - Lavínia Pastor
+2026-04-21,entrada,Avaliação,1554.24,Pagamento - Alícia Souza
+2026-04-21,entrada,Pacote tratamento,1481.86,Pagamento - Bárbara Araújo
+2026-04-21,entrada,Botox,1390.33,Pagamento - Dra. Ana Sophia Rios
+2026-04-21,entrada,Harmonização facial,1371.27,Pagamento - Bárbara Melo
+2026-04-22,entrada,Preenchimento,488.41,Pagamento - Lavínia Rios
+2026-04-22,entrada,Limpeza de pele,1177.82,Pagamento - Sara Novaes
+2026-04-22,entrada,Botox,981.13,Pagamento - Mariah da Costa
+2026-04-22,entrada,Peeling,833.33,Pagamento - Isabela Costela
+2026-04-23,saida,Depilação a laser,1906.09,Pagamento - Olivia Barros
+2026-04-23,saida,Harmonização facial,1739.83,Pagamento - Carolina Souza
+2026-04-23,entrada,Depilação a laser,1647.49,Pagamento - Manuella Brito
+2026-04-23,entrada,Microagulhamento,1067.53,Pagamento - Elisa Fogaça
+2026-04-23,entrada,Harmonização facial,743.16,Pagamento - Giovanna Rios
+2026-04-23,entrada,Microagulhamento,1659.2,Pagamento - Maya da Costa
+2026-04-23,entrada,Limpeza de pele,443.48,Pagamento - Giovanna Monteiro
+2026-04-23,entrada,Microagulhamento,609.21,Pagamento - Juliana Rocha
+2026-04-24,entrada,Pacote tratamento,637.05,Pagamento - Daniela Nogueira
+2026-04-24,entrada,Limpeza de pele,1841.64,Pagamento - Srta. Daniela das Neves
+2026-04-24,entrada,Botox,1911.79,Pagamento - Brenda Pimenta
+2026-04-24,entrada,Avaliação,1400.08,Pagamento - Aurora Gonçalves
+2026-04-27,entrada,Botox,981.76,Pagamento - Luara Moraes
+2026-04-27,entrada,Depilação a laser,1320.67,Pagamento - Mariane Pires
+2026-04-27,entrada,Harmonização facial,451.4,Pagamento - Ana Sophia Santos
+2026-04-27,entrada,Microagulhamento,589.21,Pagamento - Stephany Rodrigues
+2026-04-28,entrada,Avaliação,1039.77,Pagamento - Aylla Moraes
+2026-04-28,entrada,Pacote tratamento,1706.34,Pagamento - Luísa Aragão
+2026-04-28,saida,Pacote tratamento,501.47,Pagamento - Maria Clara Fernandes
+2026-04-29,entrada,Depilação a laser,1755.77,Pagamento - Catarina da Mata
+2026-04-29,saida,Marketing digital,1108.94,Pagamento - Aluguel
+2026-04-29,entrada,Limpeza de pele,1991.85,Pagamento - Pietra Câmara
+2026-04-29,entrada,Pacote tratamento,949.52,Pagamento - Ana Beatriz Azevedo
+2026-04-29,entrada,Peeling,789.54,Pagamento - Maria Flor Aparecida
+2026-04-30,entrada,Harmonização facial,348.91,Pagamento - Olivia Sales
+2026-04-30,entrada,Peeling,700.33,Pagamento - Mariah Gomes
+2026-04-30,entrada,Pacote tratamento,1842.46,Pagamento - Júlia Câmara
+2026-04-30,entrada,Microagulhamento,1290.94,Pagamento - Evelyn Macedo
+2026-04-30,entrada,Pacote tratamento,445.76,Pagamento - Sara Moreira
+2026-04-30,entrada,Pacote tratamento,526.45,Pagamento - Sra. Valentina Araújo
+2026-05-01,entrada,Pacote tratamento,1843.99,Pagamento - Sra. Isis Azevedo
+2026-05-01,entrada,Microagulhamento,1882.81,Pagamento - Fernanda Rodrigues
+2026-05-01,entrada,Botox,309.11,Pagamento - Isis Siqueira
+2026-05-01,entrada,Avaliação,1353.42,Pagamento - Sra. Hellena Macedo
+2026-05-01,entrada,Avaliação,399.88,Pagamento - Jade Costela
+2026-05-01,entrada,Depilação a laser,1504.37,Pagamento - Sra. Yasmin Dias
+2026-05-01,entrada,Depilação a laser,1467.65,Pagamento - Agatha Campos
+2026-05-01,entrada,Peeling,424.19,Pagamento - Maitê Macedo
+2026-05-04,entrada,Microagulhamento,524.81,Pagamento - Elisa das Neves
+2026-05-04,entrada,Avaliação,369.91,Pagamento - Ana Liz Siqueira
+2026-05-04,entrada,Harmonização facial,742.5,Pagamento - Vitória Nascimento
+2026-05-04,entrada,Avaliação,1137.83,Pagamento - Julia Vasconcelos
+2026-05-04,entrada,Microagulhamento,1792.42,Pagamento - Hadassa Lima
+2026-05-04,entrada,Harmonização facial,452.4,Pagamento - Isis Fernandes
+2026-05-05,saida,Aluguel,6729.0,Pagamento fixo - Aluguel
+2026-05-05,saida,Folha de pagamento,21970.0,Pagamento fixo - Folha de pagamento
+2026-05-05,entrada,Peeling,1341.98,Pagamento - Luiza Sá
+2026-05-05,entrada,Depilação a laser,780.97,Pagamento - Maria Novais
+2026-05-05,entrada,Harmonização facial,742.69,Pagamento - Dra. Laura Martins
+2026-05-05,entrada,Harmonização facial,1148.66,Pagamento - Maria Eduarda Vieira
+2026-05-05,entrada,Microagulhamento,375.08,Pagamento - Srta. Rafaela Moreira
+2026-05-05,entrada,Peeling,1571.3,Pagamento - Sra. Esther Santos
+2026-05-06,entrada,Pacote tratamento,390.48,Pagamento - Maria Júlia Pereira
+2026-05-06,entrada,Harmonização facial,1244.65,Pagamento - Lara Moraes
+2026-05-06,saida,Aluguel,1079.08,Pagamento - Cosméticos
+2026-05-06,entrada,Microagulhamento,1552.68,Pagamento - Larissa Albuquerque
+2026-05-06,entrada,Depilação a laser,1817.54,Pagamento - Sra. Ana Abreu
+2026-05-06,entrada,Pacote tratamento,1598.25,Pagamento - Mariah Rocha
+2026-05-07,entrada,Harmonização facial,1500.14,Pagamento - Maria Laura da Cruz
+2026-05-07,entrada,Depilação a laser,497.24,Pagamento - Dra. Mariana Rios
+2026-05-07,entrada,Pacote tratamento,369.35,Pagamento - Alice Moraes
+2026-05-07,entrada,Microagulhamento,1980.99,Pagamento - Pietra Montenegro
+2026-05-07,entrada,Avaliação,1124.84,Pagamento - Marina Brito
+2026-05-08,saida,Impostos,2590.93,Pagamento - Folha de pagamento
+2026-05-08,entrada,Harmonização facial,1007.91,Pagamento - Ana Luiza Alves
+2026-05-08,entrada,Botox,1194.23,Pagamento - Cecília Moreira
+2026-05-08,entrada,Limpeza de pele,1292.03,Pagamento - Kamilly da Conceição
+2026-05-08,entrada,Peeling,1257.52,Pagamento - Alexia Ferreira
+2026-05-08,entrada,Peeling,607.11,Pagamento - Melissa Fernandes
+2026-05-08,entrada,Preenchimento,646.35,Pagamento - Lívia Caldeira
+2026-05-08,entrada,Harmonização facial,510.21,Pagamento - Bruna Correia
+2026-05-08,entrada,Harmonização facial,1574.89,Pagamento - Stella Cardoso
+2026-05-11,entrada,Botox,783.28,Pagamento - Ana Júlia Moraes
+2026-05-11,entrada,Preenchimento,970.09,Pagamento - Maya Azevedo
+2026-05-11,entrada,Preenchimento,1722.86,Pagamento - Maria Cecília Carvalho
+2026-05-11,entrada,Harmonização facial,349.09,Pagamento - Eloá Fernandes
+2026-05-11,entrada,Pacote tratamento,1712.19,Pagamento - Ana Cecília da Cruz
+2026-05-12,saida,Impostos,466.57,Pagamento - Folha de pagamento
+2026-05-12,entrada,Botox,1662.65,Pagamento - Maria Liz Sales
+2026-05-12,entrada,Harmonização facial,659.32,Pagamento - Melina Nunes
+2026-05-12,entrada,Botox,860.03,Pagamento - Eduarda Câmara
+2026-05-12,entrada,Botox,1415.49,Pagamento - Ana Júlia da Mata
+2026-05-12,entrada,Pacote tratamento,852.36,Pagamento - Emilly Vieira
+2026-05-12,entrada,Peeling,1310.15,Pagamento - Olivia Pereira
+2026-05-13,entrada,Depilação a laser,457.34,Pagamento - Gabrielly da Rosa
+2026-05-13,entrada,Peeling,602.62,Pagamento - Yasmin Nogueira
+2026-05-13,entrada,Depilação a laser,451.62,Pagamento - Júlia Montenegro
+2026-05-13,entrada,Limpeza de pele,577.0,Pagamento - Stella Cirino
+2026-05-13,entrada,Depilação a laser,784.39,Pagamento - Isabela Oliveira
+2026-05-13,entrada,Harmonização facial,505.02,Pagamento - Maria Luiza Marques
+2026-05-13,entrada,Pacote tratamento,1661.87,Pagamento - Maria Julia Sales
+2026-05-14,entrada,Pacote tratamento,756.41,Pagamento - Nicole Marques
+2026-05-14,entrada,Pacote tratamento,1805.2,Pagamento - Olívia Cassiano
+2026-05-14,entrada,Harmonização facial,910.38,Pagamento - Olívia das Neves
+2026-05-14,entrada,Preenchimento,1714.49,Pagamento - Vitória Rezende
+2026-05-14,entrada,Avaliação,639.78,Pagamento - Dra. Fernanda Farias
+2026-05-15,entrada,Depilação a laser,1678.69,Pagamento - Giovanna Silveira
+2026-05-15,entrada,Harmonização facial,1037.98,Pagamento - Maria Isis Marques
+2026-05-15,entrada,Depilação a laser,458.01,Pagamento - Vitória Aparecida
+2026-05-18,entrada,Pacote tratamento,1043.5,Pagamento - Ana Júlia Cavalcanti
+2026-05-18,entrada,Avaliação,442.75,Pagamento - Sarah Nascimento
+2026-05-18,entrada,Pacote tratamento,810.67,Pagamento - Catarina Ferreira
+2026-05-18,entrada,Harmonização facial,1882.13,Pagamento - Dra. Isabella Alves
+2026-05-18,entrada,Limpeza de pele,1400.94,Pagamento - Brenda Duarte
+2026-05-18,entrada,Avaliação,1370.25,Pagamento - Dra. Maria Cecília Macedo
+2026-05-19,saida,Marketing digital,3375.58,Pagamento - Aluguel
+2026-05-19,entrada,Preenchimento,1606.7,Pagamento - Maria Eduarda Caldeira
+2026-05-19,entrada,Peeling,904.28,Pagamento - Lunna Ribeiro
+2026-05-19,entrada,Preenchimento,1089.92,Pagamento - Manuela Leão
+2026-05-19,entrada,Avaliação,1027.14,Pagamento - Maria Luiza Fogaça
+2026-05-19,entrada,Botox,1172.8,Pagamento - Maria Laura Pereira
+2026-05-19,entrada,Botox,1236.69,Pagamento - Eloá Pinto
+2026-05-19,entrada,Peeling,1730.61,Pagamento - Srta. Hellena Costela
+2026-05-19,entrada,Avaliação,1022.35,Pagamento - Marcela Guerra
+2026-05-20,entrada,Depilação a laser,376.94,Pagamento - Maria Sophia Silveira
+2026-05-20,entrada,Depilação a laser,1790.48,Pagamento - Maria Luísa Caldeira
+2026-05-20,entrada,Peeling,833.71,Pagamento - Luara Azevedo
+2026-05-20,entrada,Pacote tratamento,1587.5,Pagamento - Maria Luísa Oliveira
+2026-05-20,saida,Folha de pagamento,21971.0,Pagamento fixo - Folha de pagamento
+2026-05-20,saida,Aluguel,6549.0,Pagamento fixo - Aluguel
+2026-05-21,saida,Aluguel,3347.84,Pagamento - Cosméticos
+2026-05-21,entrada,Limpeza de pele,614.65,Pagamento - Sra. Camila Cavalcante
+2026-05-21,entrada,Peeling,1781.75,Pagamento - Rebeca Nunes
+2026-05-21,entrada,Preenchimento,1037.46,Pagamento - Luna Barbosa
+2026-05-21,entrada,Botox,309.94,Pagamento - Ana Clara Barros
+2026-05-22,entrada,Limpeza de pele,1760.32,Pagamento - Kamilly Souza
+2026-05-22,entrada,Microagulhamento,1474.13,Pagamento - Nina Alves
+2026-05-22,entrada,Botox,"R$ 1.483,26",Pagamento - Bruna Silva
+2026-05-22,saida,Marketing digital,896.74,Pagamento - Aluguel
+2026-05-22,entrada,Botox,624.36,Pagamento - Pietra Martins
+2026-05-22,entrada,Pacote tratamento,814.76,Pagamento - Mirella Rocha
+2026-05-22,entrada,Depilação a laser,1667.89,Pagamento - Julia Vargas
+2026-05-22,entrada,Depilação a laser,1776.93,Pagamento - Mariane Santos
+2026-05-22,entrada,Preenchimento,512.65,Pagamento - Ísis da Mata
+2026-05-25,entrada,Avaliação,624.55,Pagamento - Fernanda Aragão
+2026-05-25,entrada,Peeling,1608.53,Pagamento - Agatha Vasconcelos
+2026-05-25,entrada,Harmonização facial,1105.78,Pagamento - Manuela Azevedo
+2026-05-25,entrada,Botox,497.98,Pagamento - Srta. Ayla Sales
+2026-05-25,entrada,Harmonização facial,1555.93,Pagamento - Alexia das Neves
+2026-05-25,entrada,Pacote tratamento,1938.57,Pagamento - Maria Sophia Aparecida
+2026-05-26,saida,Cosméticos,2533.28,Pagamento - Equipamentos
+2026-05-26,entrada,Avaliação,1998.34,Pagamento - Stephany Pereira
+2026-05-26,entrada,Pacote tratamento,1553.03,Pagamento - Nicole Gonçalves
+2026-05-26,entrada,Botox,474.53,Pagamento - Allana Câmara
+2026-05-26,entrada,Depilação a laser,386.57,Pagamento - Sra. Beatriz Pires
+2026-05-26,entrada,Depilação a laser,1965.13,Pagamento - Maria Julia Barros
+2026-05-26,entrada,Limpeza de pele,642.28,Pagamento - Eduarda Jesus
+2026-05-27,saida,Aluguel,2452.35,Pagamento - Cosméticos
+2026-05-27,entrada,Preenchimento,1141.14,Pagamento - Sra. Camila Borges
+2026-05-27,entrada,Depilação a laser,335.37,Pagamento - Ester Macedo
+2026-05-27,entrada,Microagulhamento,1062.15,Pagamento - Heloísa Ferreira
+2026-05-27,entrada,Depilação a laser,1811.54,Pagamento - Eduarda Nascimento
+2026-05-27,entrada,Depilação a laser,1279.89,Pagamento - Ana Sophia Santos
+2026-05-27,entrada,Botox,1198.12,Pagamento - Ana Freitas
+2026-05-27,entrada,Pacote tratamento,694.24,Pagamento - Maria Clara Silva
+2026-05-27,entrada,Avaliação,407.97,Pagamento - Melina Marques
+2026-05-28,entrada,Avaliação,673.49,Pagamento - Lavínia Caldeira
+2026-05-28,entrada,Microagulhamento,1866.95,Pagamento - Anna Liz Ramos
+2026-05-28,entrada,Pacote tratamento,522.97,Pagamento - Lívia Alves
+2026-05-28,entrada,Peeling,1529.09,Pagamento - Melissa Carvalho
+2026-05-29,saida,Cosméticos,4726.66,Pagamento - Cosméticos
+2026-05-29,entrada,Harmonização facial,1329.77,Pagamento - Maria Liz Albuquerque
+2026-05-29,entrada,Harmonização facial,594.59,Pagamento - Sra. Maria Vitória Brito
+2026-05-29,entrada,Peeling,1474.19,Pagamento - Ana Julia Sampaio
+2026-05-29,entrada,Harmonização facial,1357.13,Pagamento - Zoe da Paz
+2026-05-29,entrada,Microagulhamento,1653.15,Pagamento - Dra. Maitê Cassiano
+2026-05-29,entrada,Preenchimento,1434.0,Pagamento - Maria Luiza Porto
+2026-06-01,entrada,Harmonização facial,1707.51,Pagamento - Heloísa Castro
+2026-06-01,entrada,Limpeza de pele,656.04,Pagamento - Beatriz Azevedo
+2026-06-01,entrada,Botox,1998.74,Pagamento - Lívia Fogaça
+2026-06-01,entrada,Microagulhamento,1797.54,Pagamento - Anna Liz Pastor
+2026-06-01,entrada,Microagulhamento,1450.78,Pagamento - Bella Monteiro
+2026-06-02,entrada,Preenchimento,1255.37,Pagamento - Helena da Costa
+2026-06-02,entrada,Preenchimento,874.15,Pagamento - Eloá Pires
+2026-06-02,entrada,Preenchimento,1349.86,Pagamento - Giovanna Fernandes
+2026-06-03,entrada,Microagulhamento,1607.94,Pagamento - Zoe Novais
+2026-06-03,entrada,Avaliação,754.74,Pagamento - Ana Carolina Moura
+2026-06-03,entrada,Harmonização facial,1750.79,Pagamento - Agatha Campos
+2026-06-03,entrada,Avaliação,-1327.29,Pagamento - Raquel Leão
+2026-06-03,entrada,Preenchimento,1500.89,Pagamento - Brenda da Paz
+2026-06-04,entrada,Preenchimento,1700.14,Pagamento - Sra. Rebeca Barros
+2026-06-04,entrada,Pacote tratamento,1936.5,Pagamento - Ana Cecília da Costa
+2026-06-04,entrada,Preenchimento,1956.92,Pagamento - Daniela Borges
+2026-06-04,entrada,Botox,1162.42,Pagamento - Dra. Julia Barbosa
+2026-06-04,entrada,Harmonização facial,1370.87,Pagamento - Stella Ramos
+2026-06-04,entrada,Limpeza de pele,1848.68,Pagamento - Isabelly Cavalcante
+2026-06-04,saida,Insumos médicos,3599.18,Pagamento - Impostos
+2026-06-05,saida,Folha de pagamento,22049.0,Pagamento fixo - Folha de pagamento
+2026-06-05,saida,Aluguel,6493.0,Pagamento fixo - Aluguel
+2026-06-05,entrada,Depilação a laser,"R$ 1.607,67",Pagamento - Rafaela Leão
+2026-06-05,entrada,Limpeza de pele,1046.48,Pagamento - Yasmin Nogueira
+2026-06-05,entrada,Botox,717.04,Pagamento - Dra. Maria Julia Melo
+2026-06-05,entrada,Microagulhamento,868.83,Pagamento - Stella Castro
+2026-06-05,entrada,Harmonização facial,509.07,Pagamento - Lunna Souza
+2026-06-05,entrada,Preenchimento,562.3,Pagamento - Emilly Vasconcelos
+2026-06-05,entrada,Pacote tratamento,1545.34,Pagamento - Laís Pacheco
+2026-06-08,entrada,Limpeza de pele,534.59,Pagamento - Sofia Martins
+2026-06-08,entrada,Avaliação,1016.93,Pagamento - Maria Flor Pacheco
+2026-06-08,entrada,Limpeza de pele,557.74,Pagamento - Maya Santos
+2026-06-08,entrada,Depilação a laser,1002.8,Pagamento - Isis Ribeiro
+2026-06-08,entrada,Microagulhamento,1515.84,Pagamento - Liz Barros
+2026-06-08,entrada,Harmonização facial,444.9,Pagamento - Ana Julia Nogueira
+2026-06-08,entrada,Depilação a laser,913.09,Pagamento - Alexia Silveira
+2026-06-09,entrada,Avaliação,1650.83,Pagamento - Lara Gomes
+2026-06-09,entrada,Microagulhamento,1904.36,Pagamento - Aurora Freitas
+2026-06-09,entrada,Pacote tratamento,547.49,Pagamento - Fernanda Novaes
+2026-06-09,entrada,Botox,1519.96,Pagamento - Valentina Rezende
+2026-06-09,entrada,Avaliação,1904.19,Pagamento - Sarah Lopes
+2026-06-09,entrada,Preenchimento,875.12,Pagamento - Sra. Pietra Silveira
+2026-06-10,entrada,Botox,1962.15,Pagamento - Natália Macedo
+2026-06-10,entrada,Depilação a laser,404.5,Pagamento - Luísa Vieira
+2026-06-10,entrada,Botox,1422.3,Pagamento - Eloah Pacheco
+2026-06-10,entrada,Harmonização facial,1834.27,Pagamento - Maitê Sousa
+2026-06-11,entrada,Harmonização facial,1490.5,Pagamento - Heloisa Garcia
+2026-06-11,entrada,Avaliação,1337.68,Pagamento - Zoe Cardoso
+2026-06-11,entrada,Pacote tratamento,1394.59,Pagamento - Maria Julia Araújo
+2026-06-11,entrada,Botox,1705.91,Pagamento - Bianca Caldeira
+2026-06-11,entrada,Microagulhamento,1845.69,Pagamento - Maria Flor Cavalcante
+2026-06-11,entrada,Avaliação,1785.03,Pagamento - Ana Beatriz Nascimento
+2026-06-11,entrada,Depilação a laser,983.4,Pagamento - Dra. Fernanda da Mota
+2026-06-11,entrada,Avaliação,1953.52,Pagamento - Ísis Duarte
+2026-06-12,entrada,Preenchimento,1169.84,Pagamento - Maria Fernanda Macedo
+2026-06-12,entrada,Harmonização facial,1184.8,Pagamento - Ayla Cavalcanti
+2026-06-12,entrada,Avaliação,868.64,Pagamento - Carolina Guerra
+2026-06-12,entrada,Avaliação,782.68,Pagamento - Laura Novais
+2026-06-12,entrada,Depilação a laser,1618.18,Pagamento - Sarah Guerra
+2026-06-12,entrada,Pacote tratamento,1485.7,Pagamento - Ana Júlia Garcia
+2026-06-12,entrada,Peeling,443.28,Pagamento - Eloá Fernandes
+2026-06-15,entrada,Harmonização facial,339.82,Pagamento - Gabriela Vieira
+2026-06-15,entrada,Avaliação,1307.26,Pagamento - Maria Luiza Martins
+2026-06-15,entrada,Limpeza de pele,1714.79,Pagamento - Cecilia Rodrigues
+2026-06-15,entrada,Peeling,1535.07,Pagamento - Esther Cassiano
+2026-06-15,entrada,Avaliação,487.75,Pagamento - Ayla Rios
+2026-06-15,saida,Insumos médicos,1446.83,Pagamento - Equipamentos
+2026-06-16,saida,Insumos médicos,1565.77,Pagamento - Impostos
+2026-06-16,entrada,Limpeza de pele,1669.16,Pagamento - Dra. Lavínia Fonseca
+2026-06-16,entrada,Avaliação,1735.64,Pagamento - Lavínia Cunha
+2026-06-16,entrada,Preenchimento,1062.85,Pagamento - Eloah Lima
+2026-06-16,entrada,Preenchimento,381.15,Pagamento - Esther Aragão
+2026-06-16,entrada,Botox,1070.35,Pagamento - Dra. Zoe Pereira
+2026-06-17,saida,Aluguel,2341.59,Pagamento - Insumos médicos
+2026-06-17,entrada,Depilação a laser,439.31,Pagamento - Pietra Rocha
+2026-06-17,entrada,Harmonização facial,1509.79,Pagamento - Luísa Rios
+2026-06-17,entrada,Microagulhamento,1072.33,Pagamento - Luiza Cassiano
+2026-06-17,entrada,Botox,1022.31,Pagamento - Luísa Rocha
+2026-06-17,entrada,Preenchimento,857.34,Pagamento - Maria Lima
+2026-06-17,entrada,Avaliação,1553.77,Pagamento - Hadassa Castro
+2026-06-17,entrada,Harmonização facial,1514.4,Pagamento - Jade Garcia
+2026-06-17,entrada,Limpeza de pele,1698.83,Pagamento - Júlia Ferreira
+2026-06-18,entrada,Avaliação,984.68,Pagamento - Maria Luísa Fogaça
+2026-06-18,entrada,Avaliação,1182.21,Pagamento - Eloah da Cruz
+2026-06-18,entrada,Depilação a laser,1782.43,Pagamento - Sophia Moreira
+2026-06-18,entrada,Pacote tratamento,1381.98,Pagamento - Lavínia da Rosa
+2026-06-18,entrada,Pacote tratamento,1471.33,Pagamento - Gabrielly Souza
+2026-06-18,entrada,Pacote tratamento,1543.92,Pagamento - Heloisa Rodrigues
+2026-06-18,entrada,Depilação a laser,1700.48,Pagamento - Alana Melo
+2026-06-18,entrada,Harmonização facial,1159.84,Pagamento - Srta. Sabrina Guerra
+2026-06-19,entrada,Harmonização facial,1904.92,Pagamento - Giovanna Aparecida
+2026-06-19,entrada,Pacote tratamento,1104.7,Pagamento - Mariah Costela
+2026-06-19,entrada,Microagulhamento,1866.89,Pagamento - Nina da Rocha
+2026-06-19,entrada,Avaliação,1767.56,Pagamento - Caroline Vasconcelos
+2026-06-19,entrada,Harmonização facial,1945.65,Pagamento - Vitória Aparecida
+2026-06-19,entrada,Preenchimento,1480.6,Pagamento - Srta. Maysa Rocha
+2026-06-19,saida,Impostos,2161.38,Pagamento - Folha de pagamento
