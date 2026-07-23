@@ -8,13 +8,7 @@ from fastmcp import FastMCP
 from kpis import (
     datasets_necessarios as _datasets_necessarios,
     get_estoque_criticos,
-    get_taxa_cancelamento,
     get_taxa_comparecimento,
-)
-
-_DRIVE_HINT = (
-    "Busque as planilhas LIMPAS no Drive: agenda_julho_limpo (ocupação/cancelamento) "
-    "e estoque_limpo (estoque crítico). download_file_content com exportMimeType=text/csv."
 )
 
 mcp = FastMCP("AestheticsClinique")
@@ -28,10 +22,7 @@ def datasets_necessarios() -> dict:
 
 @mcp.tool()
 def taxa_comparecimento(agenda_csv: str, fonte_arquivo: str | None = None) -> dict:
-    f"""Taxa de comparecimento da última semana (agenda).
-
-    {_DRIVE_HINT}
-    """
+    """Taxa de comparecimento da última semana (agenda)."""
     result = get_taxa_comparecimento(agenda_csv)
 
     if fonte_arquivo:
@@ -39,24 +30,10 @@ def taxa_comparecimento(agenda_csv: str, fonte_arquivo: str | None = None) -> di
     return result
 
 
-@mcp.tool()
-def taxa_cancelamento(agenda_csv: str, fonte_arquivo: str | None = None) -> dict:
-    f"""Taxa de cancelamento dos últimos 30 dias (agenda).
-
-    {_DRIVE_HINT}
-    """
-    result = get_taxa_cancelamento(agenda_csv)
-    if fonte_arquivo:
-        result["fonte_arquivo"] = fonte_arquivo
-    return result
-
 
 @mcp.tool()
 def estoque_criticos(estoque_csv: str, fonte_arquivo: str | None = None) -> dict:
-    f"""Itens do estoque abaixo do mínimo.
-
-    {_DRIVE_HINT}
-    """
+    """Itens do estoque abaixo do mínimo."""
     result = get_estoque_criticos(estoque_csv)
     if fonte_arquivo:
         result["fonte_arquivo"] = fonte_arquivo
@@ -67,5 +44,6 @@ def estoque_criticos(estoque_csv: str, fonte_arquivo: str | None = None) -> dict
 # faturamento_mes, top_procedimentos, tendencia_faturamento, taxa_cancelamento
 
 
+# Execute este trecho apenas quando este arquivo for executado diretamente.
 if __name__ == "__main__":
     mcp.run()
