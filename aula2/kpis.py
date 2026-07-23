@@ -45,29 +45,6 @@ def get_taxa_comparecimento(agenda_csv: str) -> dict:
     }
 
 
-# ---------------------------------------------------------------------------
-# 2. Taxa de cancelamento — últimos 30 dias
-# ---------------------------------------------------------------------------
-
-def get_taxa_cancelamento(agenda_csv: str) -> dict:
-    df = carregar_csv(agenda_csv)
-    df["data"] = pd.to_datetime(df["data"])
-
-    hoje = datetime.today().date()
-    inicio = hoje - timedelta(days=30)
-    periodo = df[df["data"].dt.date.between(inicio, hoje)]
-
-    total = len(periodo)
-    cancelados = (periodo["status"] == "cancelado").sum()
-    taxa = round(cancelados / total * 100, 1) if total > 0 else 0.0
-
-    return {
-        "periodo": f"{inicio} a {hoje}",
-        "total_agendamentos": int(total),
-        "cancelados": int(cancelados),
-        "taxa_cancelamento_pct": float(taxa),
-    }
-
 
 # ---------------------------------------------------------------------------
 # 3. Estoque crítico
@@ -87,15 +64,6 @@ def get_estoque_criticos(estoque_csv: str) -> dict:
         ),
     }
 
-
-# ---------------------------------------------------------------------------
-# TODO — evoluir depois da aula
-# ---------------------------------------------------------------------------
-# def get_faturamento_mes(financeiro_limpo): ...
-# def get_top_procedimentos(agenda_limpa): ...
-# def get_taxa_cancelamento()
-
-
 def datasets_necessarios() -> dict:
     return {
         "workflow": [
@@ -114,3 +82,38 @@ def datasets_necessarios() -> dict:
             },
         },
     }
+
+
+# # ---------------------------------------------------------------------------
+# # 2. Taxa de cancelamento — últimos 30 dias
+# # ---------------------------------------------------------------------------
+
+# def get_taxa_cancelamento(agenda_csv: str) -> dict:
+#     df = carregar_csv(agenda_csv)
+#     df["data"] = pd.to_datetime(df["data"])
+
+#     hoje = datetime.today().date()
+#     inicio = hoje - timedelta(days=30)
+#     periodo = df[df["data"].dt.date.between(inicio, hoje)]
+
+#     total = len(periodo)
+#     cancelados = (periodo["status"] == "cancelado").sum()
+#     taxa = round(cancelados / total * 100, 1) if total > 0 else 0.0
+
+#     return {
+#         "periodo": f"{inicio} a {hoje}",
+#         "total_agendamentos": int(total),
+#         "cancelados": int(cancelados),
+#         "taxa_cancelamento_pct": float(taxa),
+#     }
+
+
+# ---------------------------------------------------------------------------
+# TODO — evoluir depois da aula
+# ---------------------------------------------------------------------------
+# def get_faturamento_mes(financeiro_limpo): ...
+# def get_top_procedimentos(agenda_limpa): ...
+# def get_taxa_cancelamento()
+
+
+
