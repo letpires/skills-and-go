@@ -14,6 +14,10 @@ Fluxo esperado:
 2. Baixa o conteúdo como CSV (`download_file_content` com `exportMimeType=text/csv`)
 3. Passa o texto CSV para as tools do servidor local
 
+## Arquitetura / workflow do agente
+
+![Workflow do agente](workflow%20agente.png)
+
 ---
 
 ## Pré-requisitos
@@ -304,9 +308,10 @@ Windows: `%APPDATA%\Claude\logs\`
 
 ```
 aula2/
-├── mcp_server.py      # FastMCP — tools expostas ao Claude
-├── kpis.py            # cálculo dos KPIs
-├── requirements.txt   # fastmcp, pandas
-├── .venv/             # ambiente local (não versionar)
+├── mcp_server.py           # FastMCP — tools expostas ao Claude
+├── kpis.py                 # cálculo dos KPIs
+├── workflow agente.png     # diagrama do fluxo do agente
+├── requirements.txt        # fastmcp, pandas
+├── .venv/                  # ambiente local (não versionar)
 └── README.md
 ```
