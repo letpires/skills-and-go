@@ -9,7 +9,7 @@ from kpis import (
     datasets_necessarios as _datasets_necessarios,
     get_estoque_criticos,
     get_taxa_cancelamento,
-    get_taxa_ocupacao,
+    get_taxa_comparecimento,
 )
 
 _DRIVE_HINT = (
@@ -27,12 +27,12 @@ def datasets_necessarios() -> dict:
 
 
 @mcp.tool()
-def taxa_ocupacao(agenda_csv: str, fonte_arquivo: str | None = None) -> dict:
-    f"""Taxa de ocupação da última semana (agenda).
+def taxa_comparecimento(agenda_csv: str, fonte_arquivo: str | None = None) -> dict:
+    f"""Taxa de comparecimento da última semana (agenda).
 
     {_DRIVE_HINT}
     """
-    result = get_taxa_ocupacao(agenda_csv)
+    result = get_taxa_comparecimento(agenda_csv)
 
     if fonte_arquivo:
         result["fonte_arquivo"] = fonte_arquivo

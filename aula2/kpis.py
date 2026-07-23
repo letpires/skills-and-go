@@ -20,10 +20,10 @@ def carregar_csv(csv_texto: str) -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------------------
-# 1. Taxa de ocupação — última semana
+# 1. Taxa de comparecimento — última semana
 # ---------------------------------------------------------------------------
 
-def get_taxa_ocupacao(agenda_csv: str) -> dict:
+def get_taxa_comparecimento(agenda_csv: str) -> dict:
     df = carregar_csv(agenda_csv)
     df["data"] = pd.to_datetime(df["data"])
 
@@ -41,7 +41,7 @@ def get_taxa_ocupacao(agenda_csv: str) -> dict:
         "total_agendamentos": int(total),
         "realizados": int(realizados),
         "cancelados": int(cancelados),
-        "taxa_ocupacao_pct": float(taxa),
+        "taxa_comparecimento_pct": float(taxa),
     }
 
 
@@ -106,7 +106,7 @@ def datasets_necessarios() -> dict:
         "planilhas": {
             "agenda_limpa": {
                 "busca": "title contains 'agenda_limpa'",
-                "tools": ["taxa_ocupacao", "taxa_cancelamento"],
+                "tools": ["taxa_comparecimento", "taxa_cancelamento"],
             },
             "estoque_limpo": {
                 "busca": "title contains 'estoque_limpo'",
