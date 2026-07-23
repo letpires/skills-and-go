@@ -13,7 +13,7 @@ from kpis import (
 )
 
 _DRIVE_HINT = (
-    "Busque as planilhas LIMPAS no Drive: agenda_limpa (ocupação/cancelamento) "
+    "Busque as planilhas LIMPAS no Drive: agenda_julho_limpo (ocupação/cancelamento) "
     "e estoque_limpo (estoque crítico). download_file_content com exportMimeType=text/csv."
 )
 
