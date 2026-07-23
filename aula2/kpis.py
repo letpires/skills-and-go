@@ -1,7 +1,7 @@
 """KPIs da clínica — dados já limpos na aula 1, aqui só calcula.
 
 Fluxo (Claude + Drive MCP):
-  1. Drive MCP busca agenda_limpa / estoque_limpo
+  1. Drive MCP busca agenda_julho_limpo / estoque_limpo
   2. Agente passa o CSV para a tool
   3. pd.read_csv → KPI
 """
@@ -72,8 +72,8 @@ def datasets_necessarios() -> dict:
             "3. Passar o texto CSV para a tool",
         ],
         "planilhas": {
-            "agenda_limpa": {
-                "busca": "title contains 'agenda_limpa'",
+            "agenda_julho_limpo": {
+                "busca": "title contains 'agenda_julho_limpo'",
                 "tools": ["taxa_comparecimento", "taxa_cancelamento"],
             },
             "estoque_limpo": {
